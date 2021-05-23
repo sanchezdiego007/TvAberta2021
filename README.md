@@ -26,18 +26,23 @@ http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
 http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
 
 
-#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo RJ
+#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo 
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
-#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo RJ HD
+#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 
-#EXTINF:-1 group-title="Especial" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading
-https://cdn-1.nxplay.com.br/IDEAL_TV_HD_01/video.m3u8?token=
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp",Rede Clone
+https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w942049667.m3u8
 
-#EXTINF:-1 group-title="Especial" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading 2
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+#EXTINF:-1 group-title="Especial" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading
+https://stmv2.vhcast.com/aetv/aetv/chunklist_w877876138.m3u8
+
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp",Tv Nova play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1900735603.m3u8
+
 
 
 
@@ -729,7 +734,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b3960007
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes1 
-http://c2.manasat.com:1935/kcine/kcine3/FluxusTV.m3u8?IMDSFULL
+https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes2 
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
@@ -1228,9 +1233,34 @@ https://play-akamai.pongalo.com/the-hypnotist_pt/the-hypnotist_pt_1-1/play_v1_hl
 #EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/anjos-da-guarda_pt/anjos-da-guarda_pt_landscape.jpg" group-title="Brinde",Anjos da Guarda
 https://play-akamai.pongalo.com/anjos-da-guarda_pt/anjos-da-guarda_pt_1-1/play_v1_hls_540p.m3u8?access-key=dada59497605e6990e3bdc2f0f7bd68a27e3ed64
 
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/14/08/19/16/38/290613.jpg" group-title="Brinde",Sem lei
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/604f8753e7c979001a8a8696/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=false&architecture=&deviceId=3e35f573-a063-46eb-bf80-3fbd13c020cd&deviceVersion=90.0.4430.93&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&deviceType=web&deviceMake=Chrome&sid=59173023-bbeb-11eb-81a6-0242ac110002&advertisingId=&deviceLat=-23.2909&deviceLon=-45.9743&deviceDNT=0&deviceModel=web&userId=&appName=web
+
+#EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/redbad_pt/redbad_pt_200x300.jpg" group-title="Brinde",Red Bad
+https://play-akamai.pongalo.com/redbad_pt/redbad_pt_1-1/play_v1_hls_540p.m3u8?access-key=44ba40a7b91aab628e411fbaa72dcf81bfe65b98
+
+#EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/quantum-apocalypse_pt/quantum-apocalypse_pt_200x300.jpg" group-title="Brinde",Apocalypse
+https://play-akamai.pongalo.com/quantum-apocalypse_pt/quantum-apocalypse_pt_1-1/play_v1_hls_540p.m3u8?access-key=e88d9a6b6447cea345a591f51d4430356f98a65a
+
+#EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/explore_pt/explore_pt_1-24_landscape.jpg" group-title="Brinde",Pandemia
+https://play-akamai.pongalo.com/explore_pt/explore_pt_1-24/hls_1000_.m3u8?access-key=006ce30e2da6fbdb615cdcc0c0e649f64b53f906
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/e/ea/Godzilla_vs._Kong.jpg/250px-Godzilla_vs._Kong.jpg" group-title="Brinde",Godzilla vs. Kong
+https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
+
+#EXTINF:-1 tvg-logo="https://ogimg.infoglobo.com.br/in/24929707-182-1a0/FT1086A/xZackSnyders_JusticeLeague_STD_H_DD_KA_TT_3840x2160_300dpi_BR.jpg.pagespeed.ic.g-GlLEVF3u.jpg" group-title="Brinde",Liga da Justiça
+https://p2p-2.onicdn.com/a544c9289ed7d0444a5457bd9fc616ee.m3u8
 
 
 
+
+
+
+
+
+
+https://ogimg.infoglobo.com.br/in/24929707-182-1a0/FT1086A/xZackSnyders_JusticeLeague_STD_H_DD_KA_TT_3840x2160_300dpi_BR.jpg.pagespeed.ic.g-GlLEVF3u.jpg
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/cctv1.png" group-title="Variedades", CCTV
@@ -1425,3 +1455,8 @@ http://6d9a.webradio.upx.net.br:8016/stream?
 http://192.99.150.31:9191/stream?
 #EXTINF:-1 group-title="SOUND!" tvg-logo="https://pbs.twimg.com/profile_images/550137433547747328/_3JibG9G.jpeg" TVG-NAME=''RADIO=TRUE,TRILHAS SONORAS
 http://6d9a.webradio.upx.net.br:9896/stream?  
+
+
+
+
+
