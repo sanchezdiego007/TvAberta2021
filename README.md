@@ -513,7 +513,7 @@ https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN SÃ£o Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN SÃ£o Paulo
+#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN SÃ£o Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
@@ -1208,13 +1208,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672
 
 
 
-#EXTINF:0 channel-id="vevo-reggaeton-and-trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Vevo ReggaetÃ³n & Trap
+#EXTINF:0 channel-id="vevo-reggaeton-and-trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Vevo", Vevo Reggae & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-country" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Vevo Country
+#EXTINF:0 channel-id="vevo-country" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Vevo", Vevo Country
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-randb" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Vevo R&B
+#EXTINF:0 channel-id="vevo-randb" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Vevo", Vevo R&B
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="vevo-pop" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Vevo", Vevo Pop
@@ -1248,7 +1248,7 @@ http://cdn.tvmatic.net/fight.m3u8
 http://cdn.tvmatic.net/funny.m3u8
 #EXTINF:-1 tvg-id="TVMaticSport.br" tvg-name="TVMatic Sport" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Sport
 http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-id="TVMaticTikTok.br" tvg-name="TVMatic" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="Zugphi | Outros", TVMatic TikTok
+#EXTINF:-1 tvg-id="TVMaticTikTok.br" tvg-name="TVMatic" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic TikTok
 http://cdn.tvmatic.net/tiktok.m3u8
 
 
