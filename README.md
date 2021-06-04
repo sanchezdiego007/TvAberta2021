@@ -1187,7 +1187,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/85/8a/66858a28798dfd6be649831c3c8005a8.png" group-title="MTV", MTV Black
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
-#EXTINF:0 channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="PLUTO TV ESTADOS UNIDOS", Live Music Replay
+#EXTINF:0 channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Vevo", Live Music Replay
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="cmt-equal-play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="MTV", MTV USA
