@@ -220,15 +220,18 @@ https://live-fe-as-04-12.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Brinde
-http://105m3u8.epg-kc.com/v3/youshi/m1_PwsKRjIegyASUaYBiH3ou5LT_480p.m3u8?session_id=ANjOB6VN1kU&app_ver=10101&auth_id=44641194_com.global.brasiltvweb&client_ip=187.95.16.133&user_id=44641194&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=2419243c&expired=1622847279&token=8DC9AA40EE6C9847BC6AF8903673741F&media_code=m1_PwsKRjIegyASUaYBiH3ou5LT_480p
+https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
+
+
+
 
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/50pf8qezghnalfptgsjlsqy4co1893sx/playlist.m3u8
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT
-https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w1413584121.m3u8
+https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
  
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT 
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
@@ -686,7 +689,7 @@ https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes4
-https://5e36c064a2f6a.streamlock.net:1936/8310/8310/chunklist_w1731136153.m3u8
+https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Series
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
@@ -698,10 +701,15 @@ https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w120315536.m3u8
 http://stmv2.euroti.com.br:1935/classique/classique/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Filmes Classic 2
-https://video01.kshost.com.br/jorge1313/jorge1313/chunklist_w429670914.m3u8
+https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w256697702.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Filmes Classic 3
 https://srv2.zcast.com.br/cleto2085/cleto2085/chunklist_w102204272.m3u8
+
+
+
+
+
 
 
 
@@ -811,15 +819,11 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w555655656.m3u8
 
 
 
-#EXTINF:0 tvg-id=""https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="Infantil",Play Kids
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFULL
-https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="http://i.imgur.com/sFwOnxG.png" group-title="Infantil",Play Kids
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_360_av-p.m3u8?IMDSFULL
 
-#EXTINF:0 tvg-id="" tvg-logo="http://i.imgur.com/sFwOnxG.png" group-title="Infantil",Play Kids HD
-http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8?IMDSFULL
+
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="Infantil", Urban Kids
+https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://img2.gratispng.com/20180403/ixw/kisspng-logo-child-church-christian-ministry-kids-5ac315bed48229.9619473715227345268704.jpg" group-title="Infantil",Kids Gamers
 https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w2142198932.m3u8
@@ -846,6 +850,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 
 #EXTINF:0 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5f6df6293a12e10007017396/featuredImage.jpg?w=175&fm=jpg&q=75&fit=fill&fill=blur" group-title="Infantil",Rocko
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=479ed5eb-656c-11eb-9e0f-0242ac110002&sid=479ed5eb-656c-11eb-9e0f-0242ac110002&userId=
+
+
+
+
 
 
 
@@ -1052,10 +1060,13 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1
 
 
 
+
+
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1adbd8812fb29f4d3e883381302329aa.webp" group-title="Especial",Geg TV
 https://5c483b9d1019c.streamlock.net/8064/8064/chunklist_w833587699.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Especial",Animax
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Infantil",Animax
 https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w1054062807.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9fe845cd9712092b91454b965439f667.png" group-title="Especial",Tv P
@@ -1064,18 +1075,12 @@ https://stmv3.samcast.com.br/romeu6622/romeu6622/chunklist_w117002735.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d8ea456a45f1f4837ffb24db7646f8f.png" group-title="Especial",Tv cine
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8d5b4b2395106fd4d2c132f22b5e70c9.png" group-title="Especial",Tv 8 Brasil
-https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e46b6957a4c9e7cabdefbeb8cf7f7fbb.png" group-title="Especial",TV A Folha
-https://video01.kshost.com.br/elton3601/elton3601/chunklist_w813166505.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/75494ab301a5ecdedde5c7723c7066b5.png" group-title="Especial",TV Max 90
 https://5cf4a2c2512a2.streamlock.net/max90fm/max90fm/chunklist_w341193917.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3dcbe9f6b928b1abe4f4efb9afabb837.jpg" group-title="Especial",THE FESTV
-https://video01.kshost.com.br/jm1780/jm1780/chunklist_w708184983.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/879001b49f0330143eed3e34653e17c3.jpg" group-title="Especial",TV Networks
 https://serv3.videovox.pw/alexandre4108/alexandre4108/chunklist_w202674594.m3u8
@@ -1115,18 +1120,18 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b760007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=479ed5eb-656c-11eb-9e0f-0242ac110002&sid=479ed5eb-656c-11eb-9e0f-0242ac110002&userId=
 
 
-#EXTINF:-1 group-title="Especial" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil
+#EXTINF:-1 group-title="Urban TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/playlist.m3u8
 
-#EXTINF:-1 group-title="Especial" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil 2
+#EXTINF:-1 group-title="Urban TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil 2
 https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-docs.png" group-title="Especial", Urban Docs
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-docs.png" group-title="Urban TV", Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-movies.png" group-title="Especial", Cinema Urbano
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-movies.png" group-title="Urban TV", Cinema Urbano
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="Especial", Urban Kids
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="Urban TV", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-series.png" group-title="Especial", Urban Séries
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-series.png" group-title="Urban TV", Urban Séries
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8
 
 
@@ -1149,8 +1154,6 @@ https://5f1ce9c7dc62b.streamlock.net/soultv/soultv/chunklist_w1401097117.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4f8691aaf35e0a5d933b22ccab66c306.png" group-title="Especial",Rede TGA
 https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/chunklist_w1817295282.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5a49c0b589b2e88a6309229910204bbb.png" group-title="Especial",Sic TV
-https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/chunklist_w1817295282.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e20a859ee6fe9171dd3047af6be1e73e.jpg" group-title="Especial",BS TV
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w79070072.m3u8
@@ -1158,8 +1161,7 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w79070072.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/61f20e9e618563f9a3bd6c089aa3a59d.png" group-title="Especial",Anime TV
 https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1860886889.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3c250c5e51462fb5111b10cc2374ea5.png" group-title="Especial",Tv America
-https://srv4.zcast.com.br/tvamerica/tvamerica/chunklist_w74092208.m3u8
+
 
 
 
@@ -1187,7 +1189,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/85/8a/66858a28798dfd6be649831c3c8005a8.png" group-title="MTV", MTV Black
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
-#EXTINF:0 channel-id="live-music-replay" tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Vevo", Live Music Replay
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Vevo", Live Music 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="cmt-equal-play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="MTV", MTV USA
