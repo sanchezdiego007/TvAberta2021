@@ -2,7 +2,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT SP
-http://dd8umsy8yf96u.cloudfront.net/live/cnt-americana_240p414k/index.m3u8
+http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT RJ
 http://dd8umsy8yf96u.cloudfront.net/live/cnt-rio_240p414k/index.m3u8
@@ -34,8 +34,8 @@ http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?sessio
 
 
 
-
-
+#EXTINF:-1 group-title="Especial" tvg-logo="https://scontent.fsjk7-1.fna.fbcdn.net/v/t1.18169-9/15327279_10154192307687799_8929960002087832557_n.png?_nc_cat=109&ccb=1-3&_nc_sid=09cbfe&_nc_eui2=AeFsnSdxZXsBOO4tthvi9rN-4eQE8opz4YDh5ATyinPhgBJkxlUheqkd8ei8B7xJSvxuPMUr6KPo9R7_-OabikIp&_nc_ohc=KQsLqwJHKiIAX-Pam8v&_nc_ht=scontent.fsjk7-1.fna&oh=35b01b803cec9277f24754c292faf596&oe=60E25D93",Earth TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/chunklist.m3u8?token=EAIY6wE4tYjUM0CIHUgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.7A0Ye3iCSkCfp1o6WBMUNd2G9Snn7CpM2GgNQVORO84T0yVDjFt7rToBwy-D2NEnxSC_elOlTsIt-xOL4a7qvA
 
 #EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp",Rede Clone
 https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w942049667.m3u8
