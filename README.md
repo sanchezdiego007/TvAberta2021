@@ -677,7 +677,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b3960007
 
 
 
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes1 
 https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
@@ -690,6 +690,26 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes4
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes5 
+https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes6
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w645826328.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes7
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes8
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes9
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes10
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes",Series
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
@@ -1061,7 +1081,8 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w1
 
 
 
-
+#EXTINF:-1 group-title="Especial" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading 
+https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1adbd8812fb29f4d3e883381302329aa.webp" group-title="Especial",Geg TV
 https://5c483b9d1019c.streamlock.net/8064/8064/chunklist_w833587699.m3u8
