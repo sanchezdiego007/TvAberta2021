@@ -522,7 +522,7 @@ https://5d2c98775bafe.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN Rio
 https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
 
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN SÃ£o Paulo
+#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN Sao Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="Jornalismo",CBN Sao Paulo
 https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
