@@ -725,7 +725,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b3960007
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 1 
-https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
+https://play-akamai.pongalo.com/game-death_pt/game-death_pt_1-1/play_v1_hls_720p.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 2 
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
@@ -1486,7 +1486,7 @@ https://play-akamai.pongalo.com/explore_pt/explore_pt_1-24/hls_1000_.m3u8?access
 https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
 
 #EXTINF:-1 tvg-logo="https://ogimg.infoglobo.com.br/in/24929707-182-1a0/FT1086A/xZackSnyders_JusticeLeague_STD_H_DD_KA_TT_3840x2160_300dpi_BR.jpg.pagespeed.ic.g-GlLEVF3u.jpg" group-title="Brinde",Liga da Justiça
-https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
+https://www619.ff-02.com/token=FUnkeLLjQYaDdHddphuhUg/1623541577/187.95.0.0/156/c/b4/805657a1d41539fe2c2b45ec11fe4b4c-480p.mp4
 
 
 
