@@ -1,3 +1,4 @@
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
@@ -39,6 +40,14 @@ http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?sessio
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 3
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
+
+#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 4
+https://live-fe-as-02-25.video.globo.com/d/nl/s/hls-globo-sjc/playlist.m3u8?h=04016235243485512619962162352782853363947988o1iqGh_OK9oX9SSsfelJA&k=html5&a=F&u=f057773a-8cde-4977-8bdf-93a3e5ec3118
+
+#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 5
+https://live-fe-as-02-25.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
+
+
 
 
 
@@ -209,11 +218,16 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1537275886_b2
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1258310726.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Brinde", Jetson tv
+#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Infantil", Jetson tv
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Brinde", Jetson tv 2
+#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Infantil", Jetson tv 2
 https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lETNNUshBgoeFbw91fzdulIernh.jpg" group-title="Brinde", Velozes Furiosos 9 Cinema
+https://www655.ff-02.com/token=j3_nqxXwH56o7hTnKesTjw/1623540836/187.95.0.0/170/0/50/dc79e74f49d73ae7761f206aa0694500-480p.mp4
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AomupwyaNdyry1sMHsRO5NmOUyx.jpg" group-title="Brinde", Simpson Maggie 2021
+https://www1516.ff-04.com/token=hSy7LLD5fbKxP0yrOD_Fhg/1623541230/187.95.0.0/159/4/20/ff6b3af57e1bc4abe8bd1926a113b204-480p.mp4
 
 
 
@@ -426,8 +440,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 3
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
-
-
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 4
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1575960143.m3u8
 
 
 
@@ -504,6 +518,9 @@ https://play-akamai.pongalo.com/kanye-glastonbury/kanye-glastonbury_1-1/hls_1500
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band News 2
+https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w389063840.m3u8
 
 
 #EXTINF:-1 group-title="Jornalismo" tvg-logo="https://www.easydeliver.com.br/wp-content/themes/encore/images/media-logo/globo_news_pb.png" ,Globo News
@@ -880,12 +897,18 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w25604577.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+https://29hm3pwm68.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=TcsRClkSraQox3GLxPFs3Q&e=1623546806
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport Fight
 http://210.210.155.35/session/8f8646f6-655f-11eb-b375-8eff9cd4058a/uq2663/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 2
+https://29hm3pwm68.azcdn107.net:8443/hls/u225jtufy2dkv.m3u8?s=tNhzpNFvk6iat0fCcVrvWQ&e=1623546937
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 3
+https://29hm3pwm68.azcdn107.net:8443/hls/t69y1s69ffvz.m3u8?s=B0v5lXxgth01D6VOiAei1A&e=1623547020
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 4
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports
