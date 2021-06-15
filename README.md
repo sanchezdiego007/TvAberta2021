@@ -897,16 +897,16 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w25604577.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
-https://29hm3pwm68.azcdn107.net:8443/hls/walxjawfo5x.m3u8?s=TcsRClkSraQox3GLxPFs3Q&e=1623546806
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport Fight
 http://210.210.155.35/session/8f8646f6-655f-11eb-b375-8eff9cd4058a/uq2663/h/h05/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 2
-https://29hm3pwm68.azcdn107.net:8443/hls/u225jtufy2dkv.m3u8?s=tNhzpNFvk6iat0fCcVrvWQ&e=1623546937
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 3
-https://29hm3pwm68.azcdn107.net:8443/hls/t69y1s69ffvz.m3u8?s=B0v5lXxgth01D6VOiAei1A&e=1623547020
+https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 4
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
