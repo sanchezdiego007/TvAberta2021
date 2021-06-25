@@ -902,13 +902,8 @@ http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport Fight
 http://210.210.155.35/session/8f8646f6-655f-11eb-b375-8eff9cd4058a/uq2663/h/h05/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 3
-https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 4
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports
@@ -2988,4 +2983,160 @@ http://192.99.150.31:9191/stream?
 http://6d9a.webradio.upx.net.br:9896/stream?  
 
 
+
+
+#EXTINF: -1 tvg-name="Acústico MTV - Bandas Gaúchas" tvg-logo="https://immub-space.nyc3.digitaloceanspaces.com/capas/87079/thumbnails/m_87079ca.jpg" group-title="Shows", Acústico MTV - Bandas Gaúchas
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964800.mp4
+#EXTINF: -1 tvg-name="Adele - Ao Vivo em Nova York" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjXzln3rACuqfwrzwqPmE0RYODj.jpg" group-title="Shows", Adele - Ao Vivo em Nova York
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964781.mp4
+#EXTINF: -1 tvg-name="Aerosmith - Rock for the Rising Sun (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urfiXtIJFyfW0oR2c9aoLGr9SWv.jpg" group-title="Shows", Aerosmith - Rock for the Rising Sun (2013)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964784.mp4
+#EXTINF: -1 tvg-name="Aerosmith: Rock in Rio 2017 (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWNiyH9ADzJp8WcEDpnedn1KtY5.jpg" group-title="Shows", Aerosmith: Rock in Rio 2017 (2017)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964785.mp4
+#EXTINF: -1 tvg-name="Alanis Morissette - Live at Woodstock 99 (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWK3kbS82UdcC6hLKViCnivotgQ.jpg" group-title="Shows", Alanis Morissette - Live at Woodstock 99 (1999)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964786.mp4
+#EXTINF: -1 tvg-name="Alice In Chains: Rock In Rio 2013 (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ozYPh3odRQwBYdGwbTbybgMTCY.jpg" group-title="Shows", Alice In Chains: Rock In Rio 2013 (2013)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964798.mp4
+#EXTINF: -1 tvg-name="Aline Barros - Caminho de Milagres" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hN00Bno88vKD86DzQOHYF0h7sMj.jpg" group-title="Shows", Aline Barros - Caminho de Milagres
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964790.mp4
+#EXTINF: -1 tvg-name="Aline Barros - Extraordinária Graça (Ao Vivo) (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGpPz6gRgEWvIWEvtkTu35D9gVA.jpg" group-title="Shows", Aline Barros - Extraordinária Graça (Ao Vivo) (2015)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964789.mp4
+#EXTINF: -1 tvg-name="Aline Barros - Na Estrada" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d4/Na_Estrada_-_Aline_Barros.jpg" group-title="Shows", Aline Barros - Na Estrada
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964788.mp4
+#EXTINF: -1 tvg-name="Aline Barros - Som De Adoradores" tvg-logo="https://studiosol-a.akamaihd.net/uploadfile/letras/albuns/3/8/c/6/265491508935806.jpg" group-title="Shows", Aline Barros - Som De Adoradores
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964787.mp4
+#EXTINF: -1 tvg-name="Almir Sater" tvg-logo="https://megabilheteria.com/images/eventos/202002/20200212142143.jpg" group-title="Shows", Almir Sater
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964801.mp4
+#EXTINF: -1 tvg-name="Anavitória: Araguaína - Las Vegas (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogrpygBAlpn8hFTHlWCJ2zczBUn.jpg" group-title="Shows", Anavitória: Araguaína - Las Vegas (2019)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964791.mp4
+#EXTINF: -1 tvg-name="Anderson Freire - Essência ao Vivo (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5nYh8h6Z8cwqUTZ1hB0sPk41qOe.jpg" group-title="Shows", Anderson Freire - Essência ao Vivo (2014)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964799.mp4
+#EXTINF: -1 tvg-name="André Valadão - Fortaleza (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogrpygBAlpn8hFTHlWCJ2zczBUn.jpg" group-title="Shows", André Valadão - Fortaleza (2013)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964792.mp4
+#EXTINF: -1 tvg-name="Andrea Bocelli - Vivere Live in Tuscany (2007)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s3UOUTHo7mhDJuwvlmppbhY9JuX.jpg" group-title="Shows", Andrea Bocelli - Vivere Live in Tuscany (2007)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964797.mp4
+#EXTINF: -1 tvg-name="Andrea Bocelli: Love In Portofino (2013)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVQ9m5JVF0pylzbZ3XvhnluTVom.jpg" group-title="Shows", Andrea Bocelli: Love In Portofino (2013)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964749.mp4
+#EXTINF: -1 tvg-name="Andrea Fontes" tvg-logo="https://images-americanas.b2w.io/produtos/01/00/img/1233606/5/1233606513_1GG.jpg" group-title="Shows", Andrea Fontes
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964793.mp4
+#EXTINF: -1 tvg-name="Anitta - Live in Madureira" tvg-logo="https://static1.purebreak.com.br/articles/2/92/12/2/@/354142-em-2020-anitta-ira-surpreender-o-public-950x0-1.jpg" group-title="Shows", Anitta - Live in Madureira
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964796.mp4
+#EXTINF: -1 tvg-name="Anitta - Live Quarentena" tvg-logo="https://static1.purepeople.com.br/articles/0/29/26/00/@/3311926-anitta-faz-live-show-de-musica-gospel-624x600-2.jpg" group-title="Shows", Anitta - Live Quarentena
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964795.mp4
+#EXTINF: -1 tvg-name="Anitta - Rio Grande do Sul" tvg-logo="http://painel.portalamazonia.com/uploads/RTEmagicC_anitta-simounao-clipe_02.jpg.jpg" group-title="Shows", Anitta - Rio Grande do Sul
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964794.mp4
+#EXTINF: -1 tvg-name="Aviões do Forró" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3a/Logo_Avi%C3%B5es_do_Forr%C3%B3.jpg" group-title="Shows", Aviões do Forró
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964802.mp4
+#EXTINF: -1 tvg-name="Barão Vermelho" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2i2e4V5cFa580MxwKurWtmYFtv.jpg" group-title="Shows", Barão Vermelho
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964803.mp4
+#EXTINF: -1 tvg-name="Bruce Springsteen - Under the influence" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/615kTM-mLdL._SY445_.jpg" group-title="Shows", Bruce Springsteen - Under the influence
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964804.mp4
+#EXTINF: -1 tvg-name="Bruno & Marrone - Multishow Ao Vivo" tvg-logo="https://s.glbimg.com/jo/g1/f/original/blog/1ca2bff6-bf86-412c-99f3-293c8469f648_BrunoeMarroneEnsaiodvd.jpg" group-title="Shows", Bruno & Marrone - Multishow Ao Vivo
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964805.mp4
+#EXTINF: -1 tvg-name="Bryan Adams: Live at the Sydney Opera House" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1phOOett7LyTZkfI6tVTlnB1KoN.jpg" group-title="Shows", Bryan Adams: Live at the Sydney Opera House
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964806.mp4
+#EXTINF: -1 tvg-name="Capital Inicial Acustico MTV" tvg-logo="http://assistirpainel.ddns.net:8880/images/m6sWxE6tp98RI7KMgQvJY2YXT9d_small.jpg" group-title="Shows", Capital Inicial Acustico MTV
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964750.mp4
+#EXTINF: -1 tvg-name="Charlie Brown Jr" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qaWxxqULlDDIldjHoG3gIiREyHq.jpg" group-title="Shows", Charlie Brown Jr
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964807.mp4
+#EXTINF: -1 tvg-name="Dance-Pop: Vengaboys" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjA4OWIyMzItMmFiYy00YmRiLTk2NjEtNWEwZjMyZjAwMWRiXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_UY317_CR51,0,214,317_AL_.jpg" group-title="Shows", Dance-Pop: Vengaboys
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964751.mp4
+#EXTINF: -1 tvg-name="Eletronica: Alok Villa Mix Goiânia 2017 ( Ao Vivo )" tvg-logo="http://assistirpainel.ddns.net:8880/images/6bY2wcGYN4AByOcDp71mgGGk0us_small.jpg" group-title="Shows", Eletronica: Alok Villa Mix Goiânia 2017 ( Ao Vivo )
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964752.mp4
+#EXTINF: -1 tvg-name="Fernandinho - Galileu" tvg-logo="http://assistirpainel.ddns.net:8880/images/ytqEieU6sJHfWt0JdlgNHS2rEMS_small.jpg" group-title="Shows", Fernandinho - Galileu
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964753.mp4
+#EXTINF: -1 tvg-name="Forro: Wesley Safadão - Em Casa" tvg-logo="http://assistirpainel.ddns.net:8880/images/quIXcivvP2gvc1FjS5sM86LgiIx_small.jpg" group-title="Shows", Forro: Wesley Safadão - Em Casa
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964754.mp4
+#EXTINF: -1 tvg-name="Gospel: Fernanda Brum - Da Eternidade" tvg-logo="http://assistirpainel.ddns.net:8880/images/sOznvYR1qmMZ7I1a4vqgIZrHVwr_small.jpg" group-title="Shows", Gospel: Fernanda Brum - Da Eternidade
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964755.mp4
+#EXTINF: -1 tvg-name="James Brown Live" tvg-logo="http://assistirpainel.ddns.net:8880/images/6NSUpMTFtmmD7Do3AjxfClK3YpS_small.jpg" group-title="Shows", James Brown Live
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964756.mp4
+#EXTINF: -1 tvg-name="Jonas Brothers Concert" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qwbMPY3SLRKbUg8lrTDYrtQobum.jpg" group-title="Shows", Jonas Brothers Concert
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964782.mp4
+#EXTINF: -1 tvg-name="Pearl Jam : Lollapalooza" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJMTPyyv2MKO1JxMdZpSOMU89h6.jpg" group-title="Shows", Pearl Jam : Lollapalooza
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964783.mp4
+#EXTINF: -1 tvg-name="Pop Rock: Red Hot Chili Peppers" tvg-logo="http://assistirpainel.ddns.net:8880/images/jZpO19oU9BOSSriguzrQST4vWM9_small.jpg" group-title="Shows", Pop Rock: Red Hot Chili Peppers
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964757.mp4
+#EXTINF: -1 tvg-name="Pop: Beyonce Rock In Rio 2013" tvg-logo="http://assistirpainel.ddns.net:8880/images/wIa6soAnrGQQNnkJk3xIRrx7NTg_small.jpg" group-title="Shows", Pop: Beyonce Rock In Rio 2013
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964758.mp4
+#EXTINF: -1 tvg-name="Pop: Ed Sheeran - Jumpers for Goalposts" tvg-logo="http://assistirpainel.ddns.net:8880/images/qZRnpygOdtoxtLZ0e8JSUSMU2kH_small.jpg" group-title="Shows", Pop: Ed Sheeran - Jumpers for Goalposts
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964759.mp4
+#EXTINF: -1 tvg-name="Pop: Rock: Roupa Nova 30 Anos Ao Vivo" tvg-logo="http://assistirpainel.ddns.net:8880/images/e95k1JEiU1pL8JYHZFlhhvBsY1s_small.jpg" group-title="Shows", Pop: Rock: Roupa Nova 30 Anos Ao Vivo
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964760.mp4
+#EXTINF: -1 tvg-name="Racionais" tvg-logo="https://4.bp.blogspot.com/-AIzCB6jOSOA/XMyxa415PpI/AAAAAAABPqI/yoXVOBfrgOs45Ok-Fag1mfgGXl9tbdyewCLcBGAs/s1600/Racionais%2BUberl%25C3%25A2ndia.jpeg" group-title="Shows", Racionais
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964761.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: 30 Seconds to Mars" tvg-logo="http://assistirpainel.ddns.net:8880/images/qKThBiQfDE3TfWOTJKhwre9niXo_small.jpg" group-title="Shows", Rock Alternativo: 30 Seconds to Mars
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964762.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: Coldplay - Ghost Stories Live" tvg-logo="http://assistirpainel.ddns.net:8880/images/2CfW0kmJNnR93PxxNscDuCGnuXm_small.jpg" group-title="Shows", Rock Alternativo: Coldplay - Ghost Stories Live
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964763.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: Evanescence Rock am Ring 2012" tvg-logo="http://assistirpainel.ddns.net:8880/images/jcy43Wwhz13mehMmK1PORIikmgR_small.jpg" group-title="Shows", Rock Alternativo: Evanescence Rock am Ring 2012
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964764.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: Linkin Park - Sao Paulo 2012" tvg-logo="http://assistirpainel.ddns.net:8880/images/yjhkDhzSWd0qSCwKb1brXVBvvcL_small.jpg" group-title="Shows", Rock Alternativo: Linkin Park - Sao Paulo 2012
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964765.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: Metallica Rock In Rio 2011" tvg-logo="http://assistirpainel.ddns.net:8880/images/imLrGI2IK472wLYVAv2xyoZbDrU_small.jpg" group-title="Shows", Rock Alternativo: Metallica Rock In Rio 2011
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964766.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: Skank ao Vivo no Recife" tvg-logo="http://assistirpainel.ddns.net:8880/images/lOECD69ThkrD7tcY9AXVvHfCqR1_small.jpg" group-title="Shows", Rock Alternativo: Skank ao Vivo no Recife
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964767.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: System of a Down: Rock in Rio 2011" tvg-logo="http://assistirpainel.ddns.net:8880/images/7GtuI6Drliq91RluyqIWKrvq8rR_small.jpg" group-title="Shows", Rock Alternativo: System of a Down: Rock in Rio 2011
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964768.mp4
+#EXTINF: -1 tvg-name="Rock Alternativo: U2 Vertigo 2005 - Live from Chicago" tvg-logo="http://assistirpainel.ddns.net:8880/images/vPFQjsw4lvHhAVFeAlBQ7rZfpMI_small.jpg" group-title="Shows", Rock Alternativo: U2 Vertigo 2005 - Live from Chicago
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964769.mp4
+#EXTINF: -1 tvg-name="Rock Nacional: Cazuza o tempo não para" tvg-logo="http://assistirpainel.ddns.net:8880/images/d7ausRHc90YOiUGUKQBD2RW3nx0_small.jpg" group-title="Shows", Rock Nacional: Cazuza o tempo não para
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964770.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Cristiano Araujo-In The Cities" tvg-logo="http://assistirpainel.ddns.net:8880/images/cKWWBNGNzLIktv3Sgrqsg0oDzDG_small.jpg" group-title="Shows", Sertanejo: Cristiano Araujo-In The Cities
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964771.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Gusttavo Lima 50-50" tvg-logo="http://assistirpainel.ddns.net:8880/images/nAM1iMa4G6xtR0Ah5jVR1urvRAr_small.jpg" group-title="Shows", Sertanejo: Gusttavo Lima 50-50
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964772.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Henrique & Juliano - Ao Vivo em Brasília" tvg-logo="http://assistirpainel.ddns.net:8880/images/2IN5mSFy2Ub38TK9ph4d0j09lil_small.jpg" group-title="Shows", Sertanejo: Henrique & Juliano - Ao Vivo em Brasília
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964773.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Jorge & Mateus  - Villa Mix Goiânia 2016" tvg-logo="http://assistirpainel.ddns.net:8880/images/t3onW4wMaBGVFzflpF3qkWmbuRl_small.jpg" group-title="Shows", Sertanejo: Jorge & Mateus  - Villa Mix Goiânia 2016
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964774.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Leonardo e Eduardo Costa Cabare" tvg-logo="http://assistirpainel.ddns.net:8880/images/u5tuCuXoBQ8X4NrFbn562CCeUBZ_small.jpg" group-title="Shows", Sertanejo: Leonardo e Eduardo Costa Cabare
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964775.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Luan Santana - O Nosso Tempo é Hoje" tvg-logo="http://assistirpainel.ddns.net:8880/images/6ZnRLRnzy6isSLzZRNFLCFFr56n_small.jpg" group-title="Shows", Sertanejo: Luan Santana - O Nosso Tempo é Hoje
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964776.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Marília Mendonça - Ao Vivo 2015" tvg-logo="http://assistirpainel.ddns.net:8880/images/mXGOl6yPpX3bvistRz6s3b1WbOb_small.jpg" group-title="Shows", Sertanejo: Marília Mendonça - Ao Vivo 2015
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964777.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Matheus e kauan - Na Praia" tvg-logo="http://assistirpainel.ddns.net:8880/images/k6yfgtaxozbfoJCvuOsMGZnge2s_small.jpg" group-title="Shows", Sertanejo: Matheus e kauan - Na Praia
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964778.mp4
+#EXTINF: -1 tvg-name="Sertanejo: Simone e Simaria - Bar das Coleguinhas" tvg-logo="http://assistirpainel.ddns.net:8880/images/nou04M9Dd5cBRsbWI9x1BH1LaFt_small.jpg" group-title="Shows", Sertanejo: Simone e Simaria - Bar das Coleguinhas
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964779.mp4
+#EXTINF: -1 tvg-name="The Pink Floyd Tribute Show - Live From Liverpool" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4vQ9pKCPYtBU7TszgVTifyfwb9e.jpg" group-title="Shows", The Pink Floyd Tribute Show - Live From Liverpool
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964808.mp4
+#EXTINF: -1 tvg-name="Yanni: Live! - The Concert Event (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qsMX7q16ruMBoZ7RADZd5aDpiRE.jpg" group-title="Shows", Yanni: Live! - The Concert Event (2006)
+http://vipeiptv.com:25461/movie/91695100fra/91695100fra/964780.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="24H ACUMULADORES" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H ACUMULADORES
+http://vipeiptv.com:25461/91695100fra/91695100fra/925586
+#EXTINF:-1 tvg-id="" tvg-name="24H CHAVES - CHAPOLI" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H CHAVES - CHAPOLIN
+http://vipeiptv.com:25461/91695100fra/91695100fra/925591
+#EXTINF:-1 tvg-id="" tvg-name="24H EU A PATROA E AS CRIANÇAS" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H EU A PATROA E AS CRIANÇAS
+http://vipeiptv.com:25461/91695100fra/91695100fra/925592
+#EXTINF:-1 tvg-id="" tvg-name="24H IRMAOS A OBRA" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H IRMAOS A OBRA
+http://vipeiptv.com:25461/91695100fra/91695100fra/925588
+#EXTINF:-1 tvg-id="" tvg-name="24H LARGADOS E PELADOS BRASIL" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H LARGADOS E PELADOS BRASIL
+http://vipeiptv.com:25461/91695100fra/91695100fra/925598
+#EXTINF:-1 tvg-id="" tvg-name="24H MYTBUSTER CAÇADORES DE MITOS" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H MYTBUSTER CAÇADORES DE MITOS
+http://vipeiptv.com:25461/91695100fra/91695100fra/925595
+#EXTINF:-1 tvg-id="" tvg-name="24H PEGADINHA JÃO KLEBER" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H PEGADINHA JOÃO KLEBER
+http://vipeiptv.com:25461/91695100fra/91695100fra/925599
+#EXTINF:-1 tvg-id="" tvg-name="24H PESADELO NA COZINHA" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H PESADELO NA COZINHA
+http://vipeiptv.com:25461/91695100fra/91695100fra/925589
+#EXTINF:-1 tvg-id="" tvg-name="24H POLICIA 24 HORAS" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H POLICIA 24 HORAS
+http://vipeiptv.com:25461/91695100fra/91695100fra/925597
+#EXTINF:-1 tvg-id="" tvg-name="24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H PRONTO SOCORRO HISTORIAS DE EMERGENCIA
+http://vipeiptv.com:25461/91695100fra/91695100fra/925596
+#EXTINF:-1 tvg-id="" tvg-name="24H STAND UP DANILO GENTILI" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H STAND UP DANILO GENTILI
+http://vipeiptv.com:25461/91695100fra/91695100fra/925590
+#EXTINF:-1 tvg-id="" tvg-name="24H TESTE DE FIDELIDADE" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H TESTE DE FIDELIDADE
+http://vipeiptv.com:25461/91695100fra/91695100fra/925584
+#EXTINF:-1 tvg-id="" tvg-name="24H TRAPALHOES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logotipo_del_Canal_24_Horas.png" group-title="Canais  24h",24H TRAPALHOES
+http://vipeiptv.com:25461/91695100fra/91695100fra/925583
+#EXTINF:-1 tvg-id="" tvg-name="24H TRATO FEITO" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H TRATO FEITO
+http://vipeiptv.com:25461/91695100fra/91695100fra/925594
+#EXTINF:-1 tvg-id="" tvg-name="24H VAI QUE COLA" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H VAI QUE COLA
+http://vipeiptv.com:25461/91695100fra/91695100fra/925593
+#EXTINF:-1 tvg-id="" tvg-name="24H VIDEO CASSETADAS" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H VIDEO CASSETADAS
+http://vipeiptv.com:25461/91695100fra/91695100fra/925587
 
