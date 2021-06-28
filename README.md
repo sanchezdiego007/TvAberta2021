@@ -731,7 +731,7 @@ https://play-akamai.pongalo.com/game-death_pt/game-death_pt_1-1/play_v1_hls_720p
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 3
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
+https://www80.ff-01.com/token=o9pTgHwquHYUBxJNbeL2tw/1624911962/187.95.0.0/164/7/f2/5ea44a67bc9b02297dca86b3c14bef27-480p.mp4
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 4
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
@@ -1030,7 +1030,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playkids-blog-assets/wp-content/uploads/2020/07/10132345/logo-playkids.png" group-title="Infantil",PlayKids
 http://playplusdlab-lh.akamaihd.net/i/pp_pkids@377825/index_720_av-p.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/playkids-blog-assets/wp-content/uploads/2020/07/10132345/logo-playkids.png" group-title="Infantil",PlayKids 2
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 
 
@@ -1456,6 +1457,9 @@ https://stream.lives.srv.br/cornotv/cornotv/chunklist_w1015488706.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a664ce7a070ef00d578c0c3a1dbadea0.jpg" group-title="Especial", Hits Classic
 https://stmv1.srvif.com/ghtv/ghtv/chunklist_w333942727.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=200,format=auto/the-hypnotist_pt/the-hypnotist_pt_200x300.jpg" group-title="Brinde",Hypnotist
