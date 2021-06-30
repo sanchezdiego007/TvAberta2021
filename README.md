@@ -62,6 +62,25 @@ https://stmv2.vhcast.com/aetv/aetv/chunklist_w877876138.m3u8
 #EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp",Tv Nova play
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1900735603.m3u8
 
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48d1c1341375f8ebff91a73e6e9769c3.webp",Rede Nezz Tv
+https://stmv1.samcast.com.br/lucascardosodasilva1434/lucascardosodasilva1434/chunklist_w1199073192.m3u8
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/afea316126f77278ccf55ddbb88026e2.webp",VG Plantão Tv
+https://cdn.jmvstream.com/w/AVJ-9841/playlist/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp",Animestation
+https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w1667167224.m3u8
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3988457040bce0bd05af600734dd1f0.webp",Ghost Tv
+https://stmv.video.expressolider.com.br/ghostv/ghostv/chunklist_w1284293695.m3u8
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a028c26309735d904e33cedec1a011e6.webp",Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/chunklist_w521063159.m3u8
+
+#EXTINF:-1 group-title="Especial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74fd16525d672863a9a47a8d3e046be8.webp",	
+Tv Alternativa
+https://video02.kshost.com.br/andre7754/andre7754/chunklist_w1528702419.m3u8
 
 
 
