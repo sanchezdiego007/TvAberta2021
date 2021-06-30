@@ -41,11 +41,7 @@ http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?sessio
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
 
-#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 4
-https://live-fe-as-02-25.video.globo.com/d/nl/s/hls-globo-sjc/playlist.m3u8?h=04016235243485512619962162352782853363947988o1iqGh_OK9oX9SSsfelJA&k=html5&a=F&u=f057773a-8cde-4977-8bdf-93a3e5ec3118
 
-#EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 5
-https://live-fe-as-02-25.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
 
 
 
@@ -750,7 +746,7 @@ https://play-akamai.pongalo.com/game-death_pt/game-death_pt_1-1/play_v1_hls_720p
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 3
-https://www80.ff-01.com/token=o9pTgHwquHYUBxJNbeL2tw/1624911962/187.95.0.0/164/7/f2/5ea44a67bc9b02297dca86b3c14bef27-480p.mp4
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 4
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
@@ -795,10 +791,8 @@ https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 17
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 18
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="Filmes",Filmes 19
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="Filmes",Filmes 18
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
 
@@ -1506,6 +1500,41 @@ https://p2p-1.onicdn.com/6b5f01a6ff8eb465711cbea23cb5f288.m3u8
 #EXTINF:-1 tvg-logo="https://ogimg.infoglobo.com.br/in/24929707-182-1a0/FT1086A/xZackSnyders_JusticeLeague_STD_H_DD_KA_TT_3840x2160_300dpi_BR.jpg.pagespeed.ic.g-GlLEVF3u.jpg" group-title="Brinde",Liga da Justiça
 https://www619.ff-02.com/token=FUnkeLLjQYaDdHddphuhUg/1623541577/187.95.0.0/156/c/b4/805657a1d41539fe2c2b45ec11fe4b4c-480p.mp4
 
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://image.tmdb.org/t/p/w185/pR2fzm82fl0giommpo310LBOMbV.jpg",PATERNIDADE
+https://foxco.top/stream/720/gsLzWRMHMNi6ycz/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/02/e22oVVRJKEfZWqGn5SVNVTIiC7v-200x300.jpg",Skull: A MÃ¡scara de AnhangÃ¡
+https://foxco.top/stream/720/5jfXSshj2Y0I9wG/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/04/7uByCU9hH64U7TkLjikOuCWHLMs-225x300.jpg",PESADELO NAS ALTURAS
+https://foxco.top/stream/720/XsbaxZ9YdqDi6Xr/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/05/oLuIH5Mkl9OBefhNC1NtJRTDb1H.jpg",OS INTRUSOS
+https://foxco.top/stream/720/isiaeiC3Q6LqCCO/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/06/fUCIj47O9v5zktS81hRWktUVnSR.jpg",SemSaÃ­da
+https://foxco.top/stream/720/DnutXyzZe4oktxA/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/06/Nk4qeNjHvr427RhccYZLSxndGj.jpg",O Mensageiro do Ãšltimo Dia
+https://foxco.top/stream/720/kqQe1SwGajhH85Y/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/06/8jBgDFFDYz8WHxiOBJ7GBiMM6Pe.jpg",InvocaÃ§Ã£o do Mal 3: A Ordem do DemÃ´nio
+https://foxco.top/stream/720/DdpniSVxA2UB0dZ/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/04/klAIFewuqcyEmH1SMtR2XbMyqzM-200x300.jpg",Godzilla vs. Kong
+https://foxco.top/stream/720/u7vlDjwzi7lNrvP/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://image.tmdb.org/t/p/w185/mzKKUblhyvv7nWyfJCLT69GijOA.jpg",SAMURAI X - O FINAL
+https://foxco.top/stream/720/EIxKWcCCXCNedzr/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/04/1Egbm90ioUCi9Wuzrk46v4gbNaq-203x300.jpg",A ESPREITA DO MAL
+https://foxco.top/stream/720/1zLgoTxhvIKoS7B/__001
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://image.tmdb.org/t/p/w342/70XFvmFRrdVxAjne5f3ItwRBtuQ.jpg",UM LUGAR SILENCIOSO
+https://ficifi.megaupload.to/hls/4ib5752bfyi7bh3jempaiihqfpe5ezzr3ss6u4v3zondx2aerfckgxw5fqsa/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Brinde" tvg-logo="https://filmesonlinex.org/wp-content/uploads/2021/04/w8BVC3qrCWCiTHRz4Rft12dtQF0-200x300.jpg",MORTAL KOMBAT
+https://foxco.top/stream/720/LEJN5Lb2fla0bsv/__001
 
 
 
