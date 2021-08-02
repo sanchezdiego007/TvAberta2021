@@ -3,16 +3,19 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais
-https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+https://video.wixstatic.com/video/205e54_bbbedd1d38a34b798f81507705319281/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Televizo FREE
-https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+https://video.wixstatic.com/video/205e54_065a2d684c084162973b0b2992fc9b52/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Atualizar Canais
 https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", VIP 
+http://168.205.87.198:8555/live/elienecp/123456/117.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Pluto tv BR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT SP
@@ -263,14 +266,15 @@ https://www1516.ff-04.com/token=hSy7LLD5fbKxP0yrOD_Fhg/1623541230/187.95.0.0/159
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Teste gratis
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", 12982077124
 https://video.wixstatic.com/video/205e54_a8a30c97d6b2464290a86189f9a971a0/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Canais 35.00
 https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Contato
-https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Degustação
+http://168.205.87.198:8555/live/elienecp/123456/63.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Propaganda
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
@@ -295,28 +299,28 @@ https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT GO-TV 
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w246024306_b1000000.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT PR
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT Interior
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzfe/chunklist_w150307383.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT MA-TV Difusora
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w313759947.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT MA-Difusora sul
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT",SBT MT-BemTV
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT",SBT 
 http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT PI-TV Cidade Verde 
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1956671933.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT-TV Jornal De Recife
+#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1907898900_b216000_sleng.m3u8
 
 
@@ -545,10 +549,10 @@ https://play-akamai.pongalo.com/kanye-glastonbury/kanye-glastonbury_1-1/hls_1500
 
 
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band News
-http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band id
+http://168.205.87.198:8555/live/elienecp/123456/36.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band News 2
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band CNN
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w389063840.m3u8
 
 
@@ -947,7 +951,8 @@ https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.
 
 
 EXTINF:-1 group-title="Esportes" tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/BandSports_logo-baixa.png" ,Band Sport
-https://cdn-1.nxplay.com.br/band_sport_oficial/tracks-v1a1/mono.m3u8?token=
+http://168.205.87.198:8555/live/elienecp/123456/50.m3u8
+
 
 
 
