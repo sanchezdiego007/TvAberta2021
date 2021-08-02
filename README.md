@@ -2,8 +2,15 @@
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="Guia de Canais", Guia de Canais
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais
 https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Televizo FREE
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Atualizar Canais
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
 
 
 
