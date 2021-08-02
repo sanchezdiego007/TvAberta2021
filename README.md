@@ -2,6 +2,12 @@
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="Guia de Canais", Guia de Canais
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT SP
 http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
 
@@ -35,7 +41,8 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 2
-http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=ANjOB6VN1kU&app_ver=10101&auth_id=44641194_com.global.brasiltvweb&client_ip=187.95.16.133&user_id=44641194&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=2419243c&expired=1622847279&token=8DC9AA40EE6C9847BC6AF8903673741F&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
 
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 3
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
@@ -239,7 +246,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lETNNUshBgoeFbw91fzdulIernh.jpg" group-title="Brinde", Velozes Furiosos 9 Cinema
-https://www655.ff-02.com/token=j3_nqxXwH56o7hTnKesTjw/1623540836/187.95.0.0/170/0/50/dc79e74f49d73ae7761f206aa0694500-480p.mp4
+https://www.youtube.com/embed/Si2_d113XkQ?autoplay=1&mute=1&controls=1&loop=1&origin=https%3A%2F%2Fsanchezdiego.wixsite.com&playsinline=1&playlist=Si2_d113XkQ&enablejsapi=1&widgetid=1
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/AomupwyaNdyry1sMHsRO5NmOUyx.jpg" group-title="Brinde", Simpson Maggie 2021
 https://www1516.ff-04.com/token=hSy7LLD5fbKxP0yrOD_Fhg/1623541230/187.95.0.0/159/4/20/ff6b3af57e1bc4abe8bd1926a113b204-480p.mp4
@@ -253,7 +260,7 @@ https://www1516.ff-04.com/token=hSy7LLD5fbKxP0yrOD_Fhg/1623541230/187.95.0.0/159
 https://video.wixstatic.com/video/205e54_a8a30c97d6b2464290a86189f9a971a0/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Canais 35.00
-https://live-fe-as-04-12.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Contato
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
