@@ -1,5 +1,40 @@
-#EXTINF:-1 group-title="Especial" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg",Nasa TV
+#EXTINF:-1 group-title="Nasa tv" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (720p)
+http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (720p) 
+https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (504p)
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-name="NASA TV ISS Views" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV ISS Views
+http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Nasa tv",NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Nasa tv",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-id="NatGeoWILD.us" tvg-name="Nat Geo WILD" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Nasa tv",Nat Geo WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Nasa Tv",National Geographic
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Nasa Tv",National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais
@@ -16,6 +51,11 @@ http://168.205.87.198:8555/live/elienecp/123456/117.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Pluto tv BR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT SP
@@ -38,6 +78,28 @@ http://dd8umsy8yf96u.cloudfront.net/live/cnt-salvador_240p414k/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT PA
 http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TVCineAction.pt" tvg-name="TVCine Action" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png?1628003207259" group-title="TVCine",TVCine Action
+http://185.236.229.21:9981/play/a04n
+
+#EXTINF:-1 tvg-id="TVCineEdition.pt" tvg-name="TVCine Edition" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png?1628003149272" group-title="TVCine",TVCine Edition
+http://185.236.229.21:9981/play/a061
+
+#EXTINF:-1 tvg-id="TVCineEmotion.pt" tvg-name="TVCine Emotion" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="TVCine",TVCine Emotion
+http://185.236.229.21:9981/play/a05z
+
+#EXTINF:-1 tvg-id="TVCineTop.pt" tvg-name="TVCine Top" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png?1628002994908" group-title="TVCine",TVCine Top
+http://185.236.229.21:9981/play/a04w
+
+
+
+
+
+
+
 
 
 
@@ -3210,4 +3272,78 @@ http://vipeiptv.com:25461/91695100fra/91695100fra/925594
 http://vipeiptv.com:25461/91695100fra/91695100fra/925593
 #EXTINF:-1 tvg-id="" tvg-name="24H VIDEO CASSETADAS" tvg-logo="http://vipeiptv.com:25461/images/90d935254ad3085c0ba09260cd6c498f.png" group-title="Canais  24h",24H VIDEO CASSETADAS
 http://vipeiptv.com:25461/91695100fra/91695100fra/925587
+
+
+
+
+
+#EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
+https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
+https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="Loop90s.us" tvg-name="90s Loop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="Loop",Loop 90s 
+https://loop-90s-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop90s.us" tvg-name="Loop 90s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="Loop",Loop 90s 
+https://6eb959e10c2a4477a5b14100220c3c5f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop90s/playlist.m3u8
+#EXTINF:-1 tvg-id="Loop90s.us" tvg-name="Loop 90s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K8YV2bR.png" group-title="Loop",Loop 90s 
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopBeastMode.us" tvg-name="Loop Beast" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/fb8c7ba652305a8700924347d46dcdff.jpeg" group-title="Loop",Loop Beast Mode 
+https://1f0e60dbce3043279c491fe51983361d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopBedroom.us" tvg-name="Loop Bedroom" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/2a347a69ef251082e125c7b15fc721a9.jpeg" group-title="Loop",Loop Bedroom 
+https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopCountry.us" tvg-name="Loop Country" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Loop",Loop Country 
+https://loop-country-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopCountry.us" tvg-name="Loop Country" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Loop",Loop Country 
+https://053155d1274848ed85106dbf20adc283.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopCountry/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopElectronica.us" tvg-name="Loop Electronica" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/d8d1f2a3ea03ed135a7873ff7c0ce161.jpeg" group-title="Loop",Loop Electronica 
+https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopElectronica.us" tvg-name="Loop_Electronica" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xQlkS6U.png" group-title="Loop",Loop Electronica 
+https://57490d2f4ea646bbae56a1a816617a5f.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopFarOut.us" tvg-name="Loop Far Out" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/66b982a91d8b8f8383420675781139a1.jpeg" group-title="Loop",Loop Far Out 
+https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopFlashback.us" tvg-name="Loop Flashback" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/52a174e6787a4ade949c6f5903777cff.jpeg" group-title="Loop",Loop Flashback 
+https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopHipHop.us" tvg-name="Loop Hip Hop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="Loop",Loop Hip-Hop 
+https://loop-hip-hop-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHipHop.us" tvg-name="Loop Hip Hop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Loop",Loop Hip-Hop 
+https://5580b04771d94e5eb245830c5975eb77.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHipHop/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHipHop.us" tvg-name="Loop Hip Hop" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/yW7WCPm.png" group-title="Loop",Loop Hip-Hop (West)
+https://e20b86263a38460ba3647b18fb150000.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopHipHop.us" tvg-name="Loop Hip Hop" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/f6ec7f3aa3a5f36aa8fda7af47c56fdd.jpeg" group-title="Loop",Loop Hip-Hop 
+https://e4d2547e0c8c492a883054acd48276be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopHottest.us" tvg-name="Loop Hottest" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="Loop",Loop Hottest
+https://loop-hottest-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHottest.us" tvg-name="Loop Hottest" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="Loop",Loop Hottest 
+https://a0da9e6a83bc4a739ceb39f81766fce0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopHottest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopHottest.us" tvg-name="Loop Hottest" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/NY9dKoR.png" group-title="Loop",Loop Hottest 
+https://2e9a0ef101a14c2ebe97c713bc5340be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_v2_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopLatin.us" tvg-name="Loop Latin" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/20b46f1a2777723aaa45db27e7389a93.jpeg" group-title="Loop",Loop Latin 
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopParty.us" tvg-name="Loop Party" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Loop",Loop Party
+https://loop-party-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopParty.us" tvg-name="Loop Party" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/62CjWTa.jpg" group-title="Loop",Loop Party (East)
+https://aa25f9002c724666a6e1e9402e78f94f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_LoopParty/playlist.m3u8
+#EXTINF:-1 tvg-id="LoopParty.us" tvg-name="Loop_Party" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8JPEexX.png" group-title="Loop",Loop Party 
+https://0b1ea79d9170498c91073ff8c460de18.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_plex/master.m3u8
+#EXTINF:-1 tvg-id="LoopParty.us" tvg-name="Loop Party" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/2807d4ad6af0c5906229e9217fa631a2.jpeg" group-title="Loop",Loop Party 
+https://1d79349342334eb0bdeddd168b5c6e1a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopRB.us" tvg-name="Loop R&B" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/6edcf875ec3ba823acec994ffd051633.jpeg" group-title="Loop",Loop R&B 
+https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopSynapse.us" tvg-name="Loop Synapse" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/e21e0005af106ee7bebea46bb17b2e93.jpeg" group-title="Loop",Loop Synapse 
+https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopTexasTunes.us" tvg-name="Loop Texas Tunes" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/c7c4962a327ba3a25ae0dcf17a3d4e06.jpeg" group-title="Loop",Loop Texas Tunes 
+https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopTGIF.us" tvg-name="Loop TGIF" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/2487e997c51436f8502ac737144954a7.jpeg" group-title="Loop",Loop TGIF 
+https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopThatsHot.us" tvg-name="Loop That's Hot" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg" group-title="Loop",Loop That's Hot 
+https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopTrending.us" tvg-name="Loop Trending" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" group-title="United States",Loop Trending (West) [Geo-blocked]
+https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopUnwind.us" tvg-name="Loop Unwind" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" group-title="United States",Loop Unwind 
+https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
+#EXTINF:-1 tvg-id="LoopYachtRock.us" tvg-name="Loop Yacht Rock" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" group-title="United States",Loop Yacht Rock 
+
+
 
