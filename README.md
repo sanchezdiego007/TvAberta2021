@@ -989,31 +989,18 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w25604577.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport Fight
-http://210.210.155.35/session/8f8646f6-655f-11eb-b375-8eff9cd4058a/uq2663/h/h05/01.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports
-https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 2
-https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 3
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="Esportes",Dubai Racing
+#EXTINF:-1 tvg-logo="https://pt.live-tv-channels.org/pt-data/uploads/logo/ae-dubai-racing-2-3859-300x225.jpg" group-title="Esportes",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-name="TNT Sports 2 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 2 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-name="TNT Sports 3 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 3 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-name="TNT Sports 4 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 4 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-name="TNT Sports 5 Brasil" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes",TNT Sports 5 Brasil
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
 
-EXTINF:-1 group-title="Esportes" tvg-logo="https://www.abcdacomunicacao.com.br/wp-content/uploads/BandSports_logo-baixa.png" ,Band Sport
-http://168.205.87.198:8555/live/elienecp/123456/50.m3u8
 
 
 
@@ -3347,3 +3334,182 @@ https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF: -1 tvg-name="AGRO BRASIL" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png" group-title="Premium", Agro Brasil
+http://168.205.87.198:8555/live/elienecp/123456/7.m3u8
+#EXTINF: -1 tvg-name="AGRO CANAL" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png" group-title="Premium", Agro Canal
+http://168.205.87.198:8555/live/elienecp/123456/10.m3u8
+#EXTINF: -1 tvg-name="AMC" tvg-logo="http://168.205.87.198/logocanais/amc.png" group-title="Premium", AMC
+http://168.205.87.198:8555/live/elienecp/123456/14.m3u8
+#EXTINF: -1 tvg-name="AMERICA LATINO" tvg-logo="http://168.205.87.198/logocanais/americalatino.png" group-title="Premium", América Latino
+http://168.205.87.198:8555/live/elienecp/123456/16.m3u8
+#EXTINF: -1 tvg-name="ANIMAL PLANET" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png" group-title="Premium", Animal Planet
+http://168.205.87.198:8555/live/elienecp/123456/18.m3u8
+#EXTINF: -1 tvg-name="BAND" tvg-logo="http://168.205.87.198/logocanais/bandminas.png" group-title="Premium", Band
+http://168.205.87.198:8555/live/elienecp/123456/19.m3u8
+#EXTINF: -1 tvg-name="BOA VONTADE TV" tvg-logo="http://168.205.87.198/logocanais/boavontadetv.png" group-title="Premium", Boa Vontade TV
+http://168.205.87.198:8555/live/elienecp/123456/21.m3u8
+#EXTINF: -1 tvg-name="BOOMERANG" tvg-logo="http://168.205.87.198/logocanais/boomerang.png" group-title="Premium", Boomerang
+http://168.205.87.198:8555/live/elienecp/123456/22.m3u8
+#EXTINF: -1 tvg-name="BRA" tvg-logo="http://168.205.87.198/logocanais/bra.png" group-title="Premium", BRA
+http://168.205.87.198:8555/live/elienecp/123456/24.m3u8
+#EXTINF: -1 tvg-name="CANÇÃO NOVA" tvg-logo="http://168.205.87.198/logocanais/cancaonova.png" group-title="Premium", Canção Nova
+http://168.205.87.198:8555/live/elienecp/123456/25.m3u8
+#EXTINF: -1 tvg-name="CARTOON NETWORK" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png" group-title="Premium", Cartoon Network
+http://168.205.87.198:8555/live/elienecp/123456/26.m3u8
+#EXTINF: -1 tvg-name="CINE BRASIL" group-title="Premium", Cine Brasil
+http://168.205.87.198:8555/live/elienecp/123456/145.m3u8
+#EXTINF: -1 tvg-name="CLASSIC HITS" tvg-logo="http://168.205.87.198/logocanais/classichits.png" group-title="Premium", Classic Hits
+http://168.205.87.198:8555/live/elienecp/123456/27.m3u8
+#EXTINF: -1 tvg-name="CNN BRASIL" group-title="Premium", CNN Brasil
+http://168.205.87.198:8555/live/elienecp/123456/28.m3u8
+#EXTINF: -1 tvg-name="COMEDY CENTRAL" tvg-logo="http://168.205.87.198/logocanais/comedycentral.png" group-title="Premium", Comedy Central
+http://168.205.87.198:8555/live/elienecp/123456/29.m3u8
+#EXTINF: -1 tvg-name="CULT" tvg-logo="http://168.205.87.198/logocanais/cult.png" group-title="Premium", Cult
+http://168.205.87.198:8555/live/elienecp/123456/30.m3u8
+#EXTINF: -1 tvg-name="CULTURA" tvg-logo="http://168.205.87.198/logocanais/tvcultura.png" group-title="Premium", Cultura
+http://168.205.87.198:8555/live/elienecp/123456/32.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/discovery.png" group-title="Premium", Discovery Channel
+http://168.205.87.198:8555/live/elienecp/123456/33.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY HOME HELTH" tvg-logo="http://168.205.87.198/logocanais/homeehealth.png" group-title="Premium", Discovery Home & Health
+http://168.205.87.198:8555/live/elienecp/123456/35.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY ID" tvg-logo="http://168.205.87.198/logocanais/iddiscovery.png" group-title="Premium", Discovery ID
+http://168.205.87.198:8555/live/elienecp/123456/36.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY KIDS" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png" group-title="Premium", Discovery Kids
+http://168.205.87.198:8555/live/elienecp/123456/37.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY SCI" tvg-logo="http://168.205.87.198/logocanais/discoverysci.png" group-title="Premium", Discovery Science
+http://168.205.87.198:8555/live/elienecp/123456/38.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY THEATER" tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="Premium", Discovery Theater
+http://168.205.87.198:8555/live/elienecp/123456/39.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY TLC" tvg-logo="http://168.205.87.198/logocanais/tlcdiscovery.png" group-title="Premium", Discovery TLC
+http://168.205.87.198:8555/live/elienecp/123456/40.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY TURBO" tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="Premium", Discovery Turbo
+http://168.205.87.198:8555/live/elienecp/123456/41.m3u8
+#EXTINF: -1 tvg-name="DISCOVERY WORLD" tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="Premium", Discovery World
+http://168.205.87.198:8555/live/elienecp/123456/42.m3u8
+#EXTINF: -1 tvg-name="DISNEY CHANNEL" tvg-logo="http://168.205.87.198/logocanais/disneychannel.png" group-title="Premium", Disney Channel
+http://168.205.87.198:8555/live/elienecp/123456/45.m3u8
+#EXTINF: -1 tvg-name="DISNEY JR" tvg-logo="http://168.205.87.198/logocanais/disneyjr.png" group-title="Premium", Disney Jr.
+http://168.205.87.198:8555/live/elienecp/123456/46.m3u8
+#EXTINF: -1 tvg-name="DISNEY XD" tvg-logo="http://168.205.87.198/logocanais/disneyxd.png" group-title="Premium", Disney XD
+http://168.205.87.198:8555/live/elienecp/123456/47.m3u8
+#EXTINF: -1 tvg-name="ESPN 2" tvg-logo="http://168.205.87.198/logocanais/espn2.png" group-title="Premium", Espn 2
+http://168.205.87.198:8555/live/elienecp/123456/49.m3u8
+#EXTINF: -1 tvg-name="ESPN BRASIL" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png" group-title="Premium", Espn Brasil
+http://168.205.87.198:8555/live/elienecp/123456/50.m3u8
+#EXTINF: -1 tvg-name="ESPN EXTRA" tvg-logo="http://168.205.87.198/logocanais/espnextra.png" group-title="Premium", Espn Extra
+http://168.205.87.198:8555/live/elienecp/123456/51.m3u8
+#EXTINF: -1 tvg-name="ESPN INT" tvg-logo="http://168.205.87.198/logocanais/espn.png" group-title="Premium", Espn Int
+http://168.205.87.198:8555/live/elienecp/123456/60.m3u8
+#EXTINF: -1 tvg-name="FASHION TV" tvg-logo="http://168.205.87.198/logocanais/fashiontv.png" group-title="Premium", Fashion TV
+http://168.205.87.198:8555/live/elienecp/123456/61.m3u8
+#EXTINF: -1 tvg-name="FISH TV" tvg-logo="http://168.205.87.198/logocanais/fishtv.png" group-title="Premium", Fish TV
+http://168.205.87.198:8555/live/elienecp/123456/62.m3u8
+#EXTINF: -1 tvg-name="FOX SPORTS" tvg-logo="http://168.205.87.198/logocanais/foxsports.png" group-title="Premium", Fox Sports
+http://168.205.87.198:8555/live/elienecp/123456/65.m3u8
+#EXTINF: -1 tvg-name="FOX SPORTS 2" tvg-logo="http://168.205.87.198/logocanais/foxsports2.png" group-title="Premium", Fox Sports 2
+http://168.205.87.198:8555/live/elienecp/123456/66.m3u8
+#EXTINF: -1 tvg-name="FUTURA" tvg-logo="http://168.205.87.198/logocanais/futura.png" group-title="Premium", Futura
+http://168.205.87.198:8555/live/elienecp/123456/67.m3u8
+#EXTINF: -1 tvg-name="FX" tvg-logo="http://168.205.87.198/logocanais/fx.png" group-title="Premium", FX
+http://168.205.87.198:8555/live/elienecp/123456/68.m3u8
+#EXTINF: -1 tvg-name="GAZETA" tvg-logo="http://168.205.87.198/logocanais/tvgazeta.png" group-title="Premium", Gazeta
+http://168.205.87.198:8555/live/elienecp/123456/69.m3u8
+#EXTINF: -1 tvg-name="GLOBO MINAS" tvg-logo="http://168.205.87.198/logocanais/globominas.png" group-title="Premium", Globo MG
+http://168.205.87.198:8555/live/elienecp/123456/70.m3u8
+#EXTINF: -1 tvg-name="HGTV" tvg-logo="http://168.205.87.198/logocanais/hgtv.png" group-title="Premium", HGTV
+http://168.205.87.198:8555/live/elienecp/123456/71.m3u8
+#EXTINF: -1 tvg-name="HITTS" tvg-logo="http://168.205.87.198/logocanais/hitts.png" group-title="Premium", Hitts
+http://168.205.87.198:8555/live/elienecp/123456/72.m3u8
+#EXTINF: -1 tvg-name="CARREGANDO TV" group-title="Premium", Loading TV
+http://168.205.87.198:8555/live/elienecp/123456/142.m3u8
+#EXTINF: -1 tvg-name="MAP KIDS" group-title="Premium", Map Kids
+http://168.205.87.198:8555/live/elienecp/123456/143.m3u8
+#EXTINF: -1 tvg-name="MASTER TV" tvg-logo="http://168.205.87.198/logocanais/mastertv.png" group-title="Premium", Master TV
+http://168.205.87.198:8555/live/elienecp/123456/74.m3u8
+#EXTINF: -1 tvg-name="MEGA" tvg-logo="http://168.205.87.198/logocanais/mega.png" group-title="Premium", Mega
+http://168.205.87.198:8555/live/elienecp/123456/75.m3u8
+#EXTINF: -1 tvg-name="MTV" tvg-logo="http://168.205.87.198/logocanais/mtv.png" group-title="Premium", MTV
+http://168.205.87.198:8555/live/elienecp/123456/76.m3u8
+#EXTINF: -1 tvg-name="MTV LIVE" tvg-logo="http://168.205.87.198/logocanais/vh1megahits.png" group-title="Premium", MTV Live
+http://168.205.87.198:8555/live/elienecp/123456/140.m3u8
+#EXTINF: -1 tvg-name="MUSIC BOX" tvg-logo="http://168.205.87.198/logocanais/musicbox.png" group-title="Premium", Music Box
+http://168.205.87.198:8555/live/elienecp/123456/77.m3u8
+#EXTINF: -1 tvg-name="NAT GEO" tvg-logo="http://168.205.87.198/logocanais/natgeo.png" group-title="Premium", National Geographic
+http://168.205.87.198:8555/live/elienecp/123456/78.m3u8
+#EXTINF: -1 tvg-name="NICKELODEON" tvg-logo="http://168.205.87.198/logocanais/nick.png" group-title="Premium", Nickelodeon
+http://168.205.87.198:8555/live/elienecp/123456/80.m3u8
+#EXTINF: -1 tvg-name="PARAMOUNT" tvg-logo="http://168.205.87.198/logocanais/paramount.png" group-title="Premium", Paramount
+http://168.205.87.198:8555/live/elienecp/123456/81.m3u8
+#EXTINF: -1 tvg-name="PORTAL" tvg-logo="http://168.205.87.198/logocanais/maptv.png" group-title="Premium", Portal
+http://168.205.87.198:8555/live/elienecp/123456/82.m3u8
+#EXTINF: -1 tvg-name="PRIME BOX" tvg-logo="http://168.205.87.198/logocanais/primebox.png" group-title="Premium", Prime Box
+http://168.205.87.198:8555/live/elienecp/123456/83.m3u8
+#EXTINF: -1 tvg-name="RATIMBUM" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png" group-title="Premium", Ratimbum
+http://168.205.87.198:8555/live/elienecp/123456/84.m3u8
+#EXTINF: -1 tvg-name="RECORD MINAS" tvg-logo="http://168.205.87.198/logocanais/recordtvminas.png" group-title="Premium", Record MG
+http://168.205.87.198:8555/live/elienecp/123456/96.m3u8
+#EXTINF: -1 tvg-name="RECORD NEWS" tvg-logo="http://168.205.87.198/logocanais/recordnews.png" group-title="Premium", Record News
+http://168.205.87.198:8555/live/elienecp/123456/97.m3u8
+#EXTINF: -1 tvg-name="REDE GENESIS" tvg-logo="http://168.205.87.198/logocanais/redegenesis.png" group-title="Premium", Rede Genesis
+http://168.205.87.198:8555/live/elienecp/123456/98.m3u8
+#EXTINF: -1 tvg-name="REDE METROPOLE" tvg-logo="http://168.205.87.198/logocanais/redemetropole.png" group-title="Premium", Rede Metrópole
+http://168.205.87.198:8555/live/elienecp/123456/99.m3u8
+#EXTINF: -1 tvg-name="REDE MINAS" tvg-logo="http://168.205.87.198/logocanais/redeminas.png" group-title="Premium", Rede Minas
+http://168.205.87.198:8555/live/elienecp/123456/101.m3u8
+#EXTINF: -1 tvg-name="REDE TV" tvg-logo="http://168.205.87.198/logocanais/redetv.png" group-title="Premium", Rede TV
+http://168.205.87.198:8555/live/elienecp/123456/102.m3u8
+#EXTINF: -1 tvg-name="REDE VIDA" tvg-logo="http://168.205.87.198/logocanais/redevida.png" group-title="Premium", Rede Vida
+http://168.205.87.198:8555/live/elienecp/123456/103.m3u8
+#EXTINF: -1 tvg-name="SBT ALTEROSA" tvg-logo="http://168.205.87.198/logocanais/sbtminas.png" group-title="Premium", SBT Alterosa
+http://168.205.87.198:8555/live/elienecp/123456/104.m3u8
+#EXTINF: -1 tvg-name="SCH" tvg-logo="http://168.205.87.198/logocanais/sch.png" group-title="Premium", SCH
+http://168.205.87.198:8555/live/elienecp/123456/105.m3u8
+#EXTINF: -1 tvg-name="SECULO 21" tvg-logo="http://168.205.87.198/logocanais/redeseculo21.png" group-title="Premium", Século 21
+http://168.205.87.198:8555/live/elienecp/123456/106.m3u8
+#EXTINF: -1 tvg-name="SESC TV" tvg-logo="http://168.205.87.198/logocanais/sesctv.png" group-title="Premium", Sesc TV
+http://168.205.87.198:8555/live/elienecp/123456/107.m3u8
+#EXTINF: -1 tvg-name="SPACE" tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="Premium", Space
+http://168.205.87.198:8555/live/elienecp/123456/110.m3u8
+#EXTINF: -1 tvg-name="STAR CHANNEL" tvg-logo="http://168.205.87.198/logocanais/foxchannel.png" group-title="Premium", Star Channel
+http://168.205.87.198:8555/live/elienecp/123456/63.m3u8
+#EXTINF: -1 tvg-name="STAR LIFE" tvg-logo="http://168.205.87.198/logocanais/foxlife.png" group-title="Premium", Star Life
+http://168.205.87.198:8555/live/elienecp/123456/64.m3u8
+#EXTINF: -1 tvg-name="TCM" tvg-logo="http://168.205.87.198/logocanais/tcm.png" group-title="Premium", TCM
+http://168.205.87.198:8555/live/elienecp/123456/112.m3u8
+#EXTINF: -1 tvg-name="TNT" tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="Premium", TNT
+http://168.205.87.198:8555/live/elienecp/123456/116.m3u8
+#EXTINF: -1 tvg-name="TNT SÉRIES" tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="Premium", TNT Séries
+http://168.205.87.198:8555/live/elienecp/123456/117.m3u8
+#EXTINF: -1 tvg-name="TRAVEL" tvg-logo="http://168.205.87.198/logocanais/travelbox.png" group-title="Premium", Travel
+http://168.205.87.198:8555/live/elienecp/123456/124.m3u8
+#EXTINF: -1 tvg-name="TRUTV" tvg-logo="http://168.205.87.198/logocanais/trutv.png" group-title="Premium", TruTV
+http://168.205.87.198:8555/live/elienecp/123456/130.m3u8
+#EXTINF: -1 tvg-name="TV APARECIDA" tvg-logo="http://168.205.87.198/logocanais/tvaparecida.png" group-title="Premium", TV Aparecida
+http://168.205.87.198:8555/live/elienecp/123456/131.m3u8
+#EXTINF: -1 tvg-name="TV BRASIL" tvg-logo="http://168.205.87.198/logocanais/tvbrasil.png" group-title="Premium", TV Brasil
+http://168.205.87.198:8555/live/elienecp/123456/134.m3u8
+#EXTINF: -1 tvg-name="TV BRASIL 2" tvg-logo="http://168.205.87.198/logocanais/tvbrasil2.png" group-title="Premium", TV Brasil 2
+http://168.205.87.198:8555/live/elienecp/123456/135.m3u8
+#EXTINF: -1 tvg-name="TV CÂMARA" tvg-logo="http://168.205.87.198/logocanais/tvcamara.png" group-title="Premium", TV Câmara
+http://168.205.87.198:8555/live/elienecp/123456/136.m3u8
+#EXTINF: -1 tvg-name="TV ESCOLA" tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="Premium", TV Escola
+http://168.205.87.198:8555/live/elienecp/123456/137.m3u8
+#EXTINF: -1 tvg-name="TV JUSTIÇA" tvg-logo="http://168.205.87.198/logocanais/tvjustica.png" group-title="Premium", TV Justiça
+http://168.205.87.198:8555/live/elienecp/123456/138.m3u8
+#EXTINF: -1 tvg-name="TV SENADO" tvg-logo="http://168.205.87.198/logocanais/tvsenado.png" group-title="Premium", TV Senado
+http://168.205.87.198:8555/live/elienecp/123456/139.m3u8
+#EXTINF: -1 tvg-name="VRT CHANNEL" group-title="Premium", VRT Channel
+http://168.205.87.198:8555/live/elienecp/123456/146.m3u8
+#EXTINF: -1 tvg-name="WOOHOO" tvg-logo="http://168.205.87.198/logocanais/woohoo.png" group-title="Premium", Woohoo
+http://168.205.87.198:8555/live/elienecp/123456/141.m3u8
