@@ -16,9 +16,9 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-id="NatGeoWILD.us" tvg-name="Nat Geo WILD" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Nasa tv",Nat Geo WILD
 https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Nasa Tv",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Nasa tv",National Geographic
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Nasa Tv",National Geographic Abu Dhabi
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Nasa tv",National Geographic Abu Dhabi
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 
@@ -820,7 +820,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b3960007
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 1 
-https://play-akamai.pongalo.com/game-death_pt/game-death_pt_1-1/play_v1_hls_720p.m3u8
+https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 2 
 https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w163046694.m3u8
@@ -3339,11 +3339,11 @@ https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/
 https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
 #EXTINF:-1 tvg-id="LoopThatsHot.us" tvg-name="Loop That's Hot" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/5e4e6c6989bea49734411e5e708f6089.jpeg" group-title="Loop",Loop That's Hot 
 https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopTrending.us" tvg-name="Loop Trending" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" group-title="United States",Loop Trending (West) [Geo-blocked]
+#EXTINF:-1 tvg-id="LoopTrending.us" tvg-name="Loop Trending" tvg-country="US" tvg-language="English" tvg-logo="https://static.12core.net/0c789462f6e85086d20ccc04da342567.jpeg" group-title="Loop",Loop Trending (West) [Geo-blocked]
 https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopUnwind.us" tvg-name="Loop Unwind" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" group-title="United States",Loop Unwind 
+#EXTINF:-1 tvg-id="LoopUnwind.us" tvg-name="Loop Unwind" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/63d5db69985110f57bd35c4cd22ee74a.jpeg" group-title="Loop",Loop Unwind 
 https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
-#EXTINF:-1 tvg-id="LoopYachtRock.us" tvg-name="Loop Yacht Rock" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" group-title="United States",Loop Yacht Rock 
+#EXTINF:-1 tvg-id="LoopYachtRock.us" tvg-name="Loop Yacht Rock" tvg-country="US" tvg-language="Loop" tvg-logo="https://static.12core.net/43a4136e6bc3e153f68bb2dd200a6635.jpeg" group-title="Loop",Loop Yacht Rock 
 
 
 
