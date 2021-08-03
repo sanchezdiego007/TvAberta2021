@@ -1,14 +1,14 @@
 #EXTINF:-1 group-title="Nasa tv" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg",Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (720p)
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="Nasa tv",NASA TV (720p)
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (720p) 
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV (720p) 
 https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV (504p)
+#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV (504p)
 https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-name="NASA TV ISS Views" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV ISS Views
+#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-name="NASA TV ISS Views" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV ISS Views
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="Nasa tv",NASA TV Media (720p)
+#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Nasa tv",NASA TV Public (720p)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
@@ -345,19 +345,6 @@ https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/m
 
 
 
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT 
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT",SBT 
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT", SBT 
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
@@ -367,24 +354,18 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w2
 #EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
-https://5a1c76baf08c0.streamlock.net/sbtinterior/89wjwhdcbc0ku3g6fydplcbi7diamzfe/chunklist_w150307383.m3u8
 
 #EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
-https://5a1c76baf08c0.streamlock.net/z438-live/stream/chunklist_w313759947.m3u8
-
-#EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="SBT",SBT 
-http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8?PEDROJUNIORTUTORIAIS
+http://wz4.dnip.com.br:1935/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT 
-https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w1956671933.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 group-title="SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1907898900_b216000_sleng.m3u8
-
 
 
 
@@ -527,16 +508,17 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 2
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1575960143.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 3
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 4
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1575960143.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
 
 
 
@@ -611,11 +593,9 @@ https://play-akamai.pongalo.com/kanye-glastonbury/kanye-glastonbury_1-1/hls_1500
 
 
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band id
-http://168.205.87.198:8555/live/elienecp/123456/36.m3u8
 
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band CNN
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/chunklist_w389063840.m3u8
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="Jornalismo",Band News
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 
 #EXTINF:-1 group-title="Jornalismo" tvg-logo="https://www.easydeliver.com.br/wp-content/themes/encore/images/media-logo/globo_news_pb.png" ,Globo News
@@ -691,7 +671,7 @@ http://200.189.113.201/hls/tve.m3u8
 http://c2.manasat.com:1935/kkids/kkids2/chunklist_w679212746.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/reconsatkids.png" group-title="Infantil", Recon SatKids
-https://stmv1.srvif.com/reconsatkids/reconsatkids/playlist-480p.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/8e2460502f204b225c89d644e88153a8.png" group-title="Infantil", Anime tv
 https://stmv1.srvif.com/animetv/animetv/chunklist_w1180850721.m3u8
@@ -1330,7 +1310,7 @@ https://stmv1.redegrava.com.br/redegrava/redegrava/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Especial" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading 
-https://centurylink.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1adbd8812fb29f4d3e883381302329aa.webp" group-title="Especial",Geg TV
 https://5c483b9d1019c.streamlock.net/8064/8064/chunklist_w833587699.m3u8
@@ -3265,7 +3245,7 @@ http://vipeiptv.com:25461/91695100fra/91695100fra/925587
 
 
 #EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
-https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
 #EXTINF:-1 tvg-id="Loop80s.us" tvg-name="Loop 80s" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/lDmxwji.png" group-title="Loop",Loop 80s 
