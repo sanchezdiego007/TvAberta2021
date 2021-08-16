@@ -1,37 +1,3 @@
-#EXTINF:-1 group-title="Nasa tv" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg",Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="https://www.htcplus.net/wp-content/uploads/2016/04/nasa_tv.jpg" group-title="Nasa tv",NASA TV (720p)
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV (720p) 
-https://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
-#EXTINF:-1 tvg-id="NASATV.us" tvg-name="NASA TV" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV (504p)
-https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
-#EXTINF:-1 tvg-id="NASATVISSViews.us" tvg-name="NASA TV ISS Views" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV ISS Views
-http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="V" group-title="Nasa tv",NASA TV Media (720p)
-https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Nasa tv",NASA TV Public (720p)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-name="NASA TV Public" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CH6VcTR.jpg" group-title="Nasa tv",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-#EXTINF:-1 tvg-id="NatGeoWILD.us" tvg-name="Nat Geo WILD" tvg-country="US" tvg-language="English" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="Nasa tv",Nat Geo WILD
-https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-country="US" tvg-language="English" tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/Color-National-Geographic-Logo-500x250.jpg" group-title="Nasa tv",National Geographic
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.us" tvg-name="National Geographic Abu Dhabi" tvg-country="US" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Nat_geo_channel_abu_dhabi.png/220px-Nat_geo_channel_abu_dhabi.png" group-title="Nasa tv",National Geographic Abu Dhabi
-http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -964,6 +930,8 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-ID="nbatv.us" tvg-name="US:   NBA TV HD" tvg-logo="https://www.multichannel.com/.image/t_share/MTU0MDYzODU5MTk1ODQ4NDQz/nba-tv_logoresizedjpg.jpg" group-title="Esportes",US:   NBA TV HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/3484.ts
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
@@ -8515,6 +8483,240 @@ https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
+
+
+
+
+
+
+#EXTINF:-1 tvg-ID="aande.br" tvg-name="BR: A&E" tvg-logo="http://logo-load.com/uploads/posts/2016-04/1459526596_a-and-e-logo.png" group-title="Brazil",BR: A&E
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5673.ts
+#EXTINF:-1 tvg-ID="axn.br" tvg-name="BR: AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="Brazil",BR: AXN
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5675.ts
+#EXTINF:-1 tvg-ID="band.br" tvg-name="BR: BAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/1200px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Brazil",BR: BAND
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5676.ts
+#EXTINF:-1 tvg-ID="bandnews.br" tvg-name="BR: BAND NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/BandNews_logo_2019.png" group-title="Brazil",BR: BAND NEWS
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5677.ts
+#EXTINF:-1 tvg-ID="boomerang.br" tvg-name="BR: Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="Brazil",BR: Boomerang
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7368.ts
+#EXTINF:-1 tvg-ID="tvescola.br" tvg-name="BR: CANAL ESCOLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/TV_Escola.png" group-title="Brazil",BR: CANAL ESCOLA
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Canal Sony" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canal_Sony_logo_monochrome.svg/1045px-Canal_Sony_logo_monochrome.svg.png" group-title="Brazil",BR: Canal Sony
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7366.ts
+#EXTINF:-1 tvg-ID="cartoonnetwork.br" tvg-name="BR: Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Brazil",BR: Cartoon Network
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8062.ts
+#EXTINF:-1 tvg-ID="combate.br" tvg-name="BR: Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/Canal-combate-logo.png" group-title="Brazil",BR: Combate
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7302.ts
+#EXTINF:-1 tvg-ID="combate.br" tvg-name="BR: Combate HD" tvg-logo="http://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png" group-title="Brazil",BR: Combate HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17069.ts
+#EXTINF:-1 tvg-ID="comedycentral.br" tvg-name="BR: Comedy Central" tvg-logo="http://searchvectorlogo.com/wp-content/uploads/2019/08/comedy-central-logo-vector.png" group-title="Brazil",BR: Comedy Central
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17534.ts
+#EXTINF:-1 tvg-ID="discoverchannel.br" tvg-name="BR: DISCOVERY" tvg-logo="https://www.underconsideration.com/brandnew/archives/discovery_channel_2019_logo_before_after.png" group-title="Brazil",BR: DISCOVERY
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5681.ts
+#EXTINF:-1 tvg-ID="discoverchannel.br" tvg-name="BR: Discovery Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/3/34/Discovery_Channel_2000.png" group-title="Brazil",BR: Discovery Channel HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17068.ts
+#EXTINF:-1 tvg-ID="discoverycivilization.br" tvg-name="BR: Discovery Civilization" tvg-logo="https://cdn.worldvectorlogo.com/logos/discovery-civilization-channel.svg" group-title="Brazil",BR: Discovery Civilization
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7364.ts
+#EXTINF:-1 tvg-ID="discoverykids.br" tvg-name="BR: Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="Brazil",BR: Discovery Kids
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17533.ts
+#EXTINF:-1 tvg-ID="discoveryscience.br" tvg-name="BR: Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1200px-Discovery_Science_2017_Logo.svg.png" group-title="Brazil",BR: Discovery Science
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7363.ts
+#EXTINF:-1 tvg-ID="discoveryturbo.br" tvg-name="BR: Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Brazil",BR: Discovery Turbo HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17065.ts
+#EXTINF:-1 tvg-ID="discoveryworld.br" tvg-name="BR: Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png" group-title="Brazil",BR: Discovery World HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17064.ts
+#EXTINF:-1 tvg-ID="disney.br" tvg-name="BR: Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/2014_Disney_Channel_logo.svg" group-title="Brazil",BR: Disney Channel
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17531.ts
+#EXTINF:-1 tvg-ID="disneyjunior.br" tvg-name="BR: Disney Junior" tvg-logo="https://cdn.imgbin.com/6/3/2/imgbin-disney-junior-logo-disney-la-cha-ne-the-walt-disney-company-graphics-disney-junior-logo-yWV1Qp7gRNiCUMsf6JAdyrn79.jpg" group-title="Brazil",BR: Disney Junior
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17530.ts
+#EXTINF:-1 tvg-ID="disneyxd.br" tvg-name="BR: Disney XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Disney_XD_-_2015.svg/1200px-Disney_XD_-_2015.svg.png" group-title="Brazil",BR: Disney XD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17529.ts
+#EXTINF:-1 tvg-ID="eentertainment.br" tvg-name="BR: E!" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png" group-title="Brazil",BR: E!
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7359.ts
+#EXTINF:-1 tvg-ID="Playboy TV" tvg-name="BR: E! MAXX 2" tvg-logo="https://m.traxxas.com/sites/default/files/images/products/3903-252w.jpg" group-title="Brazil",BR: E! MAXX 2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8060.ts
+#EXTINF:-1 tvg-ID="espn.br" tvg-name="BR: ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Brazil",BR: ESPN
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7357.ts
+#EXTINF:-1 tvg-ID="espnbrasil.br" tvg-name="BR: ESPN Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Brazil",BR: ESPN Brasil
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5328.ts
+#EXTINF:-1 tvg-ID="espn.br" tvg-name="BR: ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ESPN_Brasil_logo.svg/1200px-ESPN_Brasil_logo.svg.png" group-title="Brazil",BR: ESPN HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5327.ts
+#EXTINF:-1 tvg-ID="fishtv.br" tvg-name="BR: Fish TV" tvg-logo="http://cdn.tvpassport.com/image/show/960x540/54477.jpg" group-title="Brazil",BR: Fish TV
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7924.ts
+#EXTINF:-1 tvg-ID="fox.br" tvg-name="BR: FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1200px-Fox_Channel_logo.svg.png" group-title="Brazil",BR: FOX
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5687.ts
+#EXTINF:-1 tvg-ID="fox.br" tvg-name="BR: FOX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1200px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Brazil",BR: FOX HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17058.ts
+#EXTINF:-1 tvg-ID="foxlife.br" tvg-name="BR: Fox Life" tvg-logo="https://www.euroweeklynews.com/wp-content/uploads/2014/08/e202708404b71dd074e5bb98a6300523-696x384.jpg" group-title="Brazil",BR: Fox Life
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7356.ts
+#EXTINF:-1 tvg-ID="foxlife.br" tvg-name="BR: FOX LIFE FHD" tvg-logo="https://www.euroweeklynews.com/wp-content/uploads/2014/08/e202708404b71dd074e5bb98a6300523-696x384.jpg" group-title="Brazil",BR: FOX LIFE FHD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/31901.ts
+#EXTINF:-1 tvg-ID="foxpremium1.br" tvg-name="BR: FOX Premium 1 HD" tvg-logo="https://www.freepnglogos.com/uploads/fox-premium-logo-png-33.png" group-title="Brazil",BR: FOX Premium 1 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17056.ts
+#EXTINF:-1 tvg-ID="foxsports.br" tvg-name="BR: Fox Sport HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="Brazil",BR: Fox Sport HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17054.ts
+#EXTINF:-1 tvg-ID="foxsports2.br" tvg-name="BR: FOX Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/200px-FoxSports1.png" group-title="Brazil",BR: FOX Sports 1
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5322.ts
+#EXTINF:-1 tvg-ID="foxsports2.br" tvg-name="BR: Fox Sports 2" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/fox-sports-logo-png-1.png" group-title="Brazil",BR: Fox Sports 2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5320.ts
+#EXTINF:-1 tvg-ID="fx.br" tvg-name="BR: FX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Brazil",BR: FX
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7925.ts
+#EXTINF:-1 tvg-ID="fx.br" tvg-name="BR: FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="Brazil",BR: FX HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17053.ts
+#EXTINF:-1 tvg-ID="globonews.br" tvg-name="BR: Globo News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/GloboNews_logo.svg/640px-GloboNews_logo.svg.png" group-title="Brazil",BR: Globo News
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7303.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Globo_Premium_logo_2017.png" group-title="Brazil",BR: Globo Premium
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7355.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Globo_logo_and_wordmark.svg" group-title="Brazil",BR: Globo SP
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7842.ts
+#EXTINF:-1 tvg-ID="gloob.br" tvg-name="BR: Gloob" tvg-logo="https://4.bp.blogspot.com/-tfn_PoBjtrM/TxOstJ-47nI/AAAAAAAADz0/GgaO3B2S2xo/s1600/Gloob+logo+2012.jpg" group-title="Brazil",BR: Gloob
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7353.ts
+#EXTINF:-1 tvg-ID="gnt.br" tvg-name="BR: GNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brazil",BR: GNT
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7352.ts
+#EXTINF:-1 tvg-ID="gnt.br" tvg-name="BR: GNT HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/1200px-GNT_logo-roxo.svg.png" group-title="Brazil",BR: GNT HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17051.ts
+#EXTINF:-1 tvg-ID="history2.br" tvg-name="BR: H2" tvg-logo="https://img.favpng.com/18/3/8/h2-logo-television-channel-history-png-favpng-nm0j4zQPc406YNUkpdvQSp1dm.jpg" group-title="Brazil",BR: H2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7351.ts
+#EXTINF:-1 tvg-ID="history2.br" tvg-name="BR: H2 HD" tvg-logo="https://img.favpng.com/18/3/8/h2-logo-television-channel-history-png-favpng-nm0j4zQPc406YNUkpdvQSp1dm.jpg" group-title="Brazil",BR: H2 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17050.ts
+#EXTINF:-1 tvg-ID="hbo.br" tvg-name="BR: HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Brazil",BR: HBO
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5685.ts
+#EXTINF:-1 tvg-ID="hbo2.br" tvg-name="BR: HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Brazil",BR: HBO 2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5686.ts
+#EXTINF:-1 tvg-ID="hbo2.br" tvg-name="BR: HBO 2 HD" tvg-logo="https://cdn.imgbin.com/12/15/12/imgbin-hbo-2-television-channel-hbo-hd-hbo-fXX0jWrNT7XzbzsMrp8aFx1Pg.jpg" group-title="Brazil",BR: HBO 2 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17049.ts
+#EXTINF:-1 tvg-ID="hbofamily.br" tvg-name="BR: HBO Family" tvg-logo="https://cdn.imgbin.com/16/17/22/imgbin-logo-hbo-brasil-hbo-family-graphics-hbo-plus-famili-zWP8fe3X6EsMpEj4aK8kWF5Nh.jpg" group-title="Brazil",BR: HBO Family
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7350.ts
+#EXTINF:-1 tvg-ID="hboplusbrasil.br" tvg-name="BR: HBO Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Brazil",BR: HBO Plus
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7349.ts
+#EXTINF:-1 tvg-ID="hboplusbrasil.br" tvg-name="BR: HBO Plus e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Brazil",BR: HBO Plus e
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17526.ts
+#EXTINF:-1 tvg-ID="hboplusbrasil.br" tvg-name="BR: HBO Plus HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Brazil",BR: HBO Plus HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17046.ts
+#EXTINF:-1 tvg-ID="hbosignature.br" tvg-name="BR: HBO Signature" tvg-logo="https://cdn.imgbin.com/15/17/13/imgbin-hbo-signature-television-logo-others-NtwbQ48AWsaG4Kk3nq63V6gEa.jpg" group-title="Brazil",BR: HBO Signature
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7348.ts
+#EXTINF:-1 tvg-ID="hbosignature.br" tvg-name="BR: HBO Signature HD" tvg-logo="https://cdn.imgbin.com/15/17/13/imgbin-hbo-signature-television-logo-others-NtwbQ48AWsaG4Kk3nq63V6gEa.jpg" group-title="Brazil",BR: HBO Signature HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17045.ts
+#EXTINF:-1 tvg-ID="historychannel.br" tvg-name="BR: History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Brazil",BR: History Channel
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7319.ts
+#EXTINF:-1 tvg-ID="historychannel.br" tvg-name="BR: History Channel HD" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg" group-title="Brazil",BR: History Channel HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17044.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: ID - Investiga" tvg-logo="http://kmedianet.es/wp-content/uploads/2017/08/History_Channel_2015_logo.jpg" group-title="Brazil",BR: ID - Investiga
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17043.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Investiga" tvg-logo="https://mpng.pngfly.com/20180402/suq/kisspng-investigation-discovery-television-channel-logo-di-investigation-5ac1ea0e838598.1279611915226578065387.jpg" group-title="Brazil",BR: Investiga
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7347.ts
+#EXTINF:-1 tvg-ID="Playboy TV" tvg-name="BR: Mais Globosat sd" tvg-logo="http://sapi.panaceiafilmes.com/wp-content/uploads/2018/06/Mais-globosat.png" group-title="Brazil",BR: Mais Globosat sd
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Max_%28channel%29.svg/1200px-Max_%28channel%29.svg.png" group-title="Brazil",BR: Max HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7346.ts
+#EXTINF:-1 tvg-ID="maxprimebrasil.br" tvg-name="BR: Max Prime" tvg-logo="https://pbs.twimg.com/profile_images/1017126187343245316/3KEsGf63_400x400.jpg" group-title="Brazil",BR: Max Prime
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7345.ts
+#EXTINF:-1 tvg-ID="maxup.br" tvg-name="BR: Max Up" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Max-up-canal.png" group-title="Brazil",BR: Max Up
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7344.ts
+#EXTINF:-1 tvg-ID="megapix.br" tvg-name="BR: MegaPix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Brazil",BR: MegaPix
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8054.ts
+#EXTINF:-1 tvg-ID="megapix.br" tvg-name="BR: Megapix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Megapix_logo_2011.png" group-title="Brazil",BR: Megapix HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17042.ts
+#EXTINF:-1 tvg-ID="multishow.br" tvg-name="BR: Multishow" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Multishow_logo_red_2012.svg" group-title="Brazil",BR: Multishow
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7343.ts
+#EXTINF:-1 tvg-ID="nationalgeographic.br" tvg-name="BR: National Geographic" tvg-logo="https://terravivagrants.org/wp-content/uploads/2019/01/NatGeo-Logo-300x142.png" group-title="Brazil",BR: National Geographic
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7342.ts
+#EXTINF:-1 tvg-ID="Playboy TV" tvg-name="BR: Nick" tvg-logo="https://alchetron.com/cdn/nickelodeon-brazil-07bb5ddb-53b6-4196-9d7a-6de2fa7c094-resize-750.jpg" group-title="Brazil",BR: Nick
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7341.ts
+#EXTINF:-1 tvg-ID="nickjr.br" tvg-name="BR: Nick Jr" tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="Brazil",BR: Nick Jr
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8071.ts
+#EXTINF:-1 tvg-ID="nickelodeon.br" tvg-name="BR: Nickelodeon" tvg-logo="https://licensinginternational.org/wp-content/uploads/2019/11/after.png" group-title="Brazil",BR: Nickelodeon
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17519.ts
+#EXTINF:-1 tvg-ID="off.br" tvg-name="BR: OFF HD" tvg-logo="https://s2.glbimg.com/BLSvC7xMRz9JYM5IEPf6rV_fFJ0=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/2f/04/da94613e7f31ad10d5b145aa594e.png" group-title="Brazil",BR: OFF HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17041.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: OfFHD" tvg-logo="https://img.favpng.com/10/6/12/canal-off-brazil-logo-globosat-television-channel-png-favpng-DT0miP8510iem1WXYrQP6a7sG_t.jpg" group-title="Brazil",BR: OfFHD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/18918.ts
+#EXTINF:-1 tvg-ID="paramount.br" tvg-name="BR: Paramount HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/400px-Paramount_Channel.svg.png" group-title="Brazil",BR: Paramount HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17040.ts
+#EXTINF:-1 tvg-ID="premiere2.br" tvg-name="BR: Premiere 2" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere 2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7338.ts
+#EXTINF:-1 tvg-ID="premiere2.br" tvg-name="BR: Premiere 2 HD" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere 2 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17039.ts
+#EXTINF:-1 tvg-ID="premiere4.br" tvg-name="BR: Premiere 4" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere 4
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7336.ts
+#EXTINF:-1 tvg-ID="premiere5.br" tvg-name="BR: Premiere 5 HD" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere 5 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17036.ts
+#EXTINF:-1 tvg-ID="premiere6.br" tvg-name="BR: Premiere 6" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere 6
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17517.ts
+#EXTINF:-1 tvg-ID="premiereclubes.br" tvg-name="BR: Premiere Clubes" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere Clubes
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7333.ts
+#EXTINF:-1 tvg-ID="premiereclubes.br" tvg-name="BR: Premiere Clubes HD" tvg-logo="https://www.broadcastbrazil.com/column/files/imagesblog_paytv-04.jpg" group-title="Brazil",BR: Premiere Clubes HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17035.ts
+#EXTINF:-1 tvg-ID="recordtvbrasÃƒÂ¬lia.br" tvg-name="BR: Record HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/14/Logo_of_Rede_Record.png" group-title="Brazil",BR: Record HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17034.ts
+#EXTINF:-1 tvg-ID="recordnews.br" tvg-name="BR: Record News" tvg-logo="https://e7.pngegg.com/pngimages/817/660/png-clipart-record-news-recordtv-television-channel-new-record-television-logo.png" group-title="Brazil",BR: Record News
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7926.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Record sp" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/recordtvsp.png" group-title="Brazil",BR: Record sp
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17511.ts
+#EXTINF:-1 tvg-ID="redebrasil.br" tvg-name="BR: Rede Brasil" tvg-logo="https://cdn.imgbin.com/18/1/10/imgbin-brazil-rede-brasil-de-televis-o-television-channel-2-14-LtUMvyS0TtumLYPfk2GTgpNt3.jpg" group-title="Brazil",BR: Rede Brasil
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17510.ts
+#EXTINF:-1 tvg-ID="sbt.br" tvg-name="BR: SBT HD" tvg-logo="https://i.pinimg.com/originals/6a/f6/2b/6af62b2878f2187654737049c81b3eff.jpg" group-title="Brazil",BR: SBT HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17033.ts
+#EXTINF:-1 tvg-ID="space.br" tvg-name="BR: Space Brasil" tvg-logo="https://cdn.imgbin.com/13/0/20/imgbin-space-television-channel-streaming-television-turner-broadcasting-system-television-channel-3zSDEDcjyAZq9QHfLfPRe7VkE.jpg" group-title="Brazil",BR: Space Brasil
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8058.ts
+#EXTINF:-1 tvg-ID="space.br" tvg-name="BR: Space HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/200px-SpaceLogo.svg.png" group-title="Brazil",BR: Space HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17032.ts
+#EXTINF:-1 tvg-ID="SporTV" tvg-name="BR: Sport TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: Sport TV
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7331.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPORT TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: SPORT TV 2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Sport TV 2 HD" tvg-logo="https://www.thesportsdb.com/images/media/logo/qpyrpq1470407606.png" group-title="Brazil",BR: Sport TV 2 HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17031.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: SPORT TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: SPORT TV 3
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5317.ts
+#EXTINF:-1 tvg-ID="sportv.br" tvg-name="BR: Sport TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: Sport TV HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17029.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Sport TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: Sport TV2
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7330.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Sport TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SporTV_2017_logo.svg/220px-SporTV_2017_logo.svg.png" group-title="Brazil",BR: Sport TV3
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7329.ts
+#EXTINF:-1 tvg-ID="studiouniversal.br" tvg-name="BR: Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Brazil",BR: Studio Universal
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7922.ts
+#EXTINF:-1 tvg-ID="syfy.br" tvg-name="BR: Syfy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="Brazil",BR: Syfy
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8050.ts
+#EXTINF:-1 tvg-ID="telecineaction.br" tvg-name="BR: TC Action" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Brazil",BR: TC Action
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7326.ts
+#EXTINF:-1 tvg-ID="telecinepremium.br" tvg-name="BR: TC Premium" tvg-logo="http://images.mi.tv/channels/br_telecine-premium-1_m.png" group-title="Brazil",BR: TC Premium
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7322.ts
+#EXTINF:-1 tvg-ID="telecineaction.br" tvg-name="BR: Telecine Action HD" tvg-logo="http://www.tvmagazine.com.br/imagens/icones/600/tcactionb.png" group-title="Brazil",BR: Telecine Action HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17027.ts
+#EXTINF:-1 tvg-ID="telecinefun.br" tvg-name="BR: Telecine Fun HD" tvg-logo="https://i.pinimg.com/originals/c3/79/80/c3798088b6df5178ff8fe3ae7b7d9ec3.jpg" group-title="Brazil",BR: Telecine Fun HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17026.ts
+#EXTINF:-1 tvg-ID="telecinepipoca.br" tvg-name="BR: Telecine Pipoca HD" tvg-logo="https://i.pinimg.com/originals/bd/7f/f7/bd7ff701fecffe631f0945d6c02eec7b.jpg" group-title="Brazil",BR: Telecine Pipoca HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17025.ts
+#EXTINF:-1 tvg-ID="telecinepremium.br" tvg-name="BR: Telecine Premium HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_telecine-premium-hd_m.png" group-title="Brazil",BR: Telecine Premium HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17024.ts
+#EXTINF:-1 tvg-ID="tnt.br" tvg-name="BR: TNT HD" tvg-logo="https://img.favpng.com/9/14/9/tnt-logo-television-channel-space-png-favpng-UJBEK0XSa4w7JqFHnrmKsNXNq.jpg" group-title="Brazil",BR: TNT HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17023.ts
+#EXTINF:-1 tvg-ID="tntseries.br" tvg-name="BR: TNT Series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Brazil",BR: TNT Series
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7318.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TV Diario" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/br-tv-diario-3392.jpg" group-title="Brazil",BR: TV Diario
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8078.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TV Diario Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png" group-title="Brazil",BR: TV Diario Brasil
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5311.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TV Globo Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Globo_Premium_logo_2017.png" group-title="Brazil",BR: TV Globo Premium
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5310.ts
+#EXTINF:-1 tvg-ID="Record" tvg-name="BR: TV Record" tvg-logo="https://androidtvbrazil.files.wordpress.com/2014/04/record_logo_a_l_0.jpg" group-title="Brazil",BR: TV Record
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/5308.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/%2BTVI_logo.png/200px-%2BTVI_logo.png" group-title="Brazil",BR: TVI
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8068.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BR: Universal Channels HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a0/Universal_Channel_logo.png" group-title="Brazil",BR: Universal Channels HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17021.ts
+#EXTINF:-1 tvg-ID="viva.br" tvg-name="BR: Viva" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Viva_%28UK_%26_Ireland%29.svg/1200px-Viva_%28UK_%26_Ireland%29.svg.png" group-title="Brazil",BR: Viva
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/7316.ts
+#EXTINF:-1 tvg-ID="warnerchannel.br" tvg-name="BR: Warner Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Brazil",BR: Warner Channel
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17497.ts
+#EXTINF:-1 tvg-ID="warnerchannel.br" tvg-name="BR: Warner Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Brazil",BR: Warner Channel HD
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17020.ts
+#EXTINF:-1 tvg-ID="woohoo.br" tvg-name="BR: Woohoo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Brazil",BR: Woohoo
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/17496.ts
+#EXTINF:-1 tvg-ID="woohoo.br" tvg-name="BR: Woohoo Brasil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Woohoo_logo_2014.png" group-title="Brazil",BR: Woohoo Brasil
+http://iptv-line.com:8080/live/info4-restream/Patrik1016987987/8057.ts
 
 
 
