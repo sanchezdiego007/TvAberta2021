@@ -1,9 +1,12 @@
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais https://video.wixstatic.com/video/205e54_bbbedd1d38a34b798f81507705319281/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais 
+https://video.wixstatic.com/video/205e54_bbbedd1d38a34b798f81507705319281/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Televizo FREE https://video.wixstatic.com/video/205e54_065a2d684c084162973b0b2992fc9b52/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Televizo FREE 
+https://video.wixstatic.com/video/205e54_065a2d684c084162973b0b2992fc9b52/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Atualizar Canais https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Atualizar Canais 
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", VIP http://168.205.87.198:8555/live/elienecp/123456/117.m3u8
 
