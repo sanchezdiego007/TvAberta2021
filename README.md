@@ -888,6 +888,23 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png?1628003207259" group-title="TVCine",TVCine Action 
+http://185.236.229.21:9981/play/a04n
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png?1628003149272" group-title="TVCine",TVCine Edition 
+http://185.236.229.21:9981/play/a061
+
+#EXTINF:-1 "Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="TVCine",TVCine Emotion 
+http://185.236.229.21:9981/play/a05z
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png?1628002994908" group-title="TVCine",TVCine Top 
+http://185.236.229.21:9981/play/a04w
+
+
+
+
+
+
 
 
 
