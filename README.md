@@ -1,5 +1,25 @@
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Guia de Canais 
+https://video.wixstatic.com/video/205e54_bbbedd1d38a34b798f81507705319281/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Televizo FREE 
+https://video.wixstatic.com/video/205e54_065a2d684c084162973b0b2992fc9b52/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Atualizar Canais 
+https://video.wixstatic.com/video/205e54_0b891e63d50c4d87a70192a327ad7dc8/720p/mp4/file.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", VIP 
+http://168.205.87.198:8555/live/elienecp/123456/117.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="Guia de Canais", Pluto tv BR 
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://i.imgur.com/KMXfp4h.png" group-title="CNT",CNT SP
 http://d1s664t39qub1o.cloudfront.net/live/cnt-londrina_240p414k/index.m3u8
 
