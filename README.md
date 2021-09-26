@@ -3165,3 +3165,50 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtu
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Argentina",UCL TV (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Uruguay",AXN LatinoamÃ©rica (576p)
+http://209.91.213.10:8088/play/a011
+#EXTINF:-1 tvg-id="canal10.uy" tvg-country="UY" tvg-language="Spanish;Castilian" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="Uruguay",Canal 10 (720p)
+https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Uruguay",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="Uruguay",CubaVision Internacional (480p)
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Uruguay",DW EspaÃ±ol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Uruguay",El Garage TV (480p) 
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Uruguay",EWTN el Canal CatÃ³lico (1080p)
+https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Uruguay",Fox Sports 2 Latin America (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Uruguay",France 24 EspaÃ±ol (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Uruguay",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Uruguay",Kanade TV (720p) 
+http://45.32.74.87:81/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Uruguay",Locomotion TV (480p) 
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MTVHitsLatinoamerica.us" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Uruguay",MTV Hits LatinoamÃ©rica (576p)
+http://209.91.213.10:8088/play/a00z
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Uruguay",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ovacion.uy" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Uruguay",Ovacion (720p) 
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="Uruguay",Project Boom
+http://45.32.74.87:81/hls/projectboom.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="LATAM;ES" tvg-language="Spanish" tvg-logo="" group-title="Uruguay",RT en EspaÃ±ol (1080p) 
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Uruguay",Tastemade en EspaÃ±ol (1080p)
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="Uruguay",teleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="LATAM;ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Uruguay",TVG AmÃ©rica (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Uruguay",UCL TV (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
