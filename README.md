@@ -3024,3 +3024,144 @@ http://6d9a.webradio.upx.net.br:9896/stream?
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="5RTv.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/wCQJuaU.jpg" group-title="Argentina",5RTv (720p) 
+https://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+#EXTINF:-1 tvg-id="5TV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/kujnLsO.png" group-title="Argentina",5TV (Corrientes) (480p) 
+http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/6miysb8.png" group-title="Argentina",24/7 Canal de Noticias (720p)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Jo7p7yZ.png" group-title="Argentina",ArgentinÃ­sima Satelital (576p)
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AVCHD.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",AVC HD (Monte Caseros | Corrientes) (360p) 
+#EXTVLCOPT:http-referrer=https://ssh101.com/
+https://tna5.bozztv.com/AVCHD/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Argentina",AXN LatinoamÃ©rica (576p)
+http://209.91.213.10:8088/play/a011
+#EXTINF:-1 tvg-id="Canal2Jujuy.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Canal 2 Jujuy (720p) 
+http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8
+#EXTINF:-1 tvg-id="Canal3Pinamar.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",Canal 3 Pinamar (380p) 
+http://www.intelintec.com.ar:9090/hls/canal3pinamar.m3u8
+#EXTINF:-1 tvg-id="Canal3Rosario.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Canal 3 Rosario (576p) 
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Balcarce.ar" tvg-country="AR" tvg-language="" tvg-logo="http://canal4teleba.com.ar/wp-content/uploads/2016/12/teleba-youtube.jpg" group-title="Argentina",Canal 4 Balcarce (480p) 
+http://inliveserver.com:1935/8550/8550/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT1gHj_nLWhaGNfk5gYfEoENvdvYEEnrlFWCQ&usqp=CAU" group-title="Argentina",Canal 4 Jujuy (720p)
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal4Jujuy.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Canal 4 Jujuy (720p)
+https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7SALTA.ar" tvg-country="AR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3v0JfX-x7l_CBLGgk-PyioJ4pEOIlRkwaOA&usqp=CAU" group-title="Argentina",Canal 7 SALTA (404p)
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9ComodoroRivadavia.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.pixabay.com/photo/2017/05/07/14/59/flag-2292664_960_720.png" group-title="Argentina",Canal 9 (Comodoro Rivadavia) 
+https://live.canalnueve.tv/canal.m3u8
+#EXTINF:-1 tvg-id="Canal9Televida.ar" tvg-country="AR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIgMORTmDFYoZ568zWDgjQ-hkmEHYDVGTFCw&usqp=CAU" group-title="Argentina",Canal 9 Televida (720p) 
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_10_Mar_del_Plata_%28Logo_2010%29.png" group-title="Argentina",Canal 10 Mar del Plata (720p) 
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Local",Canal 10 Rio Negro (720p) 
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-country="AR" tvg-language="" tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="Argentina",Canal 11 La Rioja (360p)
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12PuertoMadryn.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Canal 12 Puerto Madryn (720p) 
+https://5f700d5b2c46f.streamlock.net/madryntv/madryntv/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal13LaRioja.ar" tvg-country="AR" tvg-language="" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/13rioja.png" group-title="Argentina",Canal 13 La Rioja (480p)
+http://arcast.net:1935/mp/mp/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Argentina",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalProvincial.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",Canal Provincial (San Miguel) (360p)
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="CANALTDC.ar" tvg-country="AR" tvg-language="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TDC-TV-Santa-F%C3%A9-en-vivo-Online.png" group-title="Argentina",CANAL TDC (720p) 
+https://5e7cdf2370883.streamlock.net/tdconline/tdconline/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAL9MULTIVISION.ar" tvg-country="AR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg84RxHjkboUjpSwVwVYl7oviFLwGDJs-4UCKzP-JMCdIE4MOb&s" group-title="Argentina",CANAL.9 MULTIVISION (720p)
+https://panel.dattalive.com/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="canalLUZ.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://www.canalluz.org/assets/images/logo-2020-250x79.png" group-title="Argentina",canalLUZ (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 9_3_5 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G36
+https://g1.mc-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8?sense=true
+#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/JbxMs5i.png" group-title="Argentina",Chaco TV (720p) 
+https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/playlist.m3u8
+#EXTINF:-1 tvg-id="ChacraTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/mZlUGBf.jpg" group-title="Argentina",Chacra TV (480p)
+https://s8.stweb.tv/chacra/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CincoTV.ar" tvg-country="AR" tvg-language="" tvg-logo="https://i.pinimg.com/originals/2d/18/54/2d185451c3cc188c39add960b94c6844.png" group-title="Argentina",Cinco TV (480p)
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-language="" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="Argentina",CINE.AR (720p)
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Local",Ciudad TV Resistencia (Chaco) (720p)
+http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="Argentina",CubaVision Internacional (480p)
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Argentina",DW EspaÃ±ol (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Argentina",El Garage TV (480p) 
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Argentina",EWTN el Canal CatÃ³lico (1080p)
+https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
+#EXTINF:-1 tvg-id="FenixTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Op0zdh5.jpg" group-title="Argentina",Fenix TV (Ciudad de La Rioja) (720p)
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Argentina",Fox Sports 2 Latin America (1080p)
+http://209.91.213.10:8088/play/a02r
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Argentina",France 24 EspaÃ±ol (576p)
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="GenTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",GenTV (720p)
+https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Argentina",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Argentina",Kanade TV (720p) 
+http://45.32.74.87:81/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="LivePeruTVStreaming.ar" tvg-country="AR;PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/liveperutv/picture?width=320&height=320" group-title="Argentina",Live PerÃº TV Streaming 
+http://209.126.108.55/app/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) 
+http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MediosRioja.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Medios Rioja (864p) 
+http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MTVHitsLatinoamerica.us" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Argentina",MTV Hits LatinoamÃ©rica (576p)
+http://209.91.213.10:8088/play/a00z
+#EXTINF:-1 tvg-id="MultivisionFederal.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/sZ1yE4e.png" group-title="",MultivisiÃ³n Federal (720p)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicTop.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",MusicTop (720p)
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/J7stpmb.png" group-title="Argentina",Net TV 
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Argentina",Nuevo Tiempo (720p) 
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR;PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQbue1WVK5s0ne8sFBVwxf6u7-TbKAdPjK-YCHI8g=s400-c-k-c0x00ffffff-no-rj" group-title="Argentina",Pakapaka 
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCVVNYxncuD4EfHpKDlPIYcQ/live
+#EXTINF:-1 tvg-id="PowerTV.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Power TV (720p) 
+https://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="Argentina",Project Boom
+http://45.32.74.87:81/hls/projectboom.m3u8
+#EXTINF:-1 tvg-id="QuatroTV.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Quatro TV (540p) 
+https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="LATAM;ES" tvg-language="Spanish" tvg-logo="" group-title="Argentina",RT en EspaÃ±ol (1080p) 
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="RTN.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/daMqavf.jpg" group-title="Argentina",RTN (NeuquÃ©n) (720p)
+http://media.neuquen.gov.ar/rtn/television/media.m3u8
+#EXTINF:-1 tvg-id="SantaMariaTV.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Santa MarÃ­a TV (360p) 
+http://www.trimi.com.ar/santa_maria/streaming/mystream.m3u8
+#EXTINF:-1 tvg-id="T5Satelital.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Eu7rHtj.jpg" group-title="Argentina",T5 Satelital (540p) 
+https://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Argentina",Tastemade (1080p)
+https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="TelefeRosario.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="" group-title="Argentina",Telefe Rosario (720p)
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-id="Telemax.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="Argentina",Telemax (720p)
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 tvg-id="TelenordCorrientes.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/byxXHzq.png" group-title="Argentina",Telenord Corrientes (720p) 
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="TelesolTLS.ar" tvg-country="AR" tvg-language="" tvg-logo="https://telesol.tv/wp-content/uploads/2020/06/LOGO-FINAL-TELESOL-2020.png" group-title="Argentina",Telesol (TLS) (360p) [Not 24/7]
+https://cnnsanjuan.com:9999/live/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="Argentina",teleSUR (1080p)
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="TelpinCanal2.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/B2lKSvo.png" group-title="Argentina",Telpin Canal 2 (720p)
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TierraMiaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://forounivers.com/uploads/monthly_2018_09/small.Logo_TierramiaTV.png.52a0b19eb1a7425c43898d0766558d1a.png" group-title="Argentina",Tierra MÃ­a TV (480p)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaArgentina.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/GVI8kkp.jpg" group-title="Argentina",TV ManÃ¡ Argentina (576p)
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Logo_Televisi%C3%B3n_P%C3%BAblica_Argentina.png" group-title="Argentina",TV PÃºblica (TVP) (1080p)
+https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="LATAM;ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Argentina",TVG AmÃ©rica (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Argentina",UCL TV (720p)
+https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
