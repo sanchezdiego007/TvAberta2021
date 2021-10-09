@@ -3212,3 +3212,131 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Uruguay",UCL TV (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
+
+
+
+
+
+
+
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tFks0c6.jpg" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
+https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Animals Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Relax",Bumblebee TV Rivers Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Tropics Live (1080p)
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Relax",Bumblebee TV Waterfalls Live (1080p)
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (720p)
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:-1 tvg-id="Fireside.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Relax",Fireside (720p)
+https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
+#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank (720p)
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Relax",Stingray Naturescape (1080p)
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
+https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
+
+
+
+
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cosmote.gr.guide.xml,https://iptv-org.github.io/epg/guides/meo.pt.guide.xml,https://iptv-org.github.io/epg/guides/mi.tv.guide.xml,https://iptv-org.github.io/epg/guides/ontvtonight.com.guide.xml"
+#EXTINF:-1 tvg-id="1001Noites.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Portugal",1001 Noites (720p) https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Portugal",Anime Zone TV 
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV EMEA Live Event (720p)
+https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV Europe (720p)
+https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV Europe UHD (2160p)
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Portugal",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DisneyChannelPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Portugal",Disney Channel Portugal
+http://185.236.229.21:9981/play/a056
+#EXTINF:-1 tvg-id="DisneyJuniorPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Portugal",Disney Junior Portugal
+http://185.236.229.21:9981/play/a03q
+#EXTINF:-1 tvg-id="IgrejaOnline.pt" tvg-country="PT" tvg-language="" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Portugal",Igreja Online 
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1 tvg-id="KTO.fr" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Portugal",KTO 
+https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Portugal",Kuriakos Cine (1080p)
+http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Portugal",Kuriakos Kids (1080p)
+http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Portugal",Kuriakos Music (1080p)
+http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Portugal",Kuriakos TV (1080p)
+http://195.22.11.11:1935/ktv/ktv1/master.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Portugal",Kuriakos TV http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Portugal",Locomotion TV http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Portugal",MavTV Europe (720p)
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Portugal",NTV Europe (720p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Portugal",Porto Canal 
+https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Portugal",RTP1 
+http://162.212.178.69:41042/bysid/608
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="Portugal",RTP2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="Portugal",RTP3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="Portugal",RTP AÃ§ores 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="Portugal",RTP Africa 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Portugal",RTP Internacional 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="Portugal",RTP Madeira 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICInternacional.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",SIC Internacional (720p)
+http://live.impresa.pt/live/sicint/sicint.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",SIC Noticias 
+http://live.impresa.pt/live/sicnot/sicnot.m3u8
+#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Portugal",Sobrenatural TV (1080p)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Portugal",Sobrenatural TV (720p) 
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" group-title="Portugal",Sporting TV
+http://185.236.229.21:9981/play/a03r
+#EXTINF:-1 tvg-id="STVNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",STV Noticias (720p) 
+http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
+#EXTINF:-1 tvg-id="TVFatima.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Portugal",TV Fatima (1080p)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",TVI24 
+https://iptv-all.lanesh4d0w.codes/portugal/tvi24
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Portugal",TVI Reality 
+https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
+
+
+
+
