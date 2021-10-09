@@ -3060,7 +3060,7 @@ https://live.canalnueve.tv/canal.m3u8
 https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10MardelPlata.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Canal_10_Mar_del_Plata_%28Logo_2010%29.png" group-title="Argentina",Canal 10 Mar del Plata (720p) 
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Local",Canal 10 Rio Negro (720p) 
+#EXTINF:-1 tvg-id="Canal10RioNegro.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/PE2Gi3N.png" group-title="Argentina",Canal 10 Rio Negro (720p) 
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11LaRioja.ar" tvg-country="AR" tvg-language="" tvg-logo="http://www.fenix951.com.ar/nuevo_2013/a2017/assets/imgapp/logocanal.jpeg" group-title="Argentina",Canal 11 La Rioja (360p)
 http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
@@ -3087,7 +3087,7 @@ https://s8.stweb.tv/chacra/live/playlist.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:-1 tvg-id="CINEAR.ar" tvg-country="AR" tvg-language="" tvg-logo="https://www.totalmedios.com/img/noticias/2018/04/5ae3127f4ef2e__838x390.jpg" group-title="Argentina",CINE.AR (720p)
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Local",Ciudad TV Resistencia (Chaco) (720p)
+#EXTINF:-1 tvg-id="CiudadTVResistencia.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg" group-title="Argentina",Ciudad TV Resistencia (Chaco) (720p)
 http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CubaVisionInternacional.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="Argentina",CubaVision Internacional (480p)
 http://190.122.96.187:8888/http/010
@@ -3111,7 +3111,7 @@ https://live1.presstv.ir/live/hispan.m3u8
 http://45.32.74.87:81/hls/kanadetv.m3u8
 #EXTINF:-1 tvg-id="LivePeruTVStreaming.ar" tvg-country="AR;PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/liveperutv/picture?width=320&height=320" group-title="Argentina",Live PerÃº TV Streaming 
 http://209.126.108.55/app/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) 
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Argentina",Locomotion TV (480p) 
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="MediosRioja.ar" tvg-country="AR" tvg-language="" tvg-logo="" group-title="Argentina",Medios Rioja (864p) 
 http://streamyes.alsolnet.com/mediosrioja/live/playlist.m3u8
@@ -3763,7 +3763,7 @@ https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/in
 http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 #EXTINF:-1 tvg-id="Videonovara.it" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/AJAYgyN.png" group-title="Italy",Videonovara 
 https://sb.top-ix.org/avtv04/streaming/playlist.m3u8
-#EXTINF:-1 tvg-id="VideostarCanale193.it" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/kuisqG7.jpg" group-title="Italy",Videostar Canale 193 (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="VideostarCanale193.it" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/kuisqG7.jpg" group-title="Italy",Videostar Canale 193 
 https://5cbd3bc28341f.streamlock.net:444/videostar_live/videostar/playlist.m3u8
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-country="IT" tvg-language="" tvg-logo="" group-title="Italy",Virgin Radio TV 
 https://live2-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(ew)/index.m3u8
@@ -3773,7 +3773,6 @@ http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
 https://5db313b643fd8.streamlock.net/Vuemme/Vuemme/playlist.m3u8
 #EXTINF:-1 tvg-id="WineChannel.it" tvg-country="IT" tvg-language="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Generic_Live-TV_Blue.png?raw=true" group-title="Italy",Wine Channel (720p)
 http://212.43.97.35:1935/winechannel/winechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="YviiTVSicilia.it" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/NaEgFUJ.png" group-title="Italy",Yvii TV Sicilia (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="YviiTVSicilia.it" tvg-country="IT" tvg-language="" tvg-logo="https://i.imgur.com/NaEgFUJ.png" group-title="Italy",Yvii TV Sicilia (1080p) 
 https://yviistreamer.kernel.online/hls/yviitv.m3u8
-
 
