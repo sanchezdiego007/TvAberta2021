@@ -931,15 +931,6 @@ http://185.236.229.21:9981/play/a04w
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w25604577.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
-http://210.210.155.35/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport Fight
-http://210.210.155.35/session/8f8646f6-655f-11eb-b375-8eff9cd4058a/uq2663/h/h05/01.m3u8
-
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 2
-https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 3
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
 
@@ -1465,20 +1456,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
 
-#EXTINF:-1 tvg-id="TVMaticComedy.br" tvg-name="TVMatic Comedy" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Comedy
-http://cdn.tvmatic.net/comedy.m3u8
-#EXTINF:-1 tvg-id="TVMaticCrafts.br" tvg-name="TVMatic Crafts" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Crafts
-http://cdn.tvmatic.net/crafts.m3u8
-#EXTINF:-1 tvg-id="TVMaticFacebook.br" tvg-name="TVMatic Facebook" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Facebook
-http://cdn.tvmatic.net/facebook.m3u8
-#EXTINF:-1 tvg-id="TVMaticFight.br" tvg-name="TVMatic Fight" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Fight
-http://cdn.tvmatic.net/fight.m3u8
-#EXTINF:-1 tvg-id="TVMaticFunny.br" tvg-name="TVMatic Funny" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Funny
-http://cdn.tvmatic.net/funny.m3u8
-#EXTINF:-1 tvg-id="TVMaticSport.br" tvg-name="TVMatic Sport" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic Sport
-http://cdn.tvmatic.net/sport.m3u8
-#EXTINF:-1 tvg-id="TVMaticTikTok.br" tvg-name="TVMatic" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/l5PBcKN.png" group-title="TVMatic", TVMatic TikTok
-http://cdn.tvmatic.net/tiktok.m3u8
 
 
 
@@ -1490,9 +1467,6 @@ http://cdn.tvmatic.net/tiktok.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/efd461a88b37aee36e4b59b41f8225ec.jpg" group-title="Especial", Tv Corno
-https://stream.lives.srv.br/cornotv/cornotv/chunklist_w1015488706.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a664ce7a070ef00d578c0c3a1dbadea0.jpg" group-title="Especial", Hits Classic
 https://stmv1.srvif.com/ghtv/ghtv/chunklist_w333942727.m3u8
