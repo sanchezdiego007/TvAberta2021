@@ -236,11 +236,6 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1537275886_b2
 http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1258310726.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Infantil", Jetson tv
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.etsystatic.com/187/0/7295276/il_340x270.1330308333_hvmo.jpg" group-title="Infantil", Jetson tv 2
-https://stmv1.srvstm.com/jetsontv2/jetsontv2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/lETNNUshBgoeFbw91fzdulIernh.jpg" group-title="Brinde", Velozes Furiosos 9 Cinema
 https://www655.ff-02.com/token=j3_nqxXwH56o7hTnKesTjw/1623540836/187.95.0.0/170/0/50/dc79e74f49d73ae7761f206aa0694500-480p.mp4
 
