@@ -250,7 +250,7 @@ https://www1516.ff-04.com/token=hSy7LLD5fbKxP0yrOD_Fhg/1623541230/187.95.0.0/159
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Teste gratis
 https://video.wixstatic.com/video/205e54_a8a30c97d6b2464290a86189f9a971a0/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Canais 35.00
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Canais 15.00
 https://live-fe-as-04-12.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="Contato", Contato
@@ -492,6 +492,11 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
 
+
+
+
+#EXTINF:-1 tvg-logo="https://image.freepik.com/free-vector/live-logo-white_123447-474.jpg" group-title="Shows",Live Aovivo
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/604b91e0692f770007d9f33flivestitch/master.m3u8?advertisingId=&appName=web&appVersion=5.104.0-fc05a40ec3398e1c458e588d8a4e6a16e57579a5&app_name=web&clientDeviceType=0&clientID=edf4a3d2-f32f-4490-b735-5c8f1f05b4ac&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=edf4a3d2-f32f-4490-b735-5c8f1f05b4ac&deviceLat=-23.2909&deviceLon=-45.9743&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=94.0.4606&marketingRegion=BR&serverSideAds=true&sessionID=9129d704-2ba4-11ec-8560-0242ac110003&sid=9129d704-2ba4-11ec-8560-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjkyYzcyYzBjLThlY2MtNDU2Ni04M2E5LTVjYzZjMjBlODZjNSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI5MTI5ZDcwNC0yYmE0LTExZWMtODU2MC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ny45NS4xNi4xNDciLCJjaXR5IjoiSmFjYXJlw60iLCJwb3N0YWxDb2RlIjoiMTIzMDAiLCJjb3VudHJ5IjoiQlIiLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IkJSIiwiZGV2aWNlTGF0IjotMjMuMjkwOSwiZGV2aWNlTG9uIjotNDUuOTc0MywicHJlZmVycmVkTGFuZ3VhZ2UiOiJwdCIsImRldmljZVR5cGUiOiJ3ZWIiLCJkZXZpY2VWZXJzaW9uIjoiOTQuMC40NjA2IiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI1LjEwNC4wLWZjMDVhNDBlYzMzOThlMWM0NThlNTg4ZDhhNGU2YTE2ZTU3NTc5YTUiLCJjbGllbnRJRCI6ImVkZjRhM2QyLWYzMmYtNDQ5MC1iNzM1LTVjOGYxZjA1YjRhYyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL1Nhb19QYXVsbyIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2MzQxMDM0MzUsImp0aSI6IjRhYzk3N2UzLTI0ODYtNGMzZS1iY2Q3LWVjMTQyMGFkYjIzZiIsImlhdCI6MTYzNDA3NDYzNSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOkJSOlpXUm1OR0V6WkRJdFpqTXlaaTAwTkRrd0xXSTNNelV0TldNNFpqRm1NRFZpTkdGaiJ9.4nDjqjb9SvBgPuA85W3OxfbNEMRAEewMGpT6csHf2RM&masterJWTPassthrough=true&profilesFromStream=true
 
 #EXTINF:-1 tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=300,format=auto/coldplay-glastonbury/coldplay-glastonbury_200x300.jpg" group-title="Shows",ColdPlay
 https://play-akamai.pongalo.com/coldplay-glastonbury/coldplay-glastonbury_1-1/hls_2500.m3u8
