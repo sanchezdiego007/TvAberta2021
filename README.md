@@ -792,36 +792,44 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Sucessos 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Drama
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Suspense
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Ação
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Comedia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Terror
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Familia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Series
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Romance
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Series Retro
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Series Retro2
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
+#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Ação 2
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="Filmes Premium", Cine Nacional
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
+
+#EXTINF:-1 tvg- group-title="GEEK", Chaves
+https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 
 
@@ -835,11 +843,6 @@ https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 3
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
-
-https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8 chaves
-
-
-
 
 #EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 4
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
@@ -857,7 +860,7 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 9
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 10
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
@@ -886,19 +889,19 @@ https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 18
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="Filmes",Filmes 19
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="Filmes", Filmes 19
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 
-EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 20
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 20
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 
-EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 21
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 21
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8
 
-XTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 22
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 22
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
 
-XTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 23
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 23
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 
