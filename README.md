@@ -44,13 +44,13 @@ http://d1s664t39qub1o.cloudfront.net/live/cnt-manaus_240p414k/index.m3u8
 
 
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo 
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+http://45.226.83.14/live/RPCHD/720p.m3u8
 
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 1
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+http://45.226.83.14/live/RPCHD/720p.m3u8
 
 #EXTINF:-1 group-title="Globo" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 2
-http://105m3u8.epg-kc.com/v3/youshi/m2_bz2lc7s8PV3avHAgjnFxpM0w_480p.m3u8?session_id=ANjOB6VN1kU&app_ver=10101&auth_id=44641194_com.global.brasiltvweb&client_ip=187.95.16.133&user_id=44641194&app_id=com.global.brasiltvweb&dev_limit=1&main_addr=http://105m3u8.epg-kc.com/v3/youshi/&spared_addr=http://105m3u8.epg-kc.com/v3/youshi/&rst_status=0&dev_id=2419243c&expired=1622847279&token=8DC9AA40EE6C9847BC6AF8903673741F&media_code=m2_bz2lc7s8PV3avHAgjnFxpM0w_480p
+https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
 
 
 
