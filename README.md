@@ -500,6 +500,9 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-bandnews-tv-brazil-bandnews-fm-band-television-blue-text.png" group-title="Jornalismo",Band News
+http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
+
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="Abertos", Rede Brasil (SP)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
 
