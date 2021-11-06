@@ -103,7 +103,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-1 tvg-logo="https://www.tvcuatro.com/logo%201024.png" group-title="CANAIS: INTERNACIONAIS",TV Cuatro 4.1 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv4/smil:tv4.smil/chunklist_w185308522_b13128000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/cultura-01.png" group-title="CANAIS: INTERNACIONAIS",TV Cuatro 4.2 Guanajuato Mexico
+#EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/CANAIS: TV CULTURA-01.png" group-title="CANAIS: INTERNACIONAIS",TV Cuatro 4.2 Guanajuato Mexico
 https://5ca3e84a76d30.streamlock.net/tv42/smil:tv42.smil/chunklist_w1195027786_b13128000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvcuatro.com/images/deportes-02.png" group-title="CANAIS: INTERNACIONAIS",TV Cuatro 4.3 Guanajuato Mexico
@@ -157,10 +157,10 @@ https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1800.m3u8
 #EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/usa-flag-icon-png-2.png" group-title="CANAIS: INTERNACIONAIS",Davos HD USA
 https://liveproduseast.akamaized.net/btv/desktop/us_live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" group-title="Esportes",Red Bull 1 HD USA
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" group-title="CANAIS: CANAIS: ESPORTES",Red Bull 1 HD USA
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" group-title="Esportes",Red Bull 2 HD USA
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/red-bull-icon-png-2.png" group-title="CANAIS: ESPORTES",Red Bull 2 HD USA
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 #EXTINF:-1 tvg-logo="http://overtheair.saveandreplay.com/Images/TVW_Logo.png" group-title="CANAIS: INTERNACIONAIS",TVW Cable Channel HD Washington USA
@@ -367,34 +367,34 @@ http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND
+http://evpp.mm.uol.com.br:1935/geob_CANAIS: BAND/app/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 2
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND 2
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 3
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND 3
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="Band",Band 4
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND 4
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1575960143.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="RedeTV", REDETV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="CANAIS: REDETV", REDETV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="CANAIS: ABERTOS", TV Arapuan HD 
 https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="RedeTV", REDETV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetv.png" group-title="CANAIS: REDETV", REDETV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=7485000014348485000
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="RedeTV", REDETV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS: REDETV", REDETV
 https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_w597735163.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="RedeTV", REDETV
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS: REDETV", REDETV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
 
@@ -406,10 +406,10 @@ https://59f2354c05961.streamlock.net:1443/canaisforadoar/_definst_/canaisforadoa
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title=" TVGazeta", TV GAZETA 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title=" CANAIS: TVGAZETA", TV GAZETA 
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title=" TVGazeta", TV GAZETA 2
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/gazeta.png" group-title=" CANAIS: TVGAZETA", TV GAZETA 2
 http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 
 
@@ -500,8 +500,8 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-bandnews-tv-CANAIS: BRASIL 2-bandnews-fm-band-television-blue-text.png" group-title="CANAIS: JORNALISMO",Band News
-http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
+#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://w7.pngwing.com/pngs/20/425/png-transparent-CANAIS: BANDnews-tv-CANAIS: BRASIL 2-CANAIS: BANDnews-fm-CANAIS: BAND-television-blue-text.png" group-title="CANAIS: JORNALISMO",CANAIS: BAND News
+http://212.224.98.205:2200/BR/CANAIS: BAND_News_HD-br/index.m3u8?token=
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rbtv-logo-rede-brasil.png" group-title="CANAIS: ABERTOS", Rede Brasil (SP)
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8
@@ -526,16 +526,16 @@ https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Cultura", TV CULTURA
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-CANAIS: TV CULTURA_logo_2013.svg_.png" group-title="CANAIS: TV CULTURA", TV CANAIS: TV CULTURA
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Cultura", TV CULTURA 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-CANAIS: TV CULTURA_logo_2013.svg_.png" group-title="CANAIS: TV CULTURA", TV CANAIS: TV CULTURA 
 http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Cultura", TV CULTURA
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-CANAIS: TV CULTURA_logo_2013.svg_.png" group-title="CANAIS: TV CULTURA", TV CANAIS: TV CULTURA
+http://str.portalCANAIS: TV CULTURA.com.br/funtelpa/tv_funtelpa/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="Cultura", TV CULTURA 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-CANAIS: TV CULTURA_logo_2013.svg_.png" group-title="CANAIS: TV CULTURA", TV CANAIS: TV CULTURA 
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
 
 
@@ -838,73 +838,73 @@ https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w455411030.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 1 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 1 
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 2 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 2 
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 3
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 3
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8
 
-#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 4
+#EXTINF:0 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 4
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 5 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 5 
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 6
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 6
 https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w645826328.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 7
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 7
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 8
 https://stmv1.srvif.com/gospelf/gospelf/chunklist_w74712399.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 9
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 9
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 10
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 10
 https://srv2.zcast.com.br/cleto2085/cleto2085/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 11
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 11
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 12
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 12
 https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist_w1889706772.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 13
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 13
 https://srv2.zcast.com.br/tvtopsul/tvtopsul/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 14
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 14
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 15
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 15
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 16
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 16
 https://59f1cbe63db89.streamlock.net:1443/sertao/_definst_/sertao/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 17
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 17
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 18
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 18
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="Filmes", Filmes 19
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" tvg-shift="0" group-title="CANAIS: FILMES +", Filmes 19
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 20
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 20
 https://appletree-mytime-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 21
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 21
 https://runtimeCANAIS: BRASIL 2-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 22
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 22
 https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="Filmes", Filmes 23
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3cf68824cb3b05c75471e24c65a4d7c5.png" group-title="CANAIS: FILMES +", Filmes 23
 https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 
@@ -918,46 +918,46 @@ https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" tvg-shift="0" group-title="Series",Séries 14
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" tvg-shift="0" group-title="CANAIS: SERIES",Séries 14
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w472426507.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 2
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 2
 https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w120315536.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 3
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 3
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 4
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 4
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 5
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 5
 https://serv3.videovox.pw/alexandre4108/alexandre4108/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 6
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 6
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/palylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 7
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 7
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 8
 https://stmv1.srvstm.com/tvserie2/tvserie2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 9
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 9
 https://darkmatter-por-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 10
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 10
 http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w2101506280.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 11
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 11
 https://stmv1.srvstm.com/tvserie5/tvserie5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 12
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 12
 https://stmv3.samcast.com.br/marcosroberto5912/marcosroberto5912/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="Series",Series 13
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f121262a189a800076b9386/colorLogoPNG.png" group-title="CANAIS: SERIES",Series 13
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8
 
 
@@ -1019,16 +1019,16 @@ https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png?1628003207259" group-title="TVCine",TVCine Action 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png?1628003207259" group-title="CANAIS: TV CINE",TVCine Action 
 http://185.236.229.21:9981/play/a04n
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png?1628003149272" group-title="TVCine",TVCine Edition 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png?1628003149272" group-title="CANAIS: TV CINE",TVCine Edition 
 http://185.236.229.21:9981/play/a061
 
-#EXTINF:-1 "Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="TVCine",TVCine Emotion 
+#EXTINF:-1 "Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="CANAIS: TV CINE",TVCine Emotion 
 http://185.236.229.21:9981/play/a05z
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png?1628002994908" group-title="TVCine",TVCine Top 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png?1628002994908" group-title="CANAIS: TV CINE",TVCine Top 
 http://185.236.229.21:9981/play/a04w
 
 
@@ -1039,101 +1039,101 @@ http://185.236.229.21:9981/play/a04w
 
 
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="Esportes", All Sports
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-allsports.png" group-title="CANAIS: ESPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w25604577.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="Esportes", Sport 
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png" group-title="CANAIS: ESPORTES", Sport 
 https://video.wixstatic.com/video/205e54_214eaad76a334b1e81f1c1063c12eb01/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES", TNT Sports
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES", TNT Sports 2
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES", TNT Sports 3
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES", TNT Sports 4
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="Esportes", TNT Sports 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES", TNT Sports 5
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="Esportes",Dubai Racing
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/895c7ba6376e57efcfabcc14d291b339.jpg" group-title="CANAIS: ESPORTES",Dubai Racing
 https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
 
 #########################
 
-#EXTINF:-1 group-title="Sports 2", All Elite Wrestling HD (ESP)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", All Elite Wrestling HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="Sports 2", Bahrain Sport 1 (ARABE)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Bahrain Sport 1 (ARABE)
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Bellator MMA HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="Sports 2", Boxing HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Boxing HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="Sports 2", CR Arena Sport 1 HD (CRO)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", CR Arena Sport 1 HD (CRO)
 https://srv1.iptviliria.com/ArenaSport1/index.m3u8
  
-#EXTINF:-1 group-title="Sports 2", CR Arena Sport 3 HD (CRO)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", CR Arena Sport 3 HD (CRO)
 https://srv1.iptviliria.com/ArenaSport3/index.m3u8
  
-#EXTINF:-1 group-title="Sports 2", CR Arena Sport 4 HD (CRO)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", CR Arena Sport 4 HD (CRO)
 https://srv1.iptviliria.com/ArenaSport4/index.m3u8
 
-#EXTINF:-1 group-title="Sports 2", DeporTV HD (ESP)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", DeporTV HD (ESP)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Dubai Sport HD (ARABE)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Dubai Sport HD (ARABE)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="Sports 2", EDGEsport (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Eleven Sports HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Eleven Sports HD (ENG)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Fight TV HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Fight TV HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="Sports 2", Fox Sports HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Fox Sports HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Fuel TV HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Fuel TV HD (ENG)
 https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Horizon Sports HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Horizon Sports HD (ENG)
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Insight TV HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Insight TV HD (ENG)
 https://insight-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Introuble TV HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Introuble TV HD (ENG)
 https://introuble-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="Sports 2", Motorvision HD
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Sharjah Sports HD (ARABE)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Sharjah Sports HD (ARABE)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Sport Russia (RUS)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Sport Russia (RUS)
 http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Stadium HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Stadium HD (ENG)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 
-#EXTINF:-1 group-title="Sports 2", TYC Sports HD (ESP)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", TYC Sports HD (ESP)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 
-#EXTINF:-1 group-title="Sports 2", TVS Classic Sports (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
-#EXTINF:-1 group-title="Sports 2", Viasat Sport HD (ENG)
+#EXTINF:-1 group-title="CANAIS: SPORTS 2", Viasat Sport HD (ENG)
 http://persik.by/stream/2944/263250/10249.m3u8
 
 
@@ -1142,399 +1142,399 @@ http://persik.by/stream/2944/263250/10249.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 1 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 2 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 2 (1080p)
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 3 (1080p)
+#EXTINF:-1 tvg-id="AbuDhabiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 3 (1080p)
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AbuDhabiSports4.ae" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/164/5e3ad6cc72.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Abu Dhabi Sports 4 (1080p) [Geo-blocked]
 https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="CANAIS: ESPORTES INTER 1",ACC Network (720p)
+#EXTINF:-1 tvg-id="ACCNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/UHcFiHk.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ACC Network (720p)
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="CANAIS: ESPORTES INTER 1",Adventure Sports Network (720p)
+#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZbPFZOV.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Adventure Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wZk4nZI.png" group-title="CANAIS: ESPORTES INTER 1",Adventure Sports TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/wZk4nZI.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Adventure Sports TV (360p) [Not 24/7]
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
-#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-country="CY" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="CANAIS: ESPORTES INTER 1",Alfa Sport (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="AlfaSport.cy" tvg-country="CY" tvg-language="Modern Greek (1453-)" tvg-logo="https://i.imgur.com/Vq4YBIA.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Alfa Sport (1080p) [Not 24/7]
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
-#EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS: ESPORTES INTER 1",All Sports (720p)
+#EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="CANAIS: ESPORTES INTER 1",AntenaSport (720p)
+#EXTINF:-1 tvg-id="AntenaSport.ro" tvg-country="RO" tvg-language="Romanian" tvg-logo="https://i.imgur.com/UnkDhbr.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",AntenaSport (720p)
 https://stream1.antenaplay.ro/dfs/farasecrete5/playlist.m3u8
-#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="CANAIS: ESPORTES INTER 1",Arryadia (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Arryadia.ma" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/liFebM9.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Arryadia (360p) [Not 24/7]
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="CANAIS: ESPORTES INTER 1",ATG (432p)
+#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="CANAIS: ESPORTES INTER 1",ATG (432p)
+#EXTINF:-1 tvg-id="ATG.se" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="CANAIS: ESPORTES INTER 1",Bahrain Sports 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-country="BH" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pQ0QGGl.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Bahrain Sports 1 (720p) [Not 24/7]
 http://185.105.4.106:1935/live/Bahrain+Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="CANAIS: ESPORTES INTER 1",Bek Sports East (720p)
+#EXTINF:-1 tvg-id="BekSportsEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="CANAIS: ESPORTES INTER 1",Bek Sports West (720p)
+#EXTINF:-1 tvg-id="BekSportsWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Bek Sports West (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 tvg-id="BestCableSportsCANAIS: PERU.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="CANAIS: ESPORTES INTER 1",Best Cable Sports PerÃº (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BestCableSportsCANAIS: PERU.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/BestCableSportsCanal6/picture?width=320&height=320" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Best Cable Sports PerÃº (720p) [Not 24/7]
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 tvg-id="CanalMotor.no" tvg-country="NO" tvg-language="English" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="CANAIS: ESPORTES INTER 1",Canal Motor (720p)
+#EXTINF:-1 tvg-id="CanalMotor.no" tvg-country="NO" tvg-language="English" tvg-logo="https://i.imgur.com/BHm0wem.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="CaptitalOTBBetting.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="CANAIS: ESPORTES INTER 1",Captital OTB Betting (720p)
+#EXTINF:-1 tvg-id="CaptitalOTBBetting.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.capitalotb.com/wp-content/uploads/2019/09/COTB-Logo.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Captital OTB Betting (720p)
 https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CANAIS: ESPORTES INTER 1",CCTV-5ä½“è‚² (1080p)
+#EXTINF:-1 tvg-id="CCTV5.cn" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/33/CCTV-5_Logo.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",CCTV-5ä½“è‚² (1080p)
 http://39.134.39.39/PLTV/88888888/224/3221226224/index.m3u8
-#EXTINF:-1 tvg-id="ChannelFight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cruTxMF.png" group-title="CANAIS: ESPORTES INTER 1",Channel Fight (720p)
+#EXTINF:-1 tvg-id="ChannelFight.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cruTxMF.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Channel Fight (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68
-#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Claro Sports
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Claro Sports
 http://45.179.140.242:8000/play/a0ht
-#EXTINF:-1 tvg-id="CRTVyRadio.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",CR-TV y Radio (360p)
+#EXTINF:-1 tvg-id="CRTVyRadio.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",CR-TV y Radio (360p)
 https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
-#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="CANAIS: ESPORTES INTER 1",DD Sports (576p)
+#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="CANAIS: ESPORTES INTER 1",Dubai Racing 3 (1080p)
+#EXTINF:-1 tvg-id="DubaiRacing3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Dubai Racing 3 (1080p)
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="CANAIS: ESPORTES INTER 1",Dubai Sports 1 (1080p)
+#EXTINF:-1 tvg-id="DubaiSports1.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Dubai Sports 1 (1080p)
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Dubai Sports 2 (1080p)
+#EXTINF:-1 tvg-id="DubaiSports2.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Dubai Sports 2 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Dubai Sports 3 (1080p)
+#EXTINF:-1 tvg-id="DubaiSports3.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Dubai Sports 3 (1080p)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/6h10JDk.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/aAUbLhE.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (1080p)
 https://edgesports-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="CANAIS: ESPORTES INTER 1",EDGESport (1080p)
+#EXTINF:-1 tvg-id="EDGESport.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjhf/EdgeSport_400x400.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGESport (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="EDGEsportSTIRR.uk" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (STIRR) (1080p)
+#EXTINF:-1 tvg-id="EDGEsportSTIRR.uk" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/9661e155-c5b8-43f3-9e1c-0e87cb75ae94-small3x1_STIRR_Logo_0320_EdgeSport_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (STIRR) (1080p)
 https://dai.google.com/linear/hls/event/d4zeSI-dTuqizFrByjs3OA/master.m3u8
-#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="CANAIS: ESPORTES INTER 1",EDGEsport (US) (720p)
+#EXTINF:-1 tvg-id="EDGEsport.uk" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AjRCYwR.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",EDGEsport (US) (720p)
 https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="CANAIS: ESPORTES INTER 1",Esport3 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Esport3.es" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Esport3 (1080p) [Not 24/7]
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="ESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="CANAIS: ESPORTES INTER 1",ESTV (1080p)
+#EXTINF:-1 tvg-id="ESTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/B3oElWL.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ESTV (1080p)
 https://estv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="CANAIS: ESPORTES INTER 1",Fight Network (1080p)
+#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="FightBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="CANAIS: ESPORTES INTER 1",FightBox HD (480p)
+#EXTINF:-1 tvg-id="FightBoxHD.us" tvg-country="US" tvg-language="English" tvg-logo="https://i0.pngocean.com/files/812/462/345/filmbox-hd-high-definition-television-set-top-box-broadcasting-fightbox.jpg" user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148" group-title="CANAIS: CANAIS: ESPORTES INTER 1",FightBox HD (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 http://ott-cdn.ucom.am/s86/index.m3u8
-#EXTINF:-1 tvg-id="Fite.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21QWq2v0DGL.png" group-title="CANAIS: ESPORTES INTER 1",Fite (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Fite.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21QWq2v0DGL.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fite (720p) [Not 24/7]
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 tvg-id="FootballDailyXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VJyUVQ2.png" group-title="CANAIS: ESPORTES INTER 1",Football Daily (XUMO) (720p)
+#EXTINF:-1 tvg-id="FootballDailyXUMO.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/VJyUVQ2.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Football Daily (XUMO) (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-footballdaily/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Fox Sports 2 Asia (Thai) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fox Sports 2 Asia (Thai) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="CANAIS: ESPORTES INTER 1",Fox Sports 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fox Sports 2 Latin America (1080p)
 http://209.91.213.10:8088/play/a02r
-#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Fox Sports 3 Asia (Thai) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fox Sports 3 Asia (Thai) (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FoxSportsNewsAustralia.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="CANAIS: ESPORTES INTER 1",Fox Sports News Australia (720p)
+#EXTINF:-1 tvg-id="FoxSportsNewsAustralia.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/X491SzR.gif" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fox Sports News Australia (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 tvg-id="FoxSportsThailand.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Fox Sports Thailand (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="FoxSportsThailand.us" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports1.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fox Sports Thailand (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="FreeSports.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="CANAIS: ESPORTES INTER 1",FreeSports (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="FreeSports.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://images.stv.tv/player/master/595831-freesports.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",FreeSports (1080p) [Not 24/7]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="CANAIS: ESPORTES INTER 1",FTF (720p)
+#EXTINF:-1 tvg-id="FTF.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/IRWahfD.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",FTF (720p)
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cArIeKS.png" group-title="CANAIS: ESPORTES INTER 1",fubo Sports Network (720p)
+#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cArIeKS.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",fubo Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="CANAIS: ESPORTES INTER 1",Fuel TV (1080p)
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fuel TV (1080p)
 http://fueltv-fueltv-14-nl.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="CANAIS: ESPORTES INTER 1",Fuel TV [Geo-blocked]
+#EXTINF:-1 tvg-id="FuelTV.us" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/XboGSjX.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Fuel TV [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.7fueltv.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="CANAIS: ESPORTES INTER 1",Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Glory Kickboxing (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Golf Channel Thailand (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GolfChannelThailand.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-golf.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Golf Channel Thailand (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="grvty.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6065639a7ec4e2633f0c7d83" group-title="CANAIS: ESPORTES INTER 1",grvty (1080p)
+#EXTINF:-1 tvg-id="grvty.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6065639a7ec4e2633f0c7d83" group-title="CANAIS: CANAIS: ESPORTES INTER 1",grvty (1080p)
 https://d37j5jg7ob6kji.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzA3OTUzMjRf?inline=1" group-title="CANAIS: ESPORTES INTER 1",Hard Knocks (1080p)
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMzA3OTUzMjRf?inline=1" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Hard Knocks (1080p)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="CANAIS: ESPORTES INTER 1",Hard Knocks (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="HardKnocks.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjRf/HardKnocks_490x490.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-#EXTINF:-1 tvg-id="HorizonSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="CANAIS: ESPORTES INTER 1",Horizon Sports (720p)
+#EXTINF:-1 tvg-id="HorizonSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sjOIOkK.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Horizon Sports (720p)
 https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
-#EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/cUs7TFd.png" group-title="CANAIS: ESPORTES INTER 1",Ä°dman TV (576p)
+#EXTINF:-1 tvg-id="IdmanTV.az" tvg-country="AZ" tvg-language="Azerbaijani" tvg-logo="https://i.imgur.com/cUs7TFd.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ä°dman TV (576p)
 http://109.205.166.68/server124/idman_az/index.m3u8
-#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="CANAIS: ESPORTES INTER 1",IMPACT! Wrestling (1080p)
+#EXTINF:-1 tvg-id="IMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605e13c8d9eb3e1df47db303" group-title="CANAIS: CANAIS: ESPORTES INTER 1",IMPACT! Wrestling (1080p)
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="KSASports2.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",KSA Sports 2 (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KSASports2.sa" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",KSA Sports 2 (1080p) [Not 24/7]
 https://iptv-all.lanesh4d0w.codes/saudiarabia/ksasport2
-#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="CANAIS: ESPORTES INTER 1",KTV Sport (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTVSport.kw" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",KTV Sport (1080p) [Not 24/7]
 https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="CANAIS: ESPORTES INTER 1",Lax Sports Network TV (720p)
+#EXTINF:-1 tvg-id="LaxSportsNetworkTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Lax Sports Network TV (720p)
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:-1 tvg-id="LocalNowSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987" group-title="CANAIS: ESPORTES INTER 1",Local Now Sports (720p)
+#EXTINF:-1 tvg-id="LocalNowSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5ff5007140095248f263f987" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Local Now Sports (720p)
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6ZnRHoE.jpg" group-title="CANAIS: ESPORTES INTER 1",LSN (720p)
+#EXTINF:-1 tvg-id="LSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6ZnRHoE.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",LSN (720p)
 https://asermedia-lacrossesportsnetwork-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: ESPORTES INTER 1",MavTV (1080p)
+#EXTINF:-1 tvg-id="MavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",MavTV (1080p)
 https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: ESPORTES INTER 1",MavTV Europe (720p)
+#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",MavTV Europe (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="CANAIS: ESPORTES INTER 1",MMA Junkie (720p)
+#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",MMA Junkie (720p)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-id="MMATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/djGobJV.png" group-title="CANAIS: ESPORTES INTER 1",MMA TV (720p)
+#EXTINF:-1 tvg-id="MMATV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/djGobJV.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",MMA TV (720p)
 https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8
-#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="CANAIS: ESPORTES INTER 1",Monterrico TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Monterrico TV (1080p) [Not 24/7]
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Motorvision TV (720p)
+#EXTINF:-1 tvg-id="MotorvisionTV.de" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60817e1aa6997500072d0d6d/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Motorvision TV (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
-#EXTINF:-1 tvg-id="NBATV.us" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",NBA TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NBATV.us" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-nba.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",NBA TV (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NewCANAIS: JAPÃOProWrestlingWorld.jp" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_CANAIS: JAPÃO_Pro_Wrestling_Logo_2.svg/480px-New_CANAIS: JAPÃO_Pro_Wrestling_Logo_2.svg.png" group-title="CANAIS: ESPORTES INTER 1",New CANAIS: JAPÃO Pro Wrestling World (540p)
+#EXTINF:-1 tvg-id="NewCANAIS: JAPÃOProWrestlingWorld.jp" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_CANAIS: JAPÃO_Pro_Wrestling_Logo_2.svg/480px-New_CANAIS: JAPÃO_Pro_Wrestling_Logo_2.svg.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",New CANAIS: JAPÃO Pro Wrestling World (540p)
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/playlist_DVR.m3u8
-#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/sport/sport.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Nile TV Sport (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="NileTVSport.eg" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.niletc.tv/images/sport/sport.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Nile TV Sport (576p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 http://livestreaming5.onlinehorizons.net/hls-live/NTNNileSport/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="NitroCircus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="CANAIS: ESPORTES INTER 1",Nitro Circus (720p)
+#EXTINF:-1 tvg-id="NitroCircus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Nitro Circus (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="CANAIS: ESPORTES INTER 1",Oman Sports TV (1080p)
+#EXTINF:-1 tvg-id="OmanSportsTV.om" tvg-country="OM" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Oman Sports TV (1080p)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="CANAIS: ESPORTES INTER 1",One Golf (720p)
+#EXTINF:-1 tvg-id="OneGolf.pk" tvg-country="PK" tvg-language="" tvg-logo="https://i.imgur.com/CKnSeT7.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",One Golf (720p)
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="CANAIS: ESPORTES INTER 1",ORF Sport+ (540p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ORFSportPlus.at" tvg-country="AT" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/1200px-ORF_Sport%2B.svg.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ORF Sport+ (540p) [Geo-blocked]
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="CANAIS: ESPORTES INTER 1",Ovacion TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ovacion TV (720p) [Not 24/7]
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="CANAIS: ESPORTES INTER 1",OvaciÃ³n TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="OvacionTV.pe" tvg-country="PE;UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",OvaciÃ³n TV (720p) [Not 24/7]
 https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="CANAIS: ESPORTES INTER 1",Pac 12 Insider (1080p)
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pac 12 Insider (1080p)
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjdf/PAC12_720x720.png" group-title="CANAIS: ESPORTES INTER 1",Pac12 Insider (720p)
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjdf/PAC12_720x720.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pac12 Insider (720p)
 https://pac12-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="CANAIS: ESPORTES INTER 1",Players TV (1080p)
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Players TV (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="CANAIS: ESPORTES INTER 1",Players TV (1080p)
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/d3EaS41.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Players TV (1080p)
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="CANAIS: ESPORTES INTER 1",Players TV (1080p)
+#EXTINF:-1 tvg-id="PlayersTV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/31L4TjP.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Players TV (1080p)
 https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Action Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5db867744f229f0009266784&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=759&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Action Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVActionSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/5db867744f229f0009266784/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV All Elite Wrestling (240p)
+#EXTINF:-1 tvg-id="PlutoTVAllEliteWrestling.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5f4d1697f10a0e000798ed8d/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV All Elite Wrestling (240p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Auto Motor Sport (720p)
+#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Auto Motor Sport (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5f760c3d41aa2d0007bfde19&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=c676a4b5-65d2-474a-b477-c04f8b88e727&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Auto Motor Sport (720p)
+#EXTINF:-1 tvg-id="PlutoTVAutoMotorSport.us" tvg-country="US" tvg-language="German" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Auto Motor Sport (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f760c3d41aa2d0007bfde19/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVBellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Bellator MMA (720p)
+#EXTINF:-1 tvg-id="PlutoTVBellatorMMA.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Bellator MMA (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Boxing (720p)
+#EXTINF:-1 tvg-id="PlutoTVBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac425f949b4600079938f3/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Boxing (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Combate World (720p)
+#EXTINF:-1 tvg-id="PlutoTVCombateWorld.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5bb1ac3e268cae539bcedb07/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Combate World (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5bb1ac3e268cae539bcedb07&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=970&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Deportes (720p)
+#EXTINF:-1 tvg-id="PlutoTVDeportes.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Deportes (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVESR24/7.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV ESR 24/7 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVESR24/7.us" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5ca1e0ee50be2571e393ad33/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV ESR 24/7 (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVFight.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Fight (720p)
+#EXTINF:-1 tvg-id="PlutoTVFight.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5812b0f2237a6ff45d16c3f9/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Fight (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bda9fd87eb3a2717cce0&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5c2fb668-242f-4e7f-a025-087099fd0aca&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV FOX Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVFOXSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV FOX Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a74b8e1e22a61737979c6bf&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=705&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV FÃºtbol Para Fans (480p)
+#EXTINF:-1 tvg-id="PlutoTVFutbolParaFans.us" tvg-country="US" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV FÃºtbol Para Fans (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Glory Kickboxing (720p)
+#EXTINF:-1 tvg-id="PlutoTVGloryKickboxing.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Glory Kickboxing (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5417a212ff9fba68282fbf5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=736&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV IMPACT Wrestling (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVIMPACTWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/59b722526996084038c01e1b/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV IMPACT Wrestling (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=59b722526996084038c01e1b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=734&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV MLB (720p)
+#EXTINF:-1 tvg-id="PlutoTVMLB.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV MLB (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVMLS.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV MLS (720p)
+#EXTINF:-1 tvg-id="PlutoTVMLS.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV MLS (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceLat=45.4994&deviceLon=-73.5703&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=76.0.3809.132&serverSideAds=true&sid=d1634607-2892-447a-b316-17a106f905fb&userId=
-#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV NFL Channel (720p)
+#EXTINF:-1 tvg-id="PlutoTVNFLChannel.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5ced7d5df64be98e07ed47b6/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV NFL Channel (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ced7d5df64be98e07ed47b6&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=708&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVPGATOUR.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV PGA TOUR (720p)
+#EXTINF:-1 tvg-id="PlutoTVPGATOUR.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5de94dacb394a300099fa22a/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV PGA TOUR (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5de94dacb394a300099fa22a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=713&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVPlutoActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Pluto Action Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVPlutoActionSports.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Pluto Action Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5be1be871843b56328bc3ef1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=8a1b4593-8596-4ff8-8720-2c3271ea36ca&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Pro Wrestling (720p)
+#EXTINF:-1 tvg-id="PlutoTVProWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fac431fc1ffbc0007e6b6a7/colorLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Pro Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="PlutoTVSPORTBeINSportsXtra.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV SPORT : BeIN Sports Xtra (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=66.0.3515.44&includeExtendedEvents=false&serverSideAds=tr&sid=855d6801-c912-428d-b620-ede4dd0c3b15&userId=
-#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Sports (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220
-#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Sports (720p)
+#EXTINF:-1 tvg-id="PlutoTVSports.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Sports (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ad9bb941b95267e225e59c2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=b22749b0-ca0e-4663-8bb3-d83febbbb89f&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVSportsEngland.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Sports (England) (720p)
+#EXTINF:-1 tvg-id="PlutoTVSportsEngland.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/6081310e48d3200007afaf3b/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Sports (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d7677fa2ec536ce1d587eeb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=607&terminate=false&userId=
-#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Yoga (720p)
+#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="CH;FR" tvg-language="French" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Yoga (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60803e541a829e0008e91641/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fbb570-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ca55bef6-f2a6-488a-be5d-c7ba24d93cdd
-#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="CANAIS: ESPORTES INTER 1",Pluto TV Yoga (720p)
+#EXTINF:-1 tvg-id="PlutoTVYoga.us" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/60803e541a829e0008e91641/solidLogoPNG.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Pluto TV Yoga (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0d10e186bf0007e2b100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&terminate=false&userId=
-#EXTINF:-1 tvg-id="PokerTV.fr" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="CANAIS: ESPORTES INTER 1",Poker TV [Not 24/7]
+#EXTINF:-1 tvg-id="PokerTV.fr" tvg-country="IR" tvg-language="English" tvg-logo="https://i.imgur.com/l5fZQ3V.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Poker TV [Not 24/7]
 http://51.210.199.17/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="CANAIS: ESPORTES INTER 1",Red Bull TV (1080p)
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Red Bull TV (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q7pYaJR.png" group-title="CANAIS: ESPORTES INTER 1",Rede Globo RJ (720p)
+#EXTINF:-1 tvg-id="TVGloboRiodeJaneiro.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/q7pYaJR.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Rede Globo RJ (720p)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="CANAIS: ESPORTES INTER 1",Ring of Honor Wrestling (720p)
+#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ring of Honor Wrestling (720p)
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="SharjahSportsTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="CANAIS: ESPORTES INTER 1",Sharjah Sports TV (1080p)
+#EXTINF:-1 tvg-id="SharjahSportsTV.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SKITV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="CANAIS: ESPORTES INTER 1",SKI TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SKITV.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMjlf/SkiTV_400x400.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",SKI TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 tvg-id="SkiTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="CANAIS: ESPORTES INTER 1",Ski TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkiTV.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://content.weyyak.com/af0ecf95-8dc9-443d-9b4f-bc01eab7bd30/poster-image" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ski TV (1080p) [Not 24/7]
 https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsportshd.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports1.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 1 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports1.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports1.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 1 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports2.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 2 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports2.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 2 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports3.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 3 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports3.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 3 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports4.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 4 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports4.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports4.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 4 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports5.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 5 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports5.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports5.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 5 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SkyNetSports6.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",Sky Net Sports 6 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="SkyNetSports6.mm" tvg-country="TH" tvg-language="English" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/sd-skynetsports6.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sky Net Sports 6 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="CANAIS: ESPORTES INTER 1",Snowy Mountains Television (1082p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.snowy-mountains.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Snowy Mountains Television (1082p) [Geo-blocked]
 https://c.mjh.nz/snowy-mountains
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="CANAIS: ESPORTES INTER 1",Snowy Mountains Television (1082p) [Not 24/7]
+#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Snowy Mountains Television (1082p) [Not 24/7]
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="Sport1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="CANAIS: ESPORTES INTER 1",Sport 1 [Not 24/7]
+#EXTINF:-1 tvg-id="Sport1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/wBJI5Jw.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sport 1 [Not 24/7]
 https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 tvg-id="Sport2.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Sport 2 (720p)
+#EXTINF:-1 tvg-id="Sport2.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sport 2 (720p)
 http://93.152.174.144:4000/play/hotsport2/index.m3u8
-#EXTINF:-1 tvg-id="Sport3.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Sport 3 (1080p)
+#EXTINF:-1 tvg-id="Sport3.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sport 3 (1080p)
 http://93.152.174.144:4000/play/hotsport3/index.m3u8
-#EXTINF:-1 tvg-id="Sport4.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Sport 4 (1080p)
+#EXTINF:-1 tvg-id="Sport4.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sport 4 (1080p)
 http://93.152.174.144:4000/play/hotsport4/index.m3u8
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" group-title="CANAIS: ESPORTES INTER 1",Sporting TV
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sporting TV
 http://185.236.229.21:9981/play/a03r
-#EXTINF:-1 tvg-id="SportsChannel.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Sports Channel (720p)
+#EXTINF:-1 tvg-id="SportsChannel.il" tvg-country="IL" tvg-language="Hebrew" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sports Channel (720p)
 http://93.152.174.144:4000/play/s5plus/index.m3u8
-#EXTINF:-1 tvg-id="SportsTonight.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="CANAIS: ESPORTES INTER 1",Sports Tonight (576p)
+#EXTINF:-1 tvg-id="SportsTonight.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/Nh4LyPv.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sports Tonight (576p)
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="CANAIS: ESPORTES INTER 1",Sports TV Plus (1080p)
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZgFhOZ8.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sports TV Plus (1080p)
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="CANAIS: ESPORTES INTER 1",SportsGrid (1080p)
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/46gdAeg.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",SportsGrid (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="CANAIS: ESPORTES INTER 1",SportsGrid (1080p)
+#EXTINF:-1 tvg-id="SportsGrid.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTZf/SportsGrid_512x512.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SportskoolTV.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Sportskool TV (720p)
+#EXTINF:-1 tvg-id="SportskoolTV.us" tvg-country="US" tvg-language="English" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="CANAIS: ESPORTES INTER 1",Stadium (720p)
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Stadium (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
-#EXTINF:-1 tvg-id="STIRRMavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: ESPORTES INTER 1",STIRR MavTV (720p)
+#EXTINF:-1 tvg-id="STIRRMavTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",STIRR MavTV (720p)
 https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="CANAIS: ESPORTES INTER 1",STIRR Stadium (720p)
+#EXTINF:-1 tvg-id="STIRRStadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",STIRR Stadium (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="STIRRTennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: ESPORTES INTER 1",STIRR Tennis Channel (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="STIRRTennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",STIRR Tennis Channel (720p) [Geo-blocked]
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f.m3u8
-#EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="CANAIS: ESPORTES INTER 1",STIRR Whistle Sports (720p)
+#EXTINF:-1 tvg-id="STIRRWhistleSportsTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CNO8eQ7.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",STIRR Whistle Sports (720p)
 https://dai.google.com/linear/hls/event/Wu11mwhnTKGNhwZimEK6Jg/master.m3u8
-#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="CANAIS: ESPORTES INTER 1",Swiss Sport TV (720p)
+#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Swiss Sport TV (720p)
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CANAIS: ESPORTES INTER 1",TDM Sports Macau (720p)
+#EXTINF:-1 tvg-id="TDMSportsMacau.mo" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TDM Sports Macau (720p)
 http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: ESPORTES INTER 1",Tennis Channel (720p)
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Tennis Channel (720p)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TennisChannelPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: ESPORTES INTER 1",Tennis Channel+ 1 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TennisChannelPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Tennis Channel+ 1 (720p) [Geo-blocked]
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60.m3u8
-#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: ESPORTES INTER 1",Tennis Channel+ 2 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="TennisChannelPlus2.us" tvg-country="US" tvg-language="English" tvg-logo="https://ott-gateway.sinclairstoryline.com/optimized/90/17ec0fba-d4ec-4421-a665-c8dcab0f80ee-small3x1_TheTChannel.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Tennis Channel+ 2 (720p) [Geo-blocked]
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f.m3u8
-#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES INTER 1",TNT Sports 2 Brasil (720p)
+#EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TNT Sports 2 Brasil (720p)
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES INTER 1",TNT Sports 3 Brasil (720p)
+#EXTINF:-1 tvg-id="TNTSports3Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TNT Sports 3 Brasil (720p)
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES INTER 1",TNT Sports 4 Brasil (720p)
+#EXTINF:-1 tvg-id="TNTSports4Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TNT Sports 4 Brasil (720p)
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: ESPORTES INTER 1",TNT Sports 5 Brasil (720p)
+#EXTINF:-1 tvg-id="TNTSports5Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TNT Sports 5 Brasil (720p)
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceSportStarsAustralia.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Trace Sport Stars (Australia) (1080p)
+#EXTINF:-1 tvg-id="TraceSportStarsAustralia.fr" tvg-country="FR" tvg-language="" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Premier Football HD 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl1.png" user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Premier Football HD 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Premier Football HD 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TruePremierFootballHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl2.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Premier Football HD 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Premier Football HD 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TruePremierFootballHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl3.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Premier Football HD 3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Premier Football HD 4 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TruePremierFootballHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl4.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Premier Football HD 4 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Premier Football HD 5 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TruePremierFootballHD5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/doomovie-epl5.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Premier Football HD 5 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSport5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport 5 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSport5.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/c275f890-f972-11e9-a1fc-5dda12c8d080_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport 5 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSport7.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport 7 (480p Scaled) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSport7.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport 7 (480p Scaled) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSportHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport HD 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSportHD1.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/feddd690-f972-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport HD 1 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport HD 2 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSportHD2.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport HD 2 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport HD 3 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSportHD3.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport HD 3 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Sport HD 4 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueSportHD4.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Sport HD 4 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: ESPORTES INTER 1",True Tennis HD (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="TrueTennisHD.th" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-tennis.png" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36" group-title="CANAIS: CANAIS: ESPORTES INTER 1",True Tennis HD (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-country="TM" tvg-language="Turkmen" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="CANAIS: ESPORTES INTER 1",TÃ¼rkmenistan Sport (406p) [Not 24/7]
+#EXTINF:-1 tvg-id="TurkmenistanSport.tm" tvg-country="TM" tvg-language="Turkmen" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/sport.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TÃ¼rkmenistan Sport (406p) [Not 24/7]
 http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 tvg-id="TV2Sporten.no" tvg-country="NO" tvg-language="Norwegian BokmÃ¥l" tvg-logo="https://i.imgur.com/SCeh3KR.png" group-title="CANAIS: ESPORTES INTER 1",TV 2 Sporten (720p)
+#EXTINF:-1 tvg-id="TV2Sporten.no" tvg-country="NO" tvg-language="Norwegian BokmÃ¥l" tvg-logo="https://i.imgur.com/SCeh3KR.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TV 2 Sporten (720p)
 https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="CANAIS: ESPORTES INTER 1",TVRI Sport HD (480p)
+#EXTINF:-1 tvg-id="TVRISportHD.id" tvg-country="ID" tvg-language="Indonesian;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/320px-TVRILogo2019.svg.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVRI Sport HD (480p)
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="CANAIS: ESPORTES INTER 1",TVS Boxing (720p)
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Boxing (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="CANAIS: ESPORTES INTER 1",TVS Classic Sports (720p)
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Classic Sports (720p)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="CANAIS: ESPORTES INTER 1",TVS Sports (960p)
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Sports (960p)
 https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CANAIS: ESPORTES INTER 1",TVS Sports Bureau (720p)
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Sports Bureau (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="CANAIS: ESPORTES INTER 1",TVS Turbo (360p)
+#EXTINF:-1 tvg-id="TVSTurbo.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/RMewTGr.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Turbo (360p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="CANAIS: ESPORTES INTER 1",TVS Women Sports (480p)
+#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",TVS Women Sports (480p)
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="CANAIS: ESPORTES INTER 1",Unbeaten (1080p)
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Unbeaten (1080p)
 https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="KCKSLD8.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="CANAIS: ESPORTES INTER 1",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="KCKSLD8.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM5NTI2OTZf/TV25_360x360.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Untamed Sports TV (KCKS-LD8) (480p) [Not 24/7]
 https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
-#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="CANAIS: ESPORTES INTER 1",US SPORT Tennis Plus 1 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",US SPORT Tennis Plus 1 (720p) [Not 24/7]
 https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 tvg-id="Wired2Fish.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1769345cf61eb60b5893" group-title="CANAIS: ESPORTES INTER 1",Wired2Fish (720p)
+#EXTINF:-1 tvg-id="Wired2Fish.us" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1769345cf61eb60b5893" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Wired2Fish (720p)
 https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="CANAIS: ESPORTES INTER 1",World of Freesports (720p)
+#EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="CANAIS: ESPORTES INTER 1",World Poker Tour (1080p)
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="CANAIS: CANAIS: ESPORTES INTER 1",World Poker Tour (1080p)
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
-#EXTINF:-1 tvg-id="Yas.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="CANAIS: ESPORTES INTER 1",Yas (1080p)
+#EXTINF:-1 tvg-id="Yas.ae" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Yas (1080p)
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",ÐÑÑ‚Ñ€Ð°Ñ…Ð°Ð½ÑŒ.Ru Sport (1080p)
+#EXTINF:-1 tvg-id="AstrahanRuSport.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",ÐÑÑ‚Ñ€Ð°Ñ…Ð°Ð½ÑŒ.Ru Sport (1080p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
-#EXTINF:-1 tvg-id="Start.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="CANAIS: ESPORTES INTER 1",Ð¡Ñ‚Ð°Ñ€Ñ‚ (1080p)
+#EXTINF:-1 tvg-id="Start.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ð¡Ñ‚Ð°Ñ€Ñ‚ (1080p)
 https://strm.yandex.ru/kal/start/start0.m3u8
-#EXTINF:-1 tvg-id="Futbol1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="CANAIS: ESPORTES INTER 1",Ð¤ÑƒÑ‚Ð±Ð¾Ð» 1 [Not 24/7]
+#EXTINF:-1 tvg-id="Futbol1.ua" tvg-country="UA" tvg-language="Ukrainian" tvg-logo="https://i.imgur.com/J1VuYAB.png" group-title="CANAIS: CANAIS: ESPORTES INTER 1",Ð¤ÑƒÑ‚Ð±Ð¾Ð» 1 [Not 24/7]
 https://95-213-224-183.livesports24.online/uafootballua1.m3u8
 
 
@@ -1717,7 +1717,7 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/22415682640x360b2.jpg" group-title="CANAIS: VARIEDADES", TV Vila Velha
 https://cdn.jmvstream.com/w/LVW-8497/LVW8497_dapTBZ4cm4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_itararc3a9.png" group-title="CANAIS: ABERTOS", TV Itarara - Cultura (PB)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logotipo_da_tv_itararc3a9.png" group-title="CANAIS: ABERTOS", TV Itarara - CANAIS: TV CULTURA (PB)
 http://stream.tvitarare.com.br/hls/site/site.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfuro.png" group-title="CANAIS: ABERTOS", TV Futuro
@@ -1769,10 +1769,10 @@ https://srv4.zcast.com.br/idevaldo9317/idevaldo9317/playlist.m3u8
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1280px-terra_viva_logo.svg_.png" group-title="CANAIS: VARIEDADES",Terra Viva
-https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+https://evpp.mm.uol.com.br/CANAIS: BAND_live/terraviva/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/agro.png" group-title="CANAIS: VARIEDADES",Agro Mais
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_CANAIS: BAND/agromais/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/verdescampos.png" group-title="CANAIS: VARIEDADES", TV Verdes Campos SAT
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist.m3u8
@@ -1783,7 +1783,7 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/santacecilia.png" group-title="CANAIS: VARIEDADES",TV Santa Ceci­lia (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nova.png" group-title="CANAIS: ABERTOS", TV Nova Nordeste - Cultura (PE)
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nova.png" group-title="CANAIS: ABERTOS", TV Nova Nordeste - CANAIS: TV CULTURA (PE)
 http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvjornallimeira.png" group-title="CANAIS: VARIEDADES", TV Jornal - Limeira SP
@@ -1916,22 +1916,22 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b760007
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png?w=117" group-title="CANAIS: ESPECIAL",Fashion TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f516730b78b7600079294f5/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=479ed5eb-656c-11eb-9e0f-0242ac110002&sid=479ed5eb-656c-11eb-9e0f-0242ac110002&userId=
 
-#EXTINF:-1 group-title="Urban TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil
+#EXTINF:-1 group-title="CANAIS: URBAN TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil
 https://5ad482a77183d.streamlock.net/urbantvbrasilgmail.com/urbantvbrasilgmail.com/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="Urban TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil 2
+#EXTINF:-1 group-title="CANAIS: URBAN TV" tvg-logo="http://urbantv.com.br/logotipo.png",Urban TV Brasil 2
 https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-docs.png" group-title="Urban TV", Urban Docs
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-docs.png" group-title="CANAIS: URBAN TV", Urban Docs
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-movies.png" group-title="Urban TV", Cinema Urbano
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-movies.png" group-title="CANAIS: URBAN TV", Cinema Urbano
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="Urban TV", Urban Kids
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-kids.png" group-title="CANAIS: URBAN TV", Urban Kids
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-series.png" group-title="Urban TV", Urban Séries
+#EXTINF:-1 tvg-logo="http://urbantv.com.br/canais/urban-series.png" group-title="CANAIS: URBAN TV", Urban Séries
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8
 
 
@@ -1992,7 +1992,7 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/66/85/8a/66858a28798dfd6be649831c3c8005a8.png" group-title="CANAIS: MTV", CANAIS: MTV Black
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master_2400.m3u8
 
-#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="Vevo", Live Music 
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5873fc21cad696fb37aa9054/colorLogoPNG.png" group-title="CANAIS: VEVO", Live Music 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
 #EXTINF:0 channel-id="cmt-equal-play" tvg-logo="http://images.pluto.tv/channels/5f68f53eb1e5800007390bf8/colorLogoPNG.png" group-title="CANAIS: MTV", MTV USA
@@ -2013,31 +2013,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672
 
 
 
-#EXTINF:0 channel-id="vevo-reggaeton-and-trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="Vevo", Vevo Reggae & Trap
+#EXTINF:0 channel-id="vevo-reggaeton-and-trap" tvg-logo="http://images.pluto.tv/channels/5f32f397795b750007706448/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo Reggae & Trap
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-country" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="Vevo", Vevo Country
+#EXTINF:0 channel-id="vevo-country" tvg-logo="http://images.pluto.tv/channels/5da0d75e84830900098a1ea0/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo Country
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-randb" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="Vevo", Vevo R&B
+#EXTINF:0 channel-id="vevo-randb" tvg-logo="http://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo R&B
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-pop" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="Vevo", Vevo Pop
+#EXTINF:0 channel-id="vevo-pop" tvg-logo="http://images.pluto.tv/channels/5d93b635b43dd1a399b39eee/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo Pop
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-70s" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="Vevo", Vevo '70s
+#EXTINF:0 channel-id="vevo-70s" tvg-logo="http://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo '70s
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-80s" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="Vevo", Vevo '80s
+#EXTINF:0 channel-id="vevo-80s" tvg-logo="http://images.pluto.tv/channels/5fd7b8bf927e090007685853/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo '80s
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-90s" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Vevo", Vevo '90s
+#EXTINF:0 channel-id="vevo-90s" tvg-logo="http://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo '90s
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="vevo-2k" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="Vevo", Vevo 2K
+#EXTINF:0 channel-id="vevo-2k" tvg-logo="http://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/colorLogoPNG.png" group-title="CANAIS: VEVO", Vevo 2K
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
 
-#EXTINF:0 channel-id="classica" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="Vevo", Classica
+#EXTINF:0 channel-id="classica" tvg-logo="http://images.pluto.tv/channels/5f779951372da90007fd45e8/colorLogoPNG.png" group-title="CANAIS: VEVO", Classica
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
 
@@ -2291,7 +2291,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e00072
 #EXTINF:0 channel-id="tastemade-ptv1" tvg-logo="https://imgur.com/KowCnfD.png" group-title="CANAIS: PLUTO TV LATINO", Tastemade
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
 
-######################################## Desportes ####################################################################
+######################################## DCANAIS: ESPORTES ####################################################################
 
 #EXTINF:0 channel-id="pluto-tv-deportes" tvg-logo="https://imgur.com/b6MB9zh.png" group-title="CANAIS: PLUTO TV LATINO", Pluto TV Deportes
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
@@ -3442,8 +3442,8 @@ https://shout25.crossradio.com.br:18002/1;/stream/1
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/CSBjSqrVat.png" group-title="CANAIS: RADIOS FM",Jovem Pan News
 https://19293.live.streamtheworld.com/JP_NEWSAAC_SC
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZYctjmnfNE.jpeg" group-title="CANAIS: RADIOS FM",Cultura FM
-https://radiocultura.jmvstream.com/stream
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ZYctjmnfNE.jpeg" group-title="CANAIS: RADIOS FM",CANAIS: TV CULTURA FM
+https://radioCANAIS: TV CULTURA.jmvstream.com/stream
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/jjDPcKuDda.jpg" group-title="CANAIS: RADIOS FM",CBN
 https://medias.sgr.globo.com/hls/aCBNSP/aCBNSP.m3u8
@@ -3457,11 +3457,11 @@ https://streamer.radio.co/s493283a7e/listen
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/RBwQwGFWvT.png" group-title="CANAIS: RADIOS FM",Mix FM
 https://shout12.crossradio.com.br:18002/1;
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="CANAIS: RADIOS FM",Band News
-https://evpp.mm.uol.com.br/band/bandnewsfm_sp/chunklist_w451168700.m3u8
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/YjB73sNAHd.png" group-title="CANAIS: RADIOS FM",CANAIS: BAND News
+https://evpp.mm.uol.com.br/CANAIS: BAND/CANAIS: BANDnewsfm_sp/chunklist_w451168700.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/tvos_radios/nress4zqykfy.png" group-title="CANAIS: RADIOS FM",Nativa FM
-https://evpp.mm.uol.com.br/band/nativa_sp/media_w1968468529_58419.aac
+https://evpp.mm.uol.com.br/CANAIS: BAND/nativa_sp/media_w1968468529_58419.aac
 
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio117514_1567002514.png" group-title="CANAIS: RADIOS FM",Radio 1 News
 http://hts05.kshost.com.br:9428/stream?1613497409899
@@ -3729,47 +3729,47 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="Uruguay",AXN LatinoamÃ©rica (576p)
+#EXTINF:-1 tvg-id="AXNLatinoamerica.us" tvg-country="LATAM" tvg-language="English;Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-axn.png" group-title="CANAIS: URUGUAI",AXN LatinoamÃ©rica (576p)
 http://209.91.213.10:8088/play/a011
-#EXTINF:-1 tvg-id="canal10.uy" tvg-country="UY" tvg-language="Spanish;Castilian" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="Uruguay",Canal 10 (720p)
+#EXTINF:-1 tvg-id="canal10.uy" tvg-country="UY" tvg-language="Spanish;Castilian" tvg-logo="https://i.imgur.com/nmpOHwM.png" group-title="CANAIS: URUGUAI",Canal 10 (720p)
 https://edge3-hr.cvattv.com.ar/live/c5eds/Canal10_URU/verimatrix_rotating_FTA/Canal10_URU.m3u8
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="Uruguay",Canal 26 (720p)
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR;LATAM" tvg-language="Spanish" tvg-logo="http://1.bp.blogspot.com/-oaM5k7pbu3A/ULKcb6odA1I/AAAAAAAAXko/nmQ_WMr0c4k/s1600/canal26hd.png" group-title="CANAIS: URUGUAI",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
-#EXTINF:-1 tvg-id="CubaVisionCANAIS: INTERNACIONAIS.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="Uruguay",CubaVision CANAIS: INTERNACIONAIS (480p)
+#EXTINF:-1 tvg-id="CubaVisionCANAIS: INTERNACIONAIS.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="CANAIS: URUGUAI",CubaVision CANAIS: INTERNACIONAIS (480p)
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="Uruguay",DW EspaÃ±ol (1080p)
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="CANAIS: URUGUAI",DW EspaÃ±ol (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="Uruguay",El Garage TV (480p) 
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/cd0hP5e.png" group-title="CANAIS: URUGUAI",El Garage TV (480p) 
 http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
-#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="Uruguay",EWTN el Canal CatÃ³lico (1080p)
+#EXTINF:-1 tvg-id="EWTNelCanalCatolico.us" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/cl_ewtn_m.png" group-title="CANAIS: URUGUAI",EWTN el Canal CatÃ³lico (1080p)
 https://live-fd164e1.rmbl.ws/slot-21/ngrp:ajdj-xq6n_all/playlist.m3u8
-#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="Uruguay",Fox Sports 2 Latin America (1080p)
+#EXTINF:-1 tvg-id="FoxSports2LatinAmerica.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://www.img09.xyz/assets/img/ch_logo/hd-foxsports2.png" group-title="CANAIS: URUGUAI",Fox Sports 2 Latin America (1080p)
 http://209.91.213.10:8088/play/a02r
-#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="Uruguay",France 24 EspaÃ±ol (576p)
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-country="ES;LATAM" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="CANAIS: URUGUAI",France 24 EspaÃ±ol (576p)
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
-#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="Uruguay",HispanTV (480p)
+#EXTINF:-1 tvg-id="Hispantv.ir" tvg-country="IR;ES;LATAM" tvg-language="Spanish" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg" group-title="CANAIS: URUGUAI",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="Uruguay",Kanade TV (720p) 
+#EXTINF:-1 tvg-id="KanadeTV.cl" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/KdeTelevision/picture?width=300&height=300" group-title="CANAIS: URUGUAI",Kanade TV (720p) 
 http://45.32.74.87:81/hls/kanadetv.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Uruguay",Locomotion TV (480p) 
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="CANAIS: URUGUAI",Locomotion TV (480p) 
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="CANAIS: MTVHitsLatinoamerica.us" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="Uruguay",CANAIS: MTV Hits LatinoamÃ©rica (576p)
+#EXTINF:-1 tvg-id="CANAIS: MTVHitsLatinoamerica.us" tvg-country="LATAM" tvg-language="" tvg-logo="https://i.imgur.com/hwaLKuJ.png" group-title="CANAIS: URUGUAI",CANAIS: MTV Hits LatinoamÃ©rica (576p)
 http://209.91.213.10:8088/play/a00z
-#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Uruguay",Nuevo Tiempo (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="CANAIS: URUGUAI",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Ovacion.uy" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="Uruguay",Ovacion (720p) 
+#EXTINF:-1 tvg-id="Ovacion.uy" tvg-country="UY" tvg-language="Spanish" tvg-logo="https://ovacion.pe/sites/default/files/logo-ovacion.png" group-title="CANAIS: URUGUAI",Ovacion (720p) 
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="Uruguay",Project Boom
+#EXTINF:-1 tvg-id="" tvg-country="LATAM" tvg-language="Spanish;English" tvg-logo="" group-title="CANAIS: URUGUAI",Project Boom
 http://45.32.74.87:81/hls/projectboom.m3u8
-#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="LATAM;ES" tvg-language="Spanish" tvg-logo="" group-title="Uruguay",RT en EspaÃ±ol (1080p) 
+#EXTINF:-1 tvg-id="RTenEspanol.ru" tvg-country="LATAM;ES" tvg-language="Spanish" tvg-logo="" group-title="CANAIS: URUGUAI",RT en EspaÃ±ol (1080p) 
 https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Uruguay",Tastemade en EspaÃ±ol (1080p)
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="CANAIS: URUGUAI",Tastemade en EspaÃ±ol (1080p)
 https://tastemade-es8intl-roku.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-es8intl-roku/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="Uruguay",teleSUR (1080p)
+#EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="CANAIS: URUGUAI",teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="LATAM;ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="Uruguay",TVG AmÃ©rica (720p)
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-country="LATAM;ES" tvg-language="Galician" tvg-logo="https://i.imgur.com/1Z6svKc.jpg" group-title="CANAIS: URUGUAI",TVG AmÃ©rica (720p)
 https://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="Uruguay",UCL TV (720p)
+#EXTINF:-1 tvg-id="UCL.uy" tvg-country="UY;LATAM" tvg-language="Spanish" tvg-logo="https://uclplay.com/wp-content/uploads/2020/04/logo-horizontal-white-1.png" group-title="CANAIS: URUGUAI",UCL TV (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 
 
@@ -3779,121 +3779,121 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8
 
 
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tFks0c6.jpg" group-title="Relax",Adult Swim Off The Air (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/tFks0c6.jpg" group-title="CANAIS: RELAXAR",Adult Swim Off The Air (1080p) [Geo-blocked]
 https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="Relax",Better Life Nature Channel (480p)
+#EXTINF:-1 tvg-id="BetterLifeNatureChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/gmrVKEC.jpg" group-title="CANAIS: RELAXAR",Better Life Nature Channel (480p)
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="Relax",Bumblebee TV Animals Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVAnimalsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/YbD8uHc.png" group-title="CANAIS: RELAXAR",Bumblebee TV Animals Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="Relax",Bumblebee TV Aurora Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVAuroraLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1WIEWK7.png" group-title="CANAIS: RELAXAR",Bumblebee TV Aurora Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="Relax",Bumblebee TV Beaches Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVBeachesLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/4rIbV7e.png" group-title="CANAIS: RELAXAR",Bumblebee TV Beaches Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="Relax",Bumblebee TV Forest Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVForestLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/J84tZzN.png" group-title="CANAIS: RELAXAR",Bumblebee TV Forest Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="Relax",Bumblebee TV Lake Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVLakeLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xAkuMa4.png" group-title="CANAIS: RELAXAR",Bumblebee TV Lake Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="Relax",Bumblebee TV Mountain Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVMountainLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/2Ipv14J.png" group-title="CANAIS: RELAXAR",Bumblebee TV Mountain Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="Relax",Bumblebee TV Rivers Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVRiversLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ii2IDmA.png" group-title="CANAIS: RELAXAR",Bumblebee TV Rivers Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="Relax",Bumblebee TV Sunset Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVSunsetLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/K4GaruD.png" group-title="CANAIS: RELAXAR",Bumblebee TV Sunset Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="Relax",Bumblebee TV Tropics Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVTropicsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8F9qPbt.png" group-title="CANAIS: RELAXAR",Bumblebee TV Tropics Live (1080p)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
-#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="Relax",Bumblebee TV Waterfalls Live (1080p)
+#EXTINF:-1 tvg-id="BumblebeeTVWaterfallsLive.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/i43l93j.png" group-title="CANAIS: RELAXAR",Bumblebee TV Waterfalls Live (1080p)
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="Relax",Fireplace Lounge (720p)
+#EXTINF:-1 tvg-id="FireplaceLounge.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/1VZZCZU.jpg" group-title="CANAIS: RELAXAR",Fireplace Lounge (720p)
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-id="Fireside.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Relax",Fireside (720p)
+#EXTINF:-1 tvg-id="Fireside.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="CANAIS: RELAXAR",Fireside (720p)
 https://fireside.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fdd393a31300f16077a1692_fireside/playlist.m3u8
-#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L5JDAkh.png" group-title="Relax",Fish Tank (720p)
+#EXTINF:-1 tvg-id="FishTank.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/L5JDAkh.png" group-title="CANAIS: RELAXAR",Fish Tank (720p)
 https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="Relax",Island Escape (720p)
+#EXTINF:-1 tvg-id="IslandEscape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ZvF6Yin.png" group-title="CANAIS: RELAXAR",Island Escape (720p)
 https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6hIfTMC.jpg" group-title="Relax",Screen Dreams (720p)
+#EXTINF:-1 tvg-id="ScreenDreams.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/6hIfTMC.jpg" group-title="CANAIS: RELAXAR",Screen Dreams (720p)
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="Relax",Stingray Naturescape (1080p)
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/7XsqSSZ.png" group-title="CANAIS: RELAXAR",Stingray Naturescape (1080p)
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="Relax",Stingray Naturescape (1080p)
+#EXTINF:-1 tvg-id="StingrayNaturescape.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sw1LtJ4.png" group-title="CANAIS: RELAXAR",Stingray Naturescape (1080p)
 https://stingray-naturescape-1.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
 
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/cosmote.gr.guide.xml,https://iptv-org.github.io/epg/guides/meo.pt.guide.xml,https://iptv-org.github.io/epg/guides/mi.tv.guide.xml,https://iptv-org.github.io/epg/guides/ontvtonight.com.guide.xml"
-#EXTINF:-1 tvg-id="1001Noites.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Portugal",1001 Noites (720p) https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Portugal",Anime Zone TV 
+#EXTINF:-1 tvg-id="1001Noites.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="CANAIS: PORTUGAL",1001 Noites (720p) https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="CANAIS: PORTUGAL",Anime Zone TV 
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV EMEA Live Event (720p)
+#EXTINF:-1 tvg-id="BloombergTVEMEALiveEvent.us" tvg-country="EMEA" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="CANAIS: PORTUGAL",Bloomberg TV EMEA Live Event (720p)
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV Europe (720p)
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="CANAIS: PORTUGAL",Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Portugal",Bloomberg TV Europe UHD (2160p)
+#EXTINF:-1 tvg-id="BloombergTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="CANAIS: PORTUGAL",Bloomberg TV Europe UHD (2160p)
 https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="Portugal",CNN International Europe (720p)
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="CANAIS: PORTUGAL",CNN International Europe (720p)
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="Portugal",Disney Channel Portugal
+#EXTINF:-1 tvg-id="DisneyChannelPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/792px-Disney_Channel_logo_%282014%29.svg.png" group-title="CANAIS: PORTUGAL",Disney Channel Portugal
 http://185.236.229.21:9981/play/a056
-#EXTINF:-1 tvg-id="DisneyJuniorPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="Portugal",Disney Junior Portugal
+#EXTINF:-1 tvg-id="DisneyJuniorPortugal.es" tvg-country="PT" tvg-language="Portuguese;English" tvg-logo="" group-title="CANAIS: PORTUGAL",Disney Junior Portugal
 http://185.236.229.21:9981/play/a03q
-#EXTINF:-1 tvg-id="IgrejaOnline.pt" tvg-country="PT" tvg-language="" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="Portugal",Igreja Online 
+#EXTINF:-1 tvg-id="IgrejaOnline.pt" tvg-country="PT" tvg-language="" tvg-logo="http://www.igreja-online.tv/img/logo.png" group-title="CANAIS: PORTUGAL",Igreja Online 
 http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
-#EXTINF:-1 tvg-id="KTO.fr" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="Portugal",KTO 
+#EXTINF:-1 tvg-id="KTO.fr" tvg-country="FR;UK;PT;ES;DK;NL;BE;CH" tvg-language="French" tvg-logo="https://i.imgur.com/LvbXFUy.jpg" group-title="CANAIS: PORTUGAL",KTO 
 https://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="Portugal",Kuriakos Cine (1080p)
+#EXTINF:-1 tvg-id="KuriakosCine.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/CZViCwB.jpg" group-title="CANAIS: PORTUGAL",Kuriakos Cine (1080p)
 http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="Portugal",Kuriakos Kids (1080p)
+#EXTINF:-1 tvg-id="KuriakosKids.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/aNVzKYJ.png" group-title="CANAIS: PORTUGAL",Kuriakos Kids (1080p)
 http://c2.manasat.com:1935/kkids/kkids3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="Portugal",Kuriakos Music (1080p)
+#EXTINF:-1 tvg-id="KuriakosMusic.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" group-title="CANAIS: PORTUGAL",Kuriakos Music (1080p)
 http://c2.manasat.com:1935/kmusic/kmusic3/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="Portugal",Kuriakos TV (1080p)
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/M5i4hfh.png" group-title="CANAIS: PORTUGAL",Kuriakos TV (1080p)
 http://195.22.11.11:1935/ktv/ktv1/master.m3u8
-#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="Portugal",Kuriakos TV http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Portugal",Locomotion TV http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="Portugal",MavTV Europe (720p)
+#EXTINF:-1 tvg-id="KuriakosTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn.teleon.tv/logo/kuriakos_tv_pt.png" group-title="CANAIS: PORTUGAL",Kuriakos TV http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="LATAM;PT;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="CANAIS: PORTUGAL",Locomotion TV http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-id="MavTVEurope.us" tvg-country="EUR" tvg-language="English" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="CANAIS: PORTUGAL",MavTV Europe (720p)
 https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Portugal",NTV Europe (720p)
+#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="CANAIS: PORTUGAL",NTV Europe (720p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="Portugal",Porto Canal 
+#EXTINF:-1 tvg-id="PortoCanal.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logo_Porto_Canal.jpg" group-title="CANAIS: PORTUGAL",Porto Canal 
 https://streamer-a01.videos.sapo.pt/live/portocanal/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="Portugal",RTP1 
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/5-563718101410.png" group-title="CANAIS: PORTUGAL",RTP1 
 http://162.212.178.69:41042/bysid/608
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="Portugal",RTP2 
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/3-363718101410.png" group-title="CANAIS: PORTUGAL",RTP2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="Portugal",RTP3 
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/64-393818101410.png" group-title="CANAIS: PORTUGAL",RTP3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="Portugal",RTP AÃ§ores 
+#EXTINF:-1 tvg-id="RTPAcores.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/106-563419141305.png" group-title="CANAIS: PORTUGAL",RTP AÃ§ores 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="Portugal",RTP Africa 
+#EXTINF:-1 tvg-id="RTPAfrica.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/27-363219141305.png" group-title="CANAIS: PORTUGAL",RTP Africa 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPCANAIS: INTERNACIONAIS.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="Portugal",RTP CANAIS: INTERNACIONAIS 
+#EXTINF:-1 tvg-id="RTPCANAIS: INTERNACIONAIS.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/120-344318101410.png" group-title="CANAIS: PORTUGAL",RTP CANAIS: INTERNACIONAIS 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="Portugal",RTP Madeira 
+#EXTINF:-1 tvg-id="RTPMadeira.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/107-443519141305.png" group-title="CANAIS: PORTUGAL",RTP Madeira 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SICCANAIS: INTERNACIONAIS.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",SIC CANAIS: INTERNACIONAIS (720p)
+#EXTINF:-1 tvg-id="SICCANAIS: INTERNACIONAIS.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="CANAIS: PORTUGAL",SIC CANAIS: INTERNACIONAIS (720p)
 http://live.impresa.pt/live/sicint/sicint.m3u8
-#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",SIC Noticias 
+#EXTINF:-1 tvg-id="SICNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="CANAIS: PORTUGAL",SIC Noticias 
 http://live.impresa.pt/live/sicnot/sicnot.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Portugal",Sobrenatural TV (1080p)
+#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="CANAIS: PORTUGAL",Sobrenatural TV (1080p)
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
-#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="Portugal",Sobrenatural TV (720p) 
+#EXTINF:-1 tvg-id="SobrenaturalTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/VgzVZto.png" group-title="CANAIS: PORTUGAL",Sobrenatural TV (720p) 
 http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/playlist.m3u8
-#EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" group-title="Portugal",Sporting TV
+#EXTINF:-1 tvg-id="SportingTV.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://www.meo.pt/PublishingImages/canais/sporting-tv.png" group-title="CANAIS: PORTUGAL",Sporting TV
 http://185.236.229.21:9981/play/a03r
-#EXTINF:-1 tvg-id="STVNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",STV Noticias (720p) 
+#EXTINF:-1 tvg-id="STVNoticias.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="CANAIS: PORTUGAL",STV Noticias (720p) 
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8
-#EXTINF:-1 tvg-id="TVFatima.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="Portugal",TV Fatima (1080p)
+#EXTINF:-1 tvg-id="TVFatima.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hCFVc5S.jpg" group-title="CANAIS: PORTUGAL",TV Fatima (1080p)
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:-1 tvg-id="TVI24.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="Portugal",TVI24 
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-country="PT" tvg-language="Portuguese" tvg-logo="" group-title="CANAIS: PORTUGAL",TVI24 
 https://iptv-all.lanesh4d0w.codes/portugal/tvi24
-#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="Portugal",TVI Reality 
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-country="PT" tvg-language="" tvg-logo="" group-title="CANAIS: PORTUGAL",TVI Reality 
 https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-480p/chunks.m3u8
 
 
@@ -4349,7 +4349,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df6293a12e100070173
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Agromais.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://cdn.mitvstatic.com/channels/br_agromais-hd_m.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="CANAIS: BRASIL 2",Agromais (1080p) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_CANAIS: BAND/agromais/playlist.m3u8
 #EXTINF:-1 tvg-id="AllSports.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="CANAIS: BRASIL 2",All Sports (720p)
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimeTV.br" tvg-country="BR" tvg-language="CANAIS: JAPÃOese" tvg-logo="" group-title="CANAIS: BRASIL 2",Anime TV (360p)
@@ -4366,11 +4366,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4
 http://209.91.213.10:8088/play/a011
 #EXTINF:-1 tvg-id="Babyfirst.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS: BRASIL 2",Babyfirst (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="Band.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="CANAIS: BRASIL 2",Band (720p) 
+#EXTINF:-1 tvg-id="CANAIS: BAND.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://imgur.com/HnL2uBA.png" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0" group-title="CANAIS: BRASIL 2",CANAIS: BAND (720p) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RehSh6T.png" group-title="CANAIS: BRASIL 2",Bandnews [Geo-blocked]
-http://212.224.98.205:2200/BR/Band_News_HD-br/index.m3u8?token=
+https://evpp.mm.uol.com.br/geob_CANAIS: BAND/app/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAIS: BANDnews.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/RehSh6T.png" group-title="CANAIS: BRASIL 2",CANAIS: BANDnews [Geo-blocked]
+http://212.224.98.205:2200/BR/CANAIS: BAND_News_HD-br/index.m3u8?token=
 #EXTINF:-1 tvg-id="BetBeingMaryJane.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/60a8126a0ac3970007f850fe/colorLogoPNG.png" group-title="CANAIS: BRASIL 2",BET Being Mary Jane (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="BetPlutoTV.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG.png" group-title="CANAIS: BRASIL 2",BET Pluto TV (720p)
@@ -4403,9 +4403,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="CubaVisionCANAIS: INTERNACIONAIS.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="CANAIS: BRASIL 2",CubaVision CANAIS: INTERNACIONAIS (480p) 
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="CulturaPara.br" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="CANAIS: BRASIL 2",Cultura ParÃ¡ (480p) 
-http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
-#EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-country="BR" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/br_cultura_m.png" group-title="CANAIS: BRASIL 2",Cultura PR Catve (720p)
+#EXTINF:-1 tvg-id="CANAIS: TV CULTURAPara.br" tvg-country="BR" tvg-language="" tvg-logo="https://i.imgur.com/5jPEI5c.png" group-title="CANAIS: BRASIL 2",CANAIS: TV CULTURA ParÃ¡ (480p) 
+http://str.portalCANAIS: TV CULTURA.com.br/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1 tvg-id="TVCANAIS: TV CULTURANacional.br" tvg-country="BR" tvg-language="" tvg-logo="https://cdn.mitvstatic.com/channels/br_CANAIS: TV CULTURA_m.png" group-title="CANAIS: BRASIL 2",CANAIS: TV CULTURA PR Catve (720p)
 http://wowza4.catve.com.br:1935/live/livestream/media.m3u8
 #EXTINF:-1 tvg-id="DarkMatterTVCANAIS: BRASIL 2.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true" group-title="CANAIS: BRASIL 2",Dark Matter TV CANAIS: BRASIL 2 (720p)
 https://darkmatter-por-samsungCANAIS: BRASIL 2.amagi.tv/playlist.m3u8
@@ -4626,7 +4626,7 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="teleSUR.ve" tvg-country="LATAM" tvg-language="Spanish" tvg-logo="https://i.imgur.com/x5Mdzwv.png" group-title="CANAIS: BRASIL 2",teleSUR (1080p)
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/hBaG4Ce.png" group-title="CANAIS: BRASIL 2",Terra Viva (720p)
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+http://evpp.mm.uol.com.br:1935/CANAIS: BAND_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-id="ThePetCollective.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png" group-title="CANAIS: BRASIL 2",The Pet Collective (720p)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac01c0f00080e8439/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 #EXTINF:-1 tvg-id="TNTSports2Brasil.us" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dc/Logotipo_TNT_Sports.png" group-title="CANAIS: BRASIL 2",TNT Sports 2 Brasil (720p) 
@@ -4687,7 +4687,7 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGalegaBlumenau.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://ps.srvsite.com/arquivos/5757/cabecalho-5757-20190807171022.png" group-title="CANAIS: BRASIL 2",TV Galega Blumenau (720p) 
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="CANAIS: BRASIL 2",TV Gazeta (720p) 
+#EXTINF:-1 tvg-id="CANAIS: TVGAZETA.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/MAMGt7I.png" group-title="CANAIS: BRASIL 2",TV Gazeta (720p) 
 https://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
 #EXTINF:-1 tvg-id="TVGIDEOES.br" tvg-country="BR" tvg-language="" tvg-logo="" group-title="CANAIS: BRASIL 2",TV GIDEOES (720p) 
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
@@ -5343,7 +5343,7 @@ http://ivi.bupt.edu.cn/hls/btv5.m3u8
 http://ivi.bupt.edu.cn/hls/btv8.m3u8
 #EXTINF:-1 tvg-id="BeiPeiZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="CANAIS: CHINES",åŒ—ç¢šç»¼åˆ (576p)
 http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 tvg-id="BanDaoXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="CANAIS: CHINES",åŠå²›æ–°é—» (1080p)
+#EXTINF:-1 tvg-id="CANAIS: BANDaoXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="CANAIS: CHINES",åŠå²›æ–°é—» (1080p)
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="HuaTingDianShiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://5b0988e595225.cdn.sohucs.com/images/20181203/2813953209084182afb08496fd20e484.jpeg" group-title="CANAIS: CHINES",åŽäº­ç”µè§†å° (1080p)
 http://117.156.28.119/270000001111/1110000148/index.m3u8
@@ -6603,8 +6603,8 @@ https://live.obslivestream.com/crtvmux/index.m3u8
 https://srv1.mediastreamCANAIS: PERU.com:8081/creotv/index.m3u8
 #EXTINF:-1 tvg-id="CubaVisionCANAIS: INTERNACIONAIS.cu" tvg-country="CU;LATAM" tvg-language="Spanish" tvg-logo="https://www.tvcubana.icrt.cu/images/logos-canales/logo-mascara/cvi.jpg" group-title="CANAIS: PERU",CubaVision CANAIS: INTERNACIONAIS (480p) *
 http://190.122.96.187:8888/http/010
-#EXTINF:-1 tvg-id="Cultura24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CANAIS: PERU",Cultura 24 (720p)
-https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
+#EXTINF:-1 tvg-id="CANAIS: TV CULTURA24tv.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/2mSwwpH.png" group-title="CANAIS: PERU",CANAIS: TV CULTURA 24 (720p)
+https://vs8.live.opencaster.com/CANAIS: TV CULTURA24/smil:CANAIS: TV CULTURA24/playlist.m3u8
 #EXTINF:-1 tvg-id="DiarioHechiceraTumbes.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/diariohechicera/picture?width=320&height=320" group-title="CANAIS: PERU",Diario Hechicera (Tumbes) (720p) *
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8
 #EXTINF:-1 tvg-id="DMJ.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/1169958533100680/picture?width=320&height=320" group-title="CANAIS: PERU",DMJ (Cuzco) *
