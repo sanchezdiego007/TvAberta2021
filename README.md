@@ -60,21 +60,6 @@ https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/m
 
 
 
-#EXTINF:-1 group-title="CANAIS: ESPECIAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp",Rede Clone
-https://stmv2.voxtvhd.com.br/redeclonetv/redeclonetv/chunklist_w942049667.m3u8
-
-#EXTINF:-1 group-title="CANAIS: ESPECIAL" tvg-logo="https://s2.glbimg.com/TLD4BFyDnrTwCLQFjjuxB5AIcb8=/top/e.glbimg.com/og/ed/f/original/2020/12/07/loading1.jpg",Loading 2
-https://stmv2.vhcast.com/aetv/aetv/chunklist_w877876138.m3u8
-
-
-#EXTINF:-1 group-title="CANAIS: ESPECIAL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/330749dcc61ffa6816423d9d3452808e.webp",Tv Nova play
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1900735603.m3u8
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_CANAIS: ARGENTINO.png" group-title="CANAIS: INTERNACIONAIS",CANAL 26 HD ARG.1
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
@@ -283,6 +268,38 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/chunklist_w19566719
 #EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1907898900_b216000_sleng.m3u8
 
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT HD (SP)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT Interior HD (SP)
+https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzfQ/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT (RJ)
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT (AM)
+https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT (PI)
+http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png", SBT HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png"",SBT Rede Massa (1080p) .
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT TV Cidade Verde (1080p) .
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT TV Jornal Caruaru (720p)
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT TV Jornal Recife (720p)
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS: SBT" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png",SBT TV Serra Dourada (720p) .
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
 
 
 
@@ -297,23 +314,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99aad4e82db50007
 #EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="http://images.pluto.tv/channels/5f4fb4cf605ddf000748e16f/colorLogoPNG.png" group-title="CANAIS: INFANTIL",Babyfirst
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="BET TV" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/featuredImage.jpg" tvg-shift="0" group-title="CANAIS: ESPECIAL",BET Pluto TV 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="Loupe Arte+música" tvg-logo="https://images.pluto.tv/channels/600b248969c6580007e91a2d/featuredImage.jpg" tvg-shift="0" group-title="CANAIS: ESPECIAL",Loupe Arte+música
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="Nosey Casos" tvg-logo="https://images.pluto.tv/channels/5f9b096236af340008da3779/colorLogoPNG.png" tvg-shift="0" group-title="CANAIS: ESPECIAL",Nosey Casos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b096236af340008da3779/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
-
-#EXTINF:-1 tvg-id="" tvg-name="Nosey Escandalos" tvg-logo="https://images.pluto.tv/channels/5f9b05a99547eb0007676b02/featuredImage.jpg" tvg-shift="0" group-title="CANAIS: ESPECIAL",Nosey Escandalos
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-id="" tvg-name="O Reino CANAIS: INFANTIL" tvg-logo="http://images.pluto.tv/channels/5f5c216df68f920007888315/colorLogoPNG.png" group-title="CANAIS: INFANTIL",O Reino CANAIS: INFANTIL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5c216df68f920007888315/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Apresenta" tvg-logo="https://images.pluto.tv/channels/60072798dcf437000755b4f3/featuredImage.jpg?w=175&fm=jpg" tvg-shift="0" group-title="CANAIS: FILMES BR",Paramount +
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1213ba0ecebc00070e170f/colorLogoPNG.png" tvg-shift="0" group-title="CANAIS: DOCUMENTARIO",TV Natureza
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=&appName=web&appVersion=5.12.0-a87d76d6acd214757f3f9ce727615cd3be3397a8&app_name=web&clientDeviceType=0&clientID=5b87cee9-ab4d-48f4-8810-3829eb3074c0&clientModelNumber=na&deviceDNT=false&deviceId=5b87cee9-ab4d-48f4-8810-3829eb3074c0&deviceLat=-10.0000&deviceLon=-55.0000&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&marketingRegion=BR&serverSideAds=true&sessionID=8a39a6d4-419a-11eb-8528-0242ac110002&sid=8a39a6d4-419a-11eb-8528-0242ac110002&userId=
@@ -365,6 +369,35 @@ https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/master.m3u8
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV", RECORDTV
 http://tvconquistalrv.duckdns.org:8080/hls/aovivo.m3u8
 
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Belem HD..
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Brasilia HD..
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Goias HD..
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Itapoan HD..
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Manaus HD..
+https://playplusmao-lh.akamaihd.net/i/pp_mao@409195/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Minas HD..
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV Rio HD..
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV RS HD..
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAIS: RECORDTV",Record TV SP HD..
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND
@@ -378,6 +411,14 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w795633950.m3u8
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND",BAND 4
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1575960143.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND", Band HD (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/CANAIS: BAND.png" group-title="CANAIS: BAND", Band HD
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+
 
 
 
@@ -396,6 +437,15 @@ https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/chunklist_
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS: REDETV", REDETV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS: REDETV", REDETV (ES)
+https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvto.png" group-title="CANAIS: REDETV", REDETV (RS)
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/kpopsexy.png" group-title="CANAIS: MUSICA", Sexy KpopTV
@@ -454,9 +504,11 @@ https://play-akamai.pongalo.com/kanye-glastonbury/kanye-glastonbury_1-1/hls_1500
 
 
 
+#EXTINF:-1 group-title="CANAIS: JORNALISMO" tvg-logo="https://media.jovempan.com.br/uploads/2018/06/unnamed-500x500.png" ,Jovem Pan News HD
+https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index.m3u8
 
 
-#EXTINF:-1 group-title="CANAIS: JORNALISMO" tvg-logo="https://media.jovempan.com.br/uploads/2018/06/unnamed-500x500.png" ,JovemPan TV
+#EXTINF:-1 group-title="CANAIS: JORNALISMO" tvg-logo="https://media.jovempan.com.br/uploads/2018/06/unnamed-500x500.png" ,JovemPan 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
@@ -792,42 +844,36 @@ http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
 
 
+#EXTINF:-1 tvg-id="PlutoTVCineClassicos" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5fa1612a669ba0000702017b/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Classicos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineComedia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12101f0b12f00007844c7c/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Comedia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f1210d14ae1f80007bafb1d/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Drama (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f171f032cd22e0007f17f3d/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Familia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineRomance.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f171f988ab9780007fa95ea/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Romance (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineSucessos.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f120e94a5714d00074576a1/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Sucessos (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVCineTerror.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="CANAIS: FILMES BR",Cine Terror (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="PlutoTVComedia.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://images.pluto.tv/channels/6001f3018502100007f528ac/colorLogoPNG.png" group-title="CANAIS: FILMES BR",TV Comedia (720p)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6001f3018502100007f528ac/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Sucessos 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Drama
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Suspense
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Ação
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Comedia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Familia
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Romance
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Series Retro
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&app_name=web&clientDeviceType=0&clientID=e4e0805b-f299-4710-aa52-428f1235a74b&clientModelNumber=na&deviceDNT=false&deviceId=e4e0805b-f299-4710-aa52-428f1235a74b&deviceLat=-23.2930&deviceLon=-45.9705&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.104&marketingRegion=BR&serverSideAds=true&sessionID=df766d37-6561-11eb-a786-0242ac110002&sid=df766d37-6561-11eb-a786-0242ac110002&userId=
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Ação 2
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 tvg-logo="https://iguatemi.com.br/saopaulo/sites/saopaulo/files/styles/crop_380x270/public/logo-1360163271218.png?itok=_v8uYWK4" group-title="CANAIS: FILMES BR", Cine Nacional
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
 
@@ -909,7 +955,9 @@ https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="TELECINEACTION.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS: BRINDE",TELE CINE ACTION (720p)
+#EXTINF:-1 tvg-id="TELECINEACTION.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png" group-title="CANAIS: BRINDE", SONY HD
+http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8
 
 
 
@@ -1014,28 +1062,6 @@ https://stmv1.srvstm.com/wladimyr5849/wladimyr5849/chunklist_w475543811.m3u8
 
 #EXTINF:-1 group-title="CANAIS: ESPECIAL" tvg-logo="https://1.bp.blogspot.com/-8B8-He0Gv6w/YHCA2ZnA7tI/AAAAAAAAEhI/Xxf8NkCj0SwOoUDvmom4rSg3FGriV5BhwCLcBGAsYHQ/s0/WEB%2BTV%2BTGA.png",Web TV TGA
 https://5eaa6849d0971.streamlock.net/webtvtgatv/webtvtgatv/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/TVCine-ACTION.png?1628003207259" group-title="CANAIS: TV CINE",TVCine Action 
-http://185.236.229.21:9981/play/a04n
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/TVCine-EDITION.png?1628003149272" group-title="CANAIS: TV CINE",TVCine Edition 
-http://185.236.229.21:9981/play/a061
-
-#EXTINF:-1 "Portuguese;English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/TVCine-Emotion.png" group-title="CANAIS: TV CINE",TVCine Emotion 
-http://185.236.229.21:9981/play/a05z
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TVCine-TOP.png?1628002994908" group-title="CANAIS: TV CINE",TVCine Top 
-http://185.236.229.21:9981/play/a04w
-
-
-
-
-
-
 
 
 
