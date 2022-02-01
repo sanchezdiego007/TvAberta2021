@@ -1,5 +1,3 @@
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="CANAIS: GUIA DE CANAIS", CANAIS: GUIA DE CANAIS https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://1.bp.blogspot.com/-_a2zNMZm66g/Xsiq_kFfqRI/AAAAAAAABLQ/IJsWyTiWKK0oIx6zsdcpGQTO_jj-Av-3QCNcBGAsYHQ/s1600/1280-guia-tv-facil.png" group-title="CANAIS: GUIA DE CANAIS", Atualizar Canais https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
@@ -10,13 +8,16 @@
 
 #EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo http://45.226.83.14/live/RPCHD/720p.m3u8
 
-#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 1 http://s846397078.mialojamiento.es/7402/mp.php/https://gintna100.tulix.tv/gin_live/globo/3bbdf35c1dac85b769a2fb3a43ee10a0/61fa8a24/index.m3u8
+#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 1 
+http://s846397078.mialojamiento.es/7402/mp.php/https://gintna100.tulix.tv/gin_live/globo/3bbdf35c1dac85b769a2fb3a43ee10a0/61fa8a24/index.m3u8
 
-#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 2 https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
+#EXTINF:-1 group-title="CANAIS: GLOBO" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3b/Globo_RJ_(2014).png/revision/latest?cb=20180712021629" ,Globo HD 2 
+https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
 
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="CANAIS: CONTATO LISTA", Teste gratis https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="CANAIS: CONTATO LISTA", Canais 19.90 https://live-fe-as-04-12.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/info.png" group-title="CANAIS: CONTATO LISTA", Canais 19.90 
+https://live-fe-as-04-12.video.globo.com/d/nl/s/hls-globo-sjc/hls-globo-sjc_2359/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://tecnoblog.net/wp-content/uploads/2014/07/whatsapp-logo-700x446.png" group-title="CANAIS: CONTATO LISTA", 11 912929897 https://video.wixstatic.com/video/205e54_b685863420224c2a92d649cf8472c648/720p/mp4/file.mp4
 
@@ -1003,3 +1004,8 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 tvg-id="Yeeaah.br" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/TxdOyKS.png" group-title="CANAIS: ABERTOS",Yeeaah!  
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+
+
+
+
